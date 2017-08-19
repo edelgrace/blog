@@ -8,8 +8,8 @@ categories:
   - Books
 
 ---
-I&#8217;m in a weird place where I&#8217;m reading a lot but I&#8217;m unsure if I&#8217;m feeling depressed because I&#8217;m reading too much or I&#8217;m reading too much because I&#8217;m feeling depressed.
+I'm in a weird place where I'm reading a lot but I'm unsure if I'm feeling depressed because I'm reading too much or I'm reading too much because I'm feeling depressed.
 
-I&#8217;ve always thought of books as an escape. That sounds a little too negative but I enjoy experiencing a story that I would probably never experience myself. Lately I&#8217;ve gravitated to historical fiction because it&#8217;s just so different and unknown territory. But sometimes when I finish a book, I feel a little bit sad. Sometimes, I envy the characters for their exciting lives and feel worse about my own life.
+I've always thought of books as an escape. That sounds a little too negative but I enjoy experiencing a story that I would probably never experience myself. Lately I've gravitated to historical fiction because it's just so different and unknown territory. But sometimes when I finish a book, I feel a little bit sad. Sometimes, I envy the characters for their exciting lives and feel worse about my own life.
 
-At the same time, I read because my own life is boring. I&#8217;m not sure how to feel.
+At the same time, I read because my own life is boring. I'm not sure how to feel.

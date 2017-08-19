@@ -8,7 +8,7 @@ categories:
   - Books
 
 ---
-[The Art of Manliness][1] put out this list of books. I am not a man but we&#8217;ll see how I do with this list. Turns I&#8217;ve only read 8% of this list. Out of the books I want to read from this list, I&#8217;ve read 24%. Not any better, but hey. I&#8217;m really trying to cull the books I want to read though. I will never be able to read everything I want to read. 
+[The Art of Manliness][1] put out this list of books. I am not a man but we'll see how I do with this list. Turns I've only read 8% of this list. Out of the books I want to read from this list, I've read 24%. Not any better, but hey. I'm really trying to cull the books I want to read though. I will never be able to read everything I want to read. 
 
 **Bold**: On to-read list
   
@@ -216,7 +216,7 @@ With the Old Breed by Eugene Sledge
   
 Self-Control: Its Kingship and Majesty by William George Jordan
 
-<ol class="footnote">
-</ol>
+
+
 
  [1]: http://www.artofmanliness.com/

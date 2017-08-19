@@ -41,31 +41,31 @@ categories:
   </div>
 </div>
 
-I have a hard time reading textbooks. I can&#8217;t read blocks of text. Yes, regular old books are blocks of text but textbooks aren&#8217;t meant to be read the same way regular books are; they&#8217;re meant to be skimmed. Even so, I still have trouble. Maybe it&#8217;s only the university level textbooks that are causing me trouble. but that doesn&#8217;t mean they should be any less readable. <span id="more-236"></span>
+I have a hard time reading textbooks. I can't read blocks of text. Yes, regular old books are blocks of text but textbooks aren't meant to be read the same way regular books are; they're meant to be skimmed. Even so, I still have trouble. Maybe it's only the university level textbooks that are causing me trouble. but that doesn't mean they should be any less readable. <span id="more-236"></span>
 
 The focus of textbooks are not readability, unfortunately. However, there are some small things that textbooks can do to increase what readability they do have. These little points can also help with the readability for general typography, especially on the web.
 
 ### Headers, headers, headers
 
-Usually chapters are split into sections. For example chapter 4 would have sections 4.1, 4.2, 4.3, etc. That&#8217;s not enough for me. The &#8220;best&#8221; textbooks I&#8217;ve read further delve at least two more sub-sections than this. Ideally, I&#8217;d like to see one or two headers a page. Splitting text into chunks makes it easier to skim and easier on the eyes. Using different colours, reasonable margins, and heavier font weighting of the headers add even more to the readability.
+Usually chapters are split into sections. For example chapter 4 would have sections 4.1, 4.2, 4.3, etc. That's not enough for me. The "best" textbooks I've read further delve at least two more sub-sections than this. Ideally, I'd like to see one or two headers a page. Splitting text into chunks makes it easier to skim and easier on the eyes. Using different colours, reasonable margins, and heavier font weighting of the headers add even more to the readability.
 
 ### Lists
 
-I love lists. I love reading lists, I love making lists, and I learn well with lists. My notes are usually one huge list. Bullets are great for scanning. Soooo good for scanning. And when they&#8217;re combined with headers, it&#8217;s automatically a double combo.
+I love lists. I love reading lists, I love making lists, and I learn well with lists. My notes are usually one huge list. Bullets are great for scanning. Soooo good for scanning. And when they're combined with headers, it's automatically a double combo.
 
 ### Pictures
 
-This is a no brainer. I&#8217;m such a visual learner. I love pictures (if they&#8217;re useful). I like pictures in the side margins, in the middle of the page, anywhere as long as it gives my brain a break from all of that text!
+This is a no brainer. I'm such a visual learner. I love pictures (if they're useful). I like pictures in the side margins, in the middle of the page, anywhere as long as it gives my brain a break from all of that text!
 
 ### Bigger text and greater line-height
 
-I know textbook companies want to minimize the amount of money they spend making textbooks and that students want to spend less money on textbooks, but small fonts are so hard to read, especially when lines and lines of text are basically touching each other. If textbook companies did go this route, it might just force them to cut out all of the &#8220;fluff&#8221; and &#8220;fillers&#8221; in their textbooks. The less fluff, the better (unless you like fluff).
+I know textbook companies want to minimize the amount of money they spend making textbooks and that students want to spend less money on textbooks, but small fonts are so hard to read, especially when lines and lines of text are basically touching each other. If textbook companies did go this route, it might just force them to cut out all of the "fluff" and "fillers" in their textbooks. The less fluff, the better (unless you like fluff).
 
-Now these are just things that I myself would like to see in textbooks. There are some great textbooks out there, and &#8220;great&#8221; is subjective and in some cases, textbooks don&#8217;t need great readability. But the reality is, most textbook companies don&#8217;t care. They write textbook companies for the boards and their approval, not for the students. Such is life in a capitalistic society.
+Now these are just things that I myself would like to see in textbooks. There are some great textbooks out there, and "great" is subjective and in some cases, textbooks don't need great readability. But the reality is, most textbook companies don't care. They write textbook companies for the boards and their approval, not for the students. Such is life in a capitalistic society.
 
-**Photo:** [lethaargic @ Flickr][1]{.external}
+**Photo:** [lethaargic @ Flickr][1]
 
-<ol class="footnote">
-</ol>
+
+
 
  [1]: http://www.flickr.com/photos/lethaargic/

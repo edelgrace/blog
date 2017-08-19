@@ -9,7 +9,6 @@ categories:
   - Work
 
 ---
-&#8220;Thank you Doritos, bringing families together.&#8221;
+"Thank you Doritos, bringing families together."
 
-<ol class="footnote">
-</ol>
+

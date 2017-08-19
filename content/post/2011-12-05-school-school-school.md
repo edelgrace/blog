@@ -11,7 +11,7 @@ categories:
   - High School
 
 ---
-Band: It was really pretty this morning! Number one and two almost made me burst into tears.The trumpets can actually play really pretty! It made me happy. I&#8217;m so excited for the show, no joke. I can&#8217;t wait to watch it.
+Band: It was really pretty this morning! Number one and two almost made me burst into tears.The trumpets can actually play really pretty! It made me happy. I'm so excited for the show, no joke. I can't wait to watch it.
 
 Spare: Nothing to report.
 
@@ -23,5 +23,4 @@ Chem: Boring too.
 
 Band: Mario wants to do something with santa and give it to Mr Strem or Mr Reigel? I said yes even though I had no idea what he meant, lol. Sounds like a very nice plan, whatever it was. Strem suggested I should join marching band. HAH. Not happening, sorry Strem. As much as I would love it, no.
 
-<ol class="footnote">
-</ol>
+

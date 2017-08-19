@@ -24,5 +24,4 @@ root = ET.fromstring(string)
 tree = ET.parase(file)
 root = tree.getroot()</pre>
 
-<ol class="footnote">
-</ol>
+

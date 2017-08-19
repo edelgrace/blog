@@ -11,7 +11,6 @@ categories:
   - Internet
 
 ---
-Lady is so cute when she tries to guilt trip me into staying online longer, omg. If only she weren&#8217;t engaged. I&#8217;d love to have her all to myself.
+Lady is so cute when she tries to guilt trip me into staying online longer, omg. If only she weren't engaged. I'd love to have her all to myself.
 
-<ol class="footnote">
-</ol>
+

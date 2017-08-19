@@ -41,24 +41,24 @@ categories:
   </div>
 </div>
 
-They say that one of the easiest ways to lose weight is to keep track of what you&#8217;re eating. I&#8217;ve decided to apply this to my own life in order to lose some weight. I&#8217;m not talking about the physical kind of weight but the dead weight that everyone carries around and hinders them in some way. This blog, The Librarian Code, will help me to lose some of that dead weight.<span id="more-127"></span>
+They say that one of the easiest ways to lose weight is to keep track of what you're eating. I've decided to apply this to my own life in order to lose some weight. I'm not talking about the physical kind of weight but the dead weight that everyone carries around and hinders them in some way. This blog, The Librarian Code, will help me to lose some of that dead weight.<span id="more-127"></span>
 
-Currently, I&#8217;m an undergraduate at the University of Calgary, majoring in engineering. My hope is to get into software engineering in the fall. While at my university, the cut off GPA for software engineering is not high, I still want to be able to get good marks. So far, I&#8217;m a C+/B- student and I want that to change. I know it&#8217;s hard to get good marks in engineering. Despite that, after I finish with my degree and dabble in the video game industry (Ubisoft, here I come?), I want to go to the University of Alberta to pursue my MLIS (Masters of Library and Information Science) to become a &#8220;real librarian&#8221;. Grad school requires more than passing marks, of course. So yes, my marks and general &#8220;career&#8221; skills need to improve.
+Currently, I'm an undergraduate at the University of Calgary, majoring in engineering. My hope is to get into software engineering in the fall. While at my university, the cut off GPA for software engineering is not high, I still want to be able to get good marks. So far, I'm a C+/B- student and I want that to change. I know it's hard to get good marks in engineering. Despite that, after I finish with my degree and dabble in the video game industry (Ubisoft, here I come?), I want to go to the University of Alberta to pursue my MLIS (Masters of Library and Information Science) to become a "real librarian". Grad school requires more than passing marks, of course. So yes, my marks and general "career" skills need to improve.
 
-How exactly is blogging going to help with that? Well, let&#8217;s go back to the diet analogy. The thing about food diaries is that listing everything you eat forces you to reflect on your eating habits. As you point out your flaws to yourself, you (should) feel more motivated to change. As you do change and eat healthier, less, more, etc. you also keep track of your progress. Watching yourself get better (once again, should) give you more incentive to continue and more confidence in yourself. This is the same for The Librarian Code.
+How exactly is blogging going to help with that? Well, let's go back to the diet analogy. The thing about food diaries is that listing everything you eat forces you to reflect on your eating habits. As you point out your flaws to yourself, you (should) feel more motivated to change. As you do change and eat healthier, less, more, etc. you also keep track of your progress. Watching yourself get better (once again, should) give you more incentive to continue and more confidence in yourself. This is the same for The Librarian Code.
 
 That being said, there are four main things that I hope to accomplish with this blog:
 
   * To reflect more deeply on my university experiences, especially the content.
-  * To connect with fellow engineers and librarians, whether they be &#8220;in the making&#8221; like myself, or not.
+  * To connect with fellow engineers and librarians, whether they be "in the making" like myself, or not.
   * To keep in the loop with the engineering and library world.
   * To display my projects and learn more.
 
 Hopefully this will be as much of an adventure for you as it will be for me!
 
-**Photo:** [o5come @ Flickr][1]{.external}
+**Photo:** [o5come @ Flickr][1]
 
-<ol class="footnote">
-</ol>
+
+
 
  [1]: http://www.flickr.com/photos/o5com/

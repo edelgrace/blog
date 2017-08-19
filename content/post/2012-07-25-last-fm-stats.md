@@ -42,7 +42,7 @@ My Last.FM stats as of July 2012. I use Last.FM a lot, without my knowledge basi
   
 **Overall artists**
 
-  1. L&#8217;Arc~en~Ciel (12,247)
+  1. L'Arc~en~Ciel (12,247)
   2. DIR EN GREY (9,024)
   3. Versailles (3,919)
   4. Közi (3,508)
@@ -63,14 +63,14 @@ My Last.FM stats as of July 2012. I use Last.FM a lot, without my knowledge basi
   6. Björk (28)
   7. ViViD (24)
   8. Versailles (23)
-  9. L&#8217;Arc~en~Ciel (20)
+  9. L'Arc~en~Ciel (20)
  10. Utada Hikaru (19)
 
 **Overall tracks**
   
 This section is embarrassing. OTL
 
-  1. All Dead by L&#8217;Arc~en~Ciel (896)
+  1. All Dead by L'Arc~en~Ciel (896)
   2. Windress by Versailles (767)
   3. 我、闇とて･･･ by DIR EN GREY (728)
   4. Promenade by Közi (726)
@@ -229,7 +229,7 @@ This section is embarrassing. OTL
     </td>
     
     <td>
-      L&#8217;Arc~en~Ciel
+      L'Arc~en~Ciel
     </td>
     
     <td>
@@ -271,7 +271,7 @@ This section is embarrassing. OTL
     </td>
     
     <td>
-      L&#8217;Arc~en~Ciel
+      L'Arc~en~Ciel
     </td>
     
     <td>
@@ -285,7 +285,7 @@ This section is embarrassing. OTL
     </td>
     
     <td>
-      L&#8217;Arc~en~Ciel
+      L'Arc~en~Ciel
     </td>
     
     <td>
@@ -369,7 +369,7 @@ This section is embarrassing. OTL
     </td>
     
     <td>
-      L&#8217;Arc~en~Ciel
+      L'Arc~en~Ciel
     </td>
     
     <td>
@@ -383,7 +383,7 @@ This section is embarrassing. OTL
     </td>
     
     <td>
-      L&#8217;Arc~en~Ciel
+      L'Arc~en~Ciel
     </td>
     
     <td>
@@ -733,7 +733,7 @@ This section is embarrassing. OTL
     </td>
     
     <td>
-      L&#8217;Arc~en~Ciel
+      L'Arc~en~Ciel
     </td>
     
     <td>
@@ -901,7 +901,7 @@ This section is embarrassing. OTL
     </td>
     
     <td>
-      L&#8217;Arc~en~Ciel
+      L'Arc~en~Ciel
     </td>
     
     <td>
@@ -957,7 +957,7 @@ This section is embarrassing. OTL
     </td>
     
     <td>
-      L&#8217;Arc~en~Ciel
+      L'Arc~en~Ciel
     </td>
     
     <td>
@@ -1013,7 +1013,7 @@ This section is embarrassing. OTL
     </td>
     
     <td>
-      L&#8217;Arc~en~Ciel
+      L'Arc~en~Ciel
     </td>
     
     <td>
@@ -1055,7 +1055,7 @@ This section is embarrassing. OTL
     </td>
     
     <td>
-      L&#8217;Arc~en~Ciel
+      L'Arc~en~Ciel
     </td>
     
     <td>
@@ -1307,7 +1307,7 @@ This section is embarrassing. OTL
     </td>
     
     <td>
-      L&#8217;Arc~en~Ciel
+      L'Arc~en~Ciel
     </td>
     
     <td>
@@ -1447,11 +1447,11 @@ This section is embarrassing. OTL
     </td>
     
     <td>
-      L&#8217;Arc~en~Ciel
+      L'Arc~en~Ciel
     </td>
     
     <td>
-      Heaven&#8217;s Drive (Live @ Yoyogi)
+      Heaven's Drive (Live @ Yoyogi)
     </td>
   </tr>
   
@@ -1461,7 +1461,7 @@ This section is embarrassing. OTL
     </td>
     
     <td>
-      L&#8217;Arc~en~Ciel
+      L'Arc~en~Ciel
     </td>
     
     <td>
@@ -1610,5 +1610,4 @@ This section is embarrassing. OTL
   </tr>
 </table>
 
-<ol class="footnote">
-</ol>
+

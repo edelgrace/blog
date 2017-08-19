@@ -14,10 +14,10 @@ tags:
 
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"></a>
 
-<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week&#8217;s question is&#8230;
+<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
-> How do you handle negative comments left on your blog? Submitted by Maria @ [A Night&#8217;s Dream of Books][1]
+> How do you handle negative comments left on your blog? Submitted by Maria @ [A Night's Dream of Books][1]
 
-Thankfully, I haven&#8217;t encountered this problem before. 🙂 And if I have, obviously I must have handled it well because it didn&#8217;t make a lasting impression on me. I try not to take negative comments seriously. If it&#8217;s about my blog or the content I write, I don&#8217;t mind. I think I might not take personal negative comments very well, depending on the topic.
+Thankfully, I haven't encountered this problem before. 🙂 And if I have, obviously I must have handled it well because it didn't make a lasting impression on me. I try not to take negative comments seriously. If it's about my blog or the content I write, I don't mind. I think I might not take personal negative comments very well, depending on the topic.
 
  [1]: https://anightsdreamofbooks.blogspot.com/

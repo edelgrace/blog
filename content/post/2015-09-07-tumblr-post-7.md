@@ -23,8 +23,8 @@ tags:
 
 Some pictures of my diy planner, taken with a potato. I borrowed inspiration from diyfish inserts. Whenever I open it up, I can see my whole month and reoccurring tasks right in front of me. Unfolding the pages reveals my week. I’m the type who needs a general outline of my day, hour by hour. I can also see the next month, if I have to.
 
-<ol class="footnote">
-</ol>
+
+
 
  [1]: http://ift.tt/1WuOkm4
  [2]: http://ift.tt/1LgaXlw

@@ -10,7 +10,7 @@ tags:
   - FO
 
 ---
-On February 26 I finished my very first project! It&#8217;s only a simple dishcloth as I&#8217;m just starting out. I know the colours are kind of garish but I never thought I&#8217;d be using them together until I actually started working on it. I can see some of the mistakes I made, and there are many, but I am extremely happy with how it turned out and I had a lot of fun making it. Overall, it took me around four hours spread over a three days.
+On February 26 I finished my very first project! It's only a simple dishcloth as I'm just starting out. I know the colours are kind of garish but I never thought I'd be using them together until I actually started working on it. I can see some of the mistakes I made, and there are many, but I am extremely happy with how it turned out and I had a lot of fun making it. Overall, it took me around four hours spread over a three days.
 
 **Resources**
 

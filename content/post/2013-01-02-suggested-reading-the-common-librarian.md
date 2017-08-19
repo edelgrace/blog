@@ -41,7 +41,7 @@ categories:
   </div>
 </div>
 
-**Suggested Reading** is a weekly feature that runs every, you guessed it, Wednesday. In this feature, a website, blog, or article is showcased for further reading. One of the best things about the Internet is the ability to share. So why not take advantage of that and share some of my favourite things to read on the web? This week&#8217;s SR is a multimedia blog hosted on Tumblr, [The Common Librarian][1]. <span id="more-158"></span>
+**Suggested Reading** is a weekly feature that runs every, you guessed it, Wednesday. In this feature, a website, blog, or article is showcased for further reading. One of the best things about the Internet is the ability to share. So why not take advantage of that and share some of my favourite things to read on the web? This week's SR is a multimedia blog hosted on Tumblr, [The Common Librarian][1]. <span id="more-158"></span>
 
 **Straight from the blog:**
 
@@ -53,9 +53,9 @@ categories:
 > 
 > * May be an incredible understatement.
 
-I discovered this blog while browsing the &#8220;MLIS&#8221; tag on Tumblr. To be honest, I haven&#8217;t officially followed her on Tumblr until now but I subscribed to her RSS feed ages ago and have been reading her posts that way. The Common Librarian is a wonderful read on all things librarian. One of my favourite things about this blog is that it&#8217;s not all informative, but also quite personal. The multimedia posts, such as photos, videos, debates with other users, and links help with this (and they all relate to libraries and books!). While reading her blog, you can definitely tell that she has passion for what she does and that makes it enjoyable for the reader.
+I discovered this blog while browsing the "MLIS" tag on Tumblr. To be honest, I haven't officially followed her on Tumblr until now but I subscribed to her RSS feed ages ago and have been reading her posts that way. The Common Librarian is a wonderful read on all things librarian. One of my favourite things about this blog is that it's not all informative, but also quite personal. The multimedia posts, such as photos, videos, debates with other users, and links help with this (and they all relate to libraries and books!). While reading her blog, you can definitely tell that she has passion for what she does and that makes it enjoyable for the reader.
 
-If you&#8217;re looking for a nice personal blog about libraries, book, and general MLIS adventures, The Common Librarian might just be for you.
+If you're looking for a nice personal blog about libraries, book, and general MLIS adventures, The Common Librarian might just be for you.
 
 **EDIT:** I asked The Common Librarian a question on Tumblr and she replied to me. :)
 
@@ -63,7 +63,7 @@ If you&#8217;re looking for a nice personal blog about libraries, book, and gene
 
 > We are educators, information detectives, literacy advocates, fiction-pushers, knowledge protectors, eternal learners, public liaisons, budgeting wizards, managers, team-workers, magic facilitators, human search engines, nerds, geeks and readers. :)
 
-<ol class="footnote">
-</ol>
+
+
 
  [1]: http://thecommonlibrarian.tumblr.com/

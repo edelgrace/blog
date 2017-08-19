@@ -9,7 +9,7 @@ categories:
   - Writing
 
 ---
-Long weird sappy feelings. So much sap and cheese and this sounded better in my head because I kinda read it in a certain way. Man, I just don’t know. Also, for the love of gulay, the end of a line does not mean &#8220;pause.&#8221; Punctuation means &#8220;pause.&#8221; Yes, you’re supposed to run out of breath (I&#8217;m kinda slightly asthmatic though, so).
+Long weird sappy feelings. So much sap and cheese and this sounded better in my head because I kinda read it in a certain way. Man, I just don’t know. Also, for the love of gulay, the end of a line does not mean "pause." Punctuation means "pause." Yes, you’re supposed to run out of breath (I'm kinda slightly asthmatic though, so).
 
 i’m sorry,
   
@@ -103,5 +103,4 @@ i’m sorry.
   
 but let’s never text again.
 
-<ol class="footnote">
-</ol>
+

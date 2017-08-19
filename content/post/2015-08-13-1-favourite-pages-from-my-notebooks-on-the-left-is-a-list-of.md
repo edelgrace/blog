@@ -20,7 +20,7 @@ tags:
 
 On the left is a list of options courses I can pick from for my concentration and my schedule for the next two semesters. On the right is all of the course requirements for my degree and the courses I’m taking to fulfil them. I can’t believe I’m already halfway through my degree! Also, I love writing in monochrome. Boring, I know. 
 
-<ol class="footnote">
-</ol>
+
+
 
  [1]: http://ift.tt/1N6mU2K

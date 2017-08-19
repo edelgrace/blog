@@ -8,9 +8,8 @@ categories:
   - Internet
 
 ---
-I have a few layouts on my computer that I have to upload! Anyway, I should be doing homework. But it isn&#8217;t due until Wednesday. So I&#8217;ll do all of it tomorrow&#8230;
+I have a few layouts on my computer that I have to upload! Anyway, I should be doing homework. But it isn't due until Wednesday. So I'll do all of it tomorrow&#8230;
 
-This is an amazingly short post. Well, it&#8217;s better than nothing, right?
+This is an amazingly short post. Well, it's better than nothing, right?
 
-<ol class="footnote">
-</ol>
+

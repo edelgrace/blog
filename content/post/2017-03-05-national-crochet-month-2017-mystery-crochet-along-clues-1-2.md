@@ -11,6 +11,6 @@ tags:
   - NatCroMo2017
 
 ---
-The group []() on Ravelry are holding an MCAL (Mystery Crochet Along) which I am taking part of. The project is an amigurumi. I have never made an amigurumi before and this will be my first! It will be interesting seeing that I have no idea what the finished project will look like. These are the first two clues finished. I still need to start clue 3 and 4, I&#8217;m a little behind.
+The group []() on Ravelry are holding an MCAL (Mystery Crochet Along) which I am taking part of. The project is an amigurumi. I have never made an amigurumi before and this will be my first! It will be interesting seeing that I have no idea what the finished project will look like. These are the first two clues finished. I still need to start clue 3 and 4, I'm a little behind.
 
-I think it looks like a bird so far but that&#8217;s just me.
+I think it looks like a bird so far but that's just me.

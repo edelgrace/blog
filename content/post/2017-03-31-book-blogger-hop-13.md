@@ -14,10 +14,10 @@ tags:
 
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"></a>
 
-<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week&#8217;s question is&#8230;
+<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
-> Do you visit every listed blog in the linky list when you are participating in a meme? Submitted by Elizabeth @ [Silver&#8217;s Reviews][1]
+> Do you visit every listed blog in the linky list when you are participating in a meme? Submitted by Elizabeth @ [Silver's Reviews][1]
 
-I try to! But I don&#8217;t always manage to do so. I usually do my blog hopping on the train to/from work. I should probably put more effort into trying to visit everyone. I also don&#8217;t really check the linky past Friday, even though it&#8217;s a week long event.
+I try to! But I don't always manage to do so. I usually do my blog hopping on the train to/from work. I should probably put more effort into trying to visit everyone. I also don't really check the linky past Friday, even though it's a week long event.
 
  [1]: http://silversolara.blogspot.com/

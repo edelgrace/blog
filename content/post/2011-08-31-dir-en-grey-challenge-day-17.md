@@ -26,7 +26,7 @@ categories:
   - Music
 
 ---
-> **Listening to**: Hoshizora by L&#8217;Arc~en~Ciel
+> **Listening to**: Hoshizora by L'Arc~en~Ciel
   
 > **Fave song atm**: Blame it On the Girls by Mika
   
@@ -34,9 +34,8 @@ categories:
 
 **Favourite interview.**
 
-I don&#8217;t read interviews except for the ones that happen to appear on my Tumblr dashboard. I&#8217;ve seen a couple interviews on YouTube but most of them were outdated or boring.
+I don't read interviews except for the ones that happen to appear on my Tumblr dashboard. I've seen a couple interviews on YouTube but most of them were outdated or boring.
 
-The one I remember the most though is Toshiya talking about what Diru means to him. I can&#8217;t recall the details but it was clearly evident that he loves the band dearly. Something along the lines of &#8220;Dir en grey is my everything.&#8221;
+The one I remember the most though is Toshiya talking about what Diru means to him. I can't recall the details but it was clearly evident that he loves the band dearly. Something along the lines of "Dir en grey is my everything."
 
-<ol class="footnote">
-</ol>
+

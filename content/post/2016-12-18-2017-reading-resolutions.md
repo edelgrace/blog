@@ -8,23 +8,23 @@ categories:
   - Books
 
 ---
-This year I told myself I would read at least 25 books. It doesn&#8217;t seem like a lot but when you consider my reading history the past couple of years, that&#8217;s a big number.
+This year I told myself I would read at least 25 books. It doesn't seem like a lot but when you consider my reading history the past couple of years, that's a big number.
 
   * **2015**: 7 books + 3 graphic novels = 10 books
   * **2014**: 19 books + 20 graphic novels = 39 books
   * **2013**: 40 books + 30 graphic novels = 74 books
   * **2012**: 18 books
 
-As you can see, not great numbers. Each year I have been reading less and less. 2013 was a weird anomaly. So far this year of 2016 (there&#8217;s still like ten days left in the year&#8230;) I only managed to read 38 books, not including graphic novels. In total I&#8217;ve read about 84 books. So that&#8217;s still like 46 graphic novels that I&#8217;ve read. I really wanted my novel to graphic novel ratio to be greater than or equal to one. However, I still met my goal of 25 books. So kudos to me!
+As you can see, not great numbers. Each year I have been reading less and less. 2013 was a weird anomaly. So far this year of 2016 (there's still like ten days left in the year&#8230;) I only managed to read 38 books, not including graphic novels. In total I've read about 84 books. So that's still like 46 graphic novels that I've read. I really wanted my novel to graphic novel ratio to be greater than or equal to one. However, I still met my goal of 25 books. So kudos to me!
 
-This year I decided to opt for minimalism and not sign up for any reading challenges. To me, the most important thing is going through my to read list. If I even manage to make a small dent in the list, I&#8217;ll be happy.
+This year I decided to opt for minimalism and not sign up for any reading challenges. To me, the most important thing is going through my to read list. If I even manage to make a small dent in the list, I'll be happy.
 
 **Here are my 2017 reading resoltuions:**
 
   * Read a total of 60 books.
   * Read at least 30 non-graphic novels.
   * Read more novels than graphic novels.
-  * Don&#8217;t take out any books from the library that are not in my to read list.
+  * Don't take out any books from the library that are not in my to read list.
   * Read at least half of the books on my 25 books to read in 2017 list
 
 **Here is my 25 books to read in 2017 list (*=book was also on 2016 list):**
@@ -51,26 +51,26 @@ This year I decided to opt for minimalism and not sign up for any reading challe
  20. The Odyssey by Homer<sup class="footnote"><a href="#foot_ajs-fn-id_4-11360" id="back_ajs-fn-id_4-11360">4</a></sup>
  21. The Black Stallion by Walter Farley
  22. Little Women by Louisa May Alcott
- 23. I&#8217;m Not Her by Janet Gurther
+ 23. I'm Not Her by Janet Gurther
  24. Shiver by Maggie Stiefvater
  25. Lunch in Paris by Elizabeth Bard
 
-We&#8217;ll see how this goes!
+We'll see how this goes!
 
-<ol class="footnote">
+
   <li>
     <a id="foot_ajs-fn-id_1-11360"></a>I managed to read Emma so P&P should be no problem, right?&nbsp;&nbsp;<a class="ajs-back-link" href="#back_ajs-fn-id_1-11360"></a>
   </li>
   <li>
-    <a id="foot_ajs-fn-id_2-11360"></a>Because I&#8217;m a masochist, apparently&nbsp;&nbsp;<a class="ajs-back-link" href="#back_ajs-fn-id_2-11360"></a>
+    <a id="foot_ajs-fn-id_2-11360"></a>Because I'm a masochist, apparently&nbsp;&nbsp;<a class="ajs-back-link" href="#back_ajs-fn-id_2-11360"></a>
   </li>
   <li>
-    <a id="foot_ajs-fn-id_3-11360"></a>I&#8217;ve read this book before but I cannot for the life of me remember a single thing about it&nbsp;&nbsp;<a class="ajs-back-link" href="#back_ajs-fn-id_3-11360"></a>
+    <a id="foot_ajs-fn-id_3-11360"></a>I've read this book before but I cannot for the life of me remember a single thing about it&nbsp;&nbsp;<a class="ajs-back-link" href="#back_ajs-fn-id_3-11360"></a>
   </li>
   <li>
     <a id="foot_ajs-fn-id_4-11360"></a>Good luck, me&nbsp;&nbsp;<a class="ajs-back-link" href="#back_ajs-fn-id_4-11360"></a>
   </li>
-</ol>
+
 
 <div id="ajs-fn-id_1-11360" style="display:none;margin:0;" class="ajs-footnote-popup">
   <div>
@@ -80,13 +80,13 @@ We&#8217;ll see how this goes!
 
 <div id="ajs-fn-id_2-11360" style="display:none;margin:0;" class="ajs-footnote-popup">
   <div>
-    Because I&#8217;m a masochist, apparently
+    Because I'm a masochist, apparently
   </div>
 </div>
 
 <div id="ajs-fn-id_3-11360" style="display:none;margin:0;" class="ajs-footnote-popup">
   <div>
-    I&#8217;ve read this book before but I cannot for the life of me remember a single thing about it
+    I've read this book before but I cannot for the life of me remember a single thing about it
   </div>
 </div>
 

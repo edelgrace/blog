@@ -14,7 +14,7 @@ categories:
   <em><strong>Listening to</strong>: Boiled Frogs by Alexisonfire</em>
 </div>
 
-Today I watched the MMVAs for the first time in years. What is the MMVAs? Well, the acronym stands for Much Music Video Awards. It&#8217;s a music award show hosted ever year in Canada. I haven&#8217;t watched the MMVAs in five years but I was extremely bored and decided to turn on the TV for once.
+Today I watched the MMVAs for the first time in years. What is the MMVAs? Well, the acronym stands for Much Music Video Awards. It's a music award show hosted ever year in Canada. I haven't watched the MMVAs in five years but I was extremely bored and decided to turn on the TV for once.
 
 I endured two hours of obvious lip syncing and horrible disorganized award presenting (most going to Justin Bieber and Lady Gaga, of course) to see the second last act of the night. Who was this big act that captured my heart?
 
@@ -24,17 +24,17 @@ _Bruno Mars._
 
 Long before Mr Mars made it big, I was a fan of him. I saw a Michael Jackson tribute concert he did (I love Michael Jackson with every fibre of my being) and automatically swooned over his voice. Finding out that he is half Filipino was a good bonus as well.
 
-So, when I saw Bruno Mars singing on that Canadian stage, I swooned all over again. Something about him is just so classy and smooth. He seems like a real gentlemen actually, even when he&#8217;s performing. He was just singing into the mic with his suit on and that smile that just sent the crowd screaming. Needless to say, I was silently screaming inside.
+So, when I saw Bruno Mars singing on that Canadian stage, I swooned all over again. Something about him is just so classy and smooth. He seems like a real gentlemen actually, even when he's performing. He was just singing into the mic with his suit on and that smile that just sent the crowd screaming. Needless to say, I was silently screaming inside.
 
-Bruno Mars aside, I&#8217;ve been having cravings lately. Cravings for a social network called [Tumblr][1]{.external}. If you don&#8217;t have a Tumblr I recommend that you do not get one, unless you are extremely disciplined. Tumblr is highly addictive and yet it&#8217;s probably the most pointless forms of micro-blogging to have ever existed.
+Bruno Mars aside, I've been having cravings lately. Cravings for a social network called [Tumblr][1]. If you don't have a Tumblr I recommend that you do not get one, unless you are extremely disciplined. Tumblr is highly addictive and yet it's probably the most pointless forms of micro-blogging to have ever existed.
 
-On Tumblr, you create your own blog and can put whatever you want on it. Music, videos, photos, text, and whatever else. The only thing that separates Tumblr from most blogging sites is the sense of community. Once you follow someone, you can easily look at their posts, reply to it, like it, and reblog it onto your own blog. It&#8217;s that easy!
+On Tumblr, you create your own blog and can put whatever you want on it. Music, videos, photos, text, and whatever else. The only thing that separates Tumblr from most blogging sites is the sense of community. Once you follow someone, you can easily look at their posts, reply to it, like it, and reblog it onto your own blog. It's that easy!
 
-The reblogging feature can spread news, memes, and (sadly) rumours like wildfire. Because of this, I&#8217;m addicted to Tumblr. On Tumblr, I follow fellow people who are interested in Japanese culture. News about my favourite rock band or photos of my favourite Asian TV show is in no shortage there. It&#8217;s amazing what you can find there in terms of media and people.
+The reblogging feature can spread news, memes, and (sadly) rumours like wildfire. Because of this, I'm addicted to Tumblr. On Tumblr, I follow fellow people who are interested in Japanese culture. News about my favourite rock band or photos of my favourite Asian TV show is in no shortage there. It's amazing what you can find there in terms of media and people.
 
-However, like I said before, I am addicted. I go someone I trusted to change my password for me so I wouldn&#8217;t be tempted to log on during the summer. It&#8217;s a good idea but now I&#8217;m suffering from withdrawal. I thoroughly dislike being restrained, even if it&#8217;s for my own good!
+However, like I said before, I am addicted. I go someone I trusted to change my password for me so I wouldn't be tempted to log on during the summer. It's a good idea but now I'm suffering from withdrawal. I thoroughly dislike being restrained, even if it's for my own good!
 
-<ol class="footnote">
-</ol>
+
+
 
  [1]: http://tumblr.com

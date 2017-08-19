@@ -12,13 +12,13 @@ tags:
   - blogilates beginners calendar
 
 ---
-**Disclaimer:** This &#8220;review&#8221;/blog series is NOT sponsored in any way and all opinions are entirely of my own.
+**Disclaimer:** This "review"/blog series is NOT sponsored in any way and all opinions are entirely of my own.
 
 <a href="http://scattered.me/wp-content/uploads/2016/02/blogilates-beginners-calender-2.png" rel="attachment wp-att-11076"><img src="http://scattered.me/wp-content/uploads/2016/02/blogilates-beginners-calender-2-1024x806.png" alt="blogilates-beginners-calender-2" width="1024" height="806" class="alignnone size-large wp-image-11076" srcset="http://erzadel.net/blog/wp-content/uploads/2016/02/blogilates-beginners-calender-2-1024x806.png 1024w, http://erzadel.net/blog/wp-content/uploads/2016/02/blogilates-beginners-calender-2-300x236.png 300w, http://erzadel.net/blog/wp-content/uploads/2016/02/blogilates-beginners-calender-2-768x604.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>
 
 ### Day 15: Total Body
 
-My body issues seem to have improved, minus the random headaches. I tried my best to stay active and not give into my pain. I might have to go to the doctor tomorrow though, if it gets any worse. Both videos today contained moves that were not named so I&#8217;m not going to bother with going through each move.
+My body issues seem to have improved, minus the random headaches. I tried my best to stay active and not give into my pain. I might have to go to the doctor tomorrow though, if it gets any worse. Both videos today contained moves that were not named so I'm not going to bother with going through each move.
 
 ### Video 1: 5 Minute Ab Express
 
@@ -29,10 +29,9 @@ My body issues seem to have improved, minus the random headaches. I tried my bes
 
 ### Video 2: Feel Good Soul Stretches
 
-A lot of lunges in this stretching video. Not a fan of lunges. Also I have very bad balance. That isn&#8217;t a new development but I just wanted to confirm that nothing has changed, yet.
+A lot of lunges in this stretching video. Not a fan of lunges. Also I have very bad balance. That isn't a new development but I just wanted to confirm that nothing has changed, yet.
 
 <div class="flex-video">
 </div>
 
-<ol class="footnote">
-</ol>
+

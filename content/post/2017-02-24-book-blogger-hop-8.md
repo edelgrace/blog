@@ -14,12 +14,12 @@ tags:
 
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"></a>
 
-<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week&#8217;s question is&#8230;
+<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > How do you feel about books with multiple narrators? Submitted by Eli @ [The Book Supplier][1]
 
-I definitely don&#8217;t mind them nor do I have a preference towards them. My opinion isn&#8217;t fresh as I haven&#8217;t read a book with multiple narrators in a long time. The only ones that stand out in my mind are _Flipped_ by Wendelin Van Draanen and Jodi Picoult&#8217;s _Songs of the Humpback Whale_. The former was done pretty well and I enjoyed the he-said she-said style. The latter, however, got a tad too confusing with it&#8217;s multiple narrators although it did get me incredibly invested in the story.
+I definitely don't mind them nor do I have a preference towards them. My opinion isn't fresh as I haven't read a book with multiple narrators in a long time. The only ones that stand out in my mind are _Flipped_ by Wendelin Van Draanen and Jodi Picoult's _Songs of the Humpback Whale_. The former was done pretty well and I enjoyed the he-said she-said style. The latter, however, got a tad too confusing with it's multiple narrators although it did get me incredibly invested in the story.
 
-In summary, I don&#8217;t have any complaints as long as it does not detract from the overall reading experience. As long as I can remember who&#8217;s who, I can probably get through it.
+In summary, I don't have any complaints as long as it does not detract from the overall reading experience. As long as I can remember who's who, I can probably get through it.
 
  [1]: http://thebooksupplier.com/

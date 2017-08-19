@@ -42,19 +42,18 @@ categories:
   </p>
   
   <p>
-    This week&#8217;s question is: <strong>What’s the most unique character name you’ve come across?</strong>
+    This week's question is: <strong>What’s the most unique character name you’ve come across?</strong>
   </p>
   
   <p>
-    In the spin-off novel of the popular manga and anime series of Death Note, <em>Death Note: Another Note</em> by NISIOSIN, there are a whole load of crazy names. Beyond Birthday, Believe Bridesmaid, Quarter Queen, and Backyard Bottomslash are some of them. They are ridiculous yet unique. The names are mostly plot devices and because it&#8217;s an English translation, they needed to make up names that would make the story make sense in English. Still doesn&#8217;t take away from the fact that it&#8217;s ridiculous.
+    In the spin-off novel of the popular manga and anime series of Death Note, <em>Death Note: Another Note</em> by NISIOSIN, there are a whole load of crazy names. Beyond Birthday, Believe Bridesmaid, Quarter Queen, and Backyard Bottomslash are some of them. They are ridiculous yet unique. The names are mostly plot devices and because it's an English translation, they needed to make up names that would make the story make sense in English. Still doesn't take away from the fact that it's ridiculous.
   </p>
   
   <p>
-    If we&#8217;re talking about characters in general, there&#8217;s this one character from the video game series <em>Assassin&#8217;s Creed</em> who has the name Altair. It&#8217;s pronounced like &#8220;Al-tie-air&#8221; which is pretty cool. There&#8217;s also a character named Ezio. Cool names if you ask me.
+    If we're talking about characters in general, there's this one character from the video game series <em>Assassin's Creed</em> who has the name Altair. It's pronounced like "Al-tie-air" which is pretty cool. There's also a character named Ezio. Cool names if you ask me.
   </p>
 </div>
 
 <br style="clear:both;" />
 
-<ol class="footnote">
-</ol>
+

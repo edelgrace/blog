@@ -11,7 +11,6 @@ categories:
   - University
 
 ---
-Yesterday was U of C&#8217;s open house. It started at 10 in the morning. The family didn&#8217;t wake up until quarter to. And we didn&#8217;t leave the house until quarter to 12. When we got there, we stood awkwardly in the MacEwan Hall where all the booths were set up. The engineering booth was right in front of us and so we stood there reading the sign. And then out of nowhere, this guy comes and leans on the mini table. He looked like a beautiful Greek God, I am not even joking. All my questions were really half assed and I only wanted to talk to him.
+Yesterday was U of C's open house. It started at 10 in the morning. The family didn't wake up until quarter to. And we didn't leave the house until quarter to 12. When we got there, we stood awkwardly in the MacEwan Hall where all the booths were set up. The engineering booth was right in front of us and so we stood there reading the sign. And then out of nowhere, this guy comes and leans on the mini table. He looked like a beautiful Greek God, I am not even joking. All my questions were really half assed and I only wanted to talk to him.
 
-<ol class="footnote">
-</ol>
+

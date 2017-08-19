@@ -10,9 +10,9 @@ tags:
   - FO
 
 ---
-This next dishcloth I made was a simple green dishcloth with single crochets. What initially drew me to the pattern was that the texture of the dishcloth was very pretty. I was surprised to know that the variance in texture was simple due to changing which loop you inserted the hook in! While it isn&#8217;t completely perfect, by the time I finished this I felt a lot more confident in my single crochets.
+This next dishcloth I made was a simple green dishcloth with single crochets. What initially drew me to the pattern was that the texture of the dishcloth was very pretty. I was surprised to know that the variance in texture was simple due to changing which loop you inserted the hook in! While it isn't completely perfect, by the time I finished this I felt a lot more confident in my single crochets.
 
-The yarn I used here was Bernat Handicrafter in Hot Green. I used all of it up after making my previous dish cloth. So around 50 yards were used, I&#8217;m guessing.
+The yarn I used here was Bernat Handicrafter in Hot Green. I used all of it up after making my previous dish cloth. So around 50 yards were used, I'm guessing.
 
 [<img src="https://i0.wp.com/edelgrace.me/blog/wp-content/uploads/2017/03/wp-image-833356179jpg.jpg?resize=663%2C373" alt="" class="wp-image-332 alignnone size-full"  data-recalc-dims="1" />][1]
 

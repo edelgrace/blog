@@ -10,13 +10,13 @@ tags:
   - crochet haul
 
 ---
-I recently found out that there was a Michael&#8217;s near my workplace. Rookie mistake. After work, I walked over to the store. It&#8217;s a 20 minute walk in an area with absolutely no sidewalks. The snow hindered me a little bit but not enough to make me turn away!
+I recently found out that there was a Michael's near my workplace. Rookie mistake. After work, I walked over to the store. It's a 20 minute walk in an area with absolutely no sidewalks. The snow hindered me a little bit but not enough to make me turn away!
 
-Okay, this is actually my second Michael&#8217;s yarn trip but the first time, I didn&#8217;t buy a single thing. I just went to check out the place and see the different kinds of brands they had.
+Okay, this is actually my second Michael's yarn trip but the first time, I didn't buy a single thing. I just went to check out the place and see the different kinds of brands they had.
 
 This time, I knew I needed some yarn for the bag I was going make, my future scarf, and the MCAL for the month. Of course, I ended up buying a lot more yarn than I needed. I also got a free stitch counter and a discount coupon for my next visit. Which will be soon. >:)
 
-So here&#8217;s my haul:
+So here's my haul:
 
   * Loops & Threads Urban (Mustard, Rust, and Gray)
   * Loops & Threads Ring Spun (Blue, Purple, and Gray)

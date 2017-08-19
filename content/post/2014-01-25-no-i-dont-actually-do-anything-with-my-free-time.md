@@ -36,5 +36,4 @@ I had panic attacks going to work over the summer and I’m currently having pan
 
 But that makes me very nervous. How will I ever handle the stress of life after university if I can’t handle going to school (barely full time) and having a job at the same time??
 
-<ol class="footnote">
-</ol>
+

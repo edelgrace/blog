@@ -21,8 +21,8 @@ tags:
 
 I’m feeling super down for some reason right now and I can’t really pinpoint what it is. It feels like there’s a dark cloud looming over my head. I tried to make my notes look extra neat, neater than usual, as that usually helps me calm down whenever I do feel like this. However, this time it just numbed me. Then I got super sidetracked from my school work and here I am getting even more sidetracked. Does anyone have tips of this weird heavy and hazy feeling? Please inbox me!
 
-<ol class="footnote">
-</ol>
+
+
 
  [1]: http://ift.tt/1WuOkm4
  [2]: http://ift.tt/1Kf4Gpk

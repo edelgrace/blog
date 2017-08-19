@@ -10,7 +10,7 @@ tags:
   - CCNA
 
 ---
-I&#8217;m currently taking the CCNA1 course offered by Cisco. I struggled a lot with this activity so I thought it would be good to share how I finally figured it out. If you&#8217;re a little lazy and just want the answers, click [here][1] to go straight to the addressing table or [here][2] to download the PDF. Be aware that the addresses may vary but the process is the same regardless.
+I'm currently taking the CCNA1 course offered by Cisco. I struggled a lot with this activity so I thought it would be good to share how I finally figured it out. If you're a little lazy and just want the answers, click [here][1] to go straight to the addressing table or [here][2] to download the PDF. Be aware that the addresses may vary but the process is the same regardless.
 
 I am only human and will make mistakes so do not hesitate to point out any errors!
 
@@ -630,7 +630,7 @@ Complete the Subnet Table, listing the subnet descriptions (e.g. ASW-1 LAN), num
 
 ### <a name="3"></a>Part 3: Assign IP Addresses to Devices and Verify Connectivity
 
-Now it&#8217;s just a matter of plugging in values into Packet Tracer if you haven&#8217;t already.
+Now it's just a matter of plugging in values into Packet Tracer if you haven't already.
 
 ### <a name="answers"></a>Addressing Table
 
@@ -659,8 +659,8 @@ Now it&#8217;s just a matter of plugging in values into Packet Tracer if you hav
 | User-3 | NIC            | 192.168.72.94   | 255.255.255.224 | 192.168.72.65   |
 | User-4 | NIC            | 192.168.72.62   | 255.255.255.192 | 192.168.72.1    |
 
-<ol class="footnote">
-</ol>
+
+
 
  [1]: #answers
  [2]: http://scattered.me/wp-content/uploads/2016/06/8.2.1.4-Packet-Tracer-Designing-and-Implementing-a-VLSM-Addressing-Scheme.pdf

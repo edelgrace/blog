@@ -9,7 +9,6 @@ categories:
   - High School
 
 ---
-Merry Christmas, guys!! I hope all of you have an amazing Christmas! I&#8217;m getting an iPod Touch FTW! I&#8217;m excited. Anyway, I&#8217;m on my brother&#8217;s new PSP! It&#8217;s kinda hard to type on this thing&#8230; >_< Soooo my birthday is coming up! I am also excited for that! sorry for the short post... Everyone have a good day! =] 
+Merry Christmas, guys!! I hope all of you have an amazing Christmas! I'm getting an iPod Touch FTW! I'm excited. Anyway, I'm on my brother's new PSP! It's kinda hard to type on this thing&#8230; >_< Soooo my birthday is coming up! I am also excited for that! sorry for the short post... Everyone have a good day! =] 
 
-<ol class="footnote">
-</ol>
+

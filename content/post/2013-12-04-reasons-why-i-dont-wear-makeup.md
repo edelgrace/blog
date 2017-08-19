@@ -8,12 +8,11 @@ categories:
   - Life
 
 ---
-  * I&#8217;m lazy.
-  * It&#8217;s expensive.
-  * Out of the three times I&#8217;ve worn makeup in my life, I felt more self conscious with makeup than without.
+  * I'm lazy.
+  * It's expensive.
+  * Out of the three times I've worn makeup in my life, I felt more self conscious with makeup than without.
   * I feel like a clown.
   * It physically feels weird on my face.
-  * If y&#8217;all don&#8217;t love me without the makeup but love me with it, I don&#8217;t think I&#8217;d want to wear it in the first place.
+  * If y'all don't love me without the makeup but love me with it, I don't think I'd want to wear it in the first place.
 
-<ol class="footnote">
-</ol>
+

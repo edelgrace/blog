@@ -27,15 +27,15 @@ categories:
   - Internet
 
 ---
-Lent is over. I haven&#8217;t visited Room 304 or Goodreads in over 40 days. Geez, I have a lot of catching up to do. I did read over those 40 days but definitely not a lot. I&#8217;ve been swamped with school work and going to sleep at midnight every night doesn&#8217;t leave much time for reading.
+Lent is over. I haven't visited Room 304 or Goodreads in over 40 days. Geez, I have a lot of catching up to do. I did read over those 40 days but definitely not a lot. I've been swamped with school work and going to sleep at midnight every night doesn't leave much time for reading.
 
-So, I&#8217;ve resorted to audiobooks. Yeah, yeah, it&#8217;s a &#8220;lazy way of reading&#8221; but I&#8217;ve been craving some sort of world that I can delve into and just absorb. Lately I&#8217;ve been listening to audiobooks while doing homework or when I have a free period in class. Somehow I can manage listening perfectly to an audiobook and manage to do calculus questions (and get them right) at the same time.
+So, I've resorted to audiobooks. Yeah, yeah, it's a "lazy way of reading" but I've been craving some sort of world that I can delve into and just absorb. Lately I've been listening to audiobooks while doing homework or when I have a free period in class. Somehow I can manage listening perfectly to an audiobook and manage to do calculus questions (and get them right) at the same time.
 
-So far my favourite audiobook is _Seriously&#8230; I&#8217;m Kidding_ written and narrated by Ellen Degeneres. Usually I&#8217;m quite weary about celebrities writing books but whew, this one was just so entertaining! Yeah, it&#8217;s full of laughs but what else do you expect from a comedian? Ellen is just a ball of excitement and fun. Plus, hearing her narrate her own words really made it lively. However, I do want to read the printed version some time soon.
+So far my favourite audiobook is _Seriously&#8230; I'm Kidding_ written and narrated by Ellen Degeneres. Usually I'm quite weary about celebrities writing books but whew, this one was just so entertaining! Yeah, it's full of laughs but what else do you expect from a comedian? Ellen is just a ball of excitement and fun. Plus, hearing her narrate her own words really made it lively. However, I do want to read the printed version some time soon.
 
-But yeah, I have quite a lot of catching up to do. I wasted my whole Easter Break trying to do homework and I&#8217;m kicking my butt over it. I said I would do my homework in two days so I can have free time for the rest of the week but that didn&#8217;t happen. So now I have 130+ questions on _Wuthering Heights_, couple of questions of calculus, a chapter&#8217;s worth work of physics, and a workbook in social to do.
+But yeah, I have quite a lot of catching up to do. I wasted my whole Easter Break trying to do homework and I'm kicking my butt over it. I said I would do my homework in two days so I can have free time for the rest of the week but that didn't happen. So now I have 130+ questions on _Wuthering Heights_, couple of questions of calculus, a chapter's worth work of physics, and a workbook in social to do.
 
-After I do all that, hopefully I can update my reading list. Here&#8217;s what I have so far:
+After I do all that, hopefully I can update my reading list. Here's what I have so far:
 
 Dec 12 2011 &#8211; Started Tomodachi
   
@@ -87,7 +87,7 @@ Jan 27 2012 &#8211; Finished 24, 25
   
 Jan 27 2012 &#8211; Finished At the Park
   
-Jan 27 2012 &#8211; Bernie&#8217;s Drawing Book
+Jan 27 2012 &#8211; Bernie's Drawing Book
   
 Jan 27 2012 &#8211; Finished Blue
   
@@ -129,7 +129,7 @@ Mar 19 2012 &#8211; Started Beauty Queens
   
 Mar 27 2012 &#8211; Finished Beauty Queens
   
-Apr 1 2012 &#8211; Seriously&#8230; I&#8217;m Kidding
+Apr 1 2012 &#8211; Seriously&#8230; I'm Kidding
   
 Apr 1 2012 &#8211; Started Shades of Grey
   
@@ -139,7 +139,6 @@ Apr 2 2012 &#8211; Started Where She Went
   
 Apr 3 2012 &#8211; Finished Where She Went
 
-That&#8217;s a doozy. To me anyway. Some of them have already been posted but ack, I don&#8217;t know which ones they are.
+That's a doozy. To me anyway. Some of them have already been posted but ack, I don't know which ones they are.
 
-<ol class="footnote">
-</ol>
+

@@ -8,9 +8,9 @@ categories:
   - Programming
 
 ---
-Seeing that I am now unemployed and have a lot of time on my hands, I decided to utilize the free month of [Udacity][1] I received from Github&#8217;s [Student Pack][2].
+Seeing that I am now unemployed and have a lot of time on my hands, I decided to utilize the free month of [Udacity][1] I received from Github's [Student Pack][2].
 
-This mini-project&#8217;s goal is to create a simple program using Python to open a web browser at an interval of ten seconds three times in a row.
+This mini-project's goal is to create a simple program using Python to open a web browser at an interval of ten seconds three times in a row.
 
 Here is my answer:
 

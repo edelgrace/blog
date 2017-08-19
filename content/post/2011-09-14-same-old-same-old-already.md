@@ -12,7 +12,6 @@ categories:
 ---
 No band practice this morning! Whoot. I felt happy. It was just percussion this morning. I enjoyed it.
 
-There&#8217;s really nothing special to report today. :/ Just the usual math, physics, and chem. D:
+There's really nothing special to report today. :/ Just the usual math, physics, and chem. D:
 
-<ol class="footnote">
-</ol>
+

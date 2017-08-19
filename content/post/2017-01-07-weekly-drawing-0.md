@@ -15,7 +15,7 @@ tags:
 ---
 My SO suggested we start a weekly drawing. So we pick a picture of something to draw and at the end of the week we share it. Last week we drew elephants.
 
-<span style="font-size: 16px;">Here&#8217;s my elephant! I think I&#8217;m going to stick to pencil drawings. I&#8217;m not good at drawing by any means and this was pretty easy, honestly. It was fun drawing it though!</span>
+<span style="font-size: 16px;">Here's my elephant! I think I'm going to stick to pencil drawings. I'm not good at drawing by any means and this was pretty easy, honestly. It was fun drawing it though!</span>
 
 [<img src="https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/01/wp-image-297330053jpg.jpg?resize=663%2C1179" alt="" class="wp-image-56 alignnone size-full"  data-recalc-dims="1" />][1]
 

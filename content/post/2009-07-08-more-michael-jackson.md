@@ -8,7 +8,7 @@ categories:
   - Music
 
 ---
-Alright, I uploaded 1 story and 2 poems. Good that I got SOME content on. Haha. I&#8217;m working on a new fanfic and obviously my Michael Jackson tribute set.
+Alright, I uploaded 1 story and 2 poems. Good that I got SOME content on. Haha. I'm working on a new fanfic and obviously my Michael Jackson tribute set.
 
 My progress:
 
@@ -22,5 +22,4 @@ Those are just the things I already started. Oh wow. I am SO fast. Good thing I 
 
 Anyway. The Michael Jackson memorial was so sad. I bawled. Especially during when Paris, Marlon, and Brook Shields said their little speeches. Wow. I would say more, but I would just ramble on and on.
 
-<ol class="footnote">
-</ol>
+

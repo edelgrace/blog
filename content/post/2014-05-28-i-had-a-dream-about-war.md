@@ -8,21 +8,21 @@ categories:
   - Life
 
 ---
-I was awakened in the middle of the night by bursts of light penetrating my closed eyelids. As I opened my eyes, I saw what looked like a meteor shower. For a second, it looked beautiful. But as my lids rose up,a light followed it. Up. Why is that light going up? The skyline glowed with golden orbs and light shot out from them. The lights curled and twisted. And instead of end shortly with a boom like a firework or fading with a fizzle like a sparkler, the kept going up into the sky until my head couldn&#8217;t look any higher. Missiles. Were those&#8230; Missiles?
+I was awakened in the middle of the night by bursts of light penetrating my closed eyelids. As I opened my eyes, I saw what looked like a meteor shower. For a second, it looked beautiful. But as my lids rose up,a light followed it. Up. Why is that light going up? The skyline glowed with golden orbs and light shot out from them. The lights curled and twisted. And instead of end shortly with a boom like a firework or fading with a fizzle like a sparkler, the kept going up into the sky until my head couldn't look any higher. Missiles. Were those&#8230; Missiles?
 
-Shortly after, a large object slowly fell through the sky. I could hear the whistle. The whistle of an inevitable bomb. I braced myself and waited. I didn&#8217;t close my eyes. I watched it land what looked like a far ways. The horizon glowed with the impact and there was a delay. A short delay where you start to think, &#8220;why is anything not happening?&#8221; but the shaking of the earth interrupts you.
+Shortly after, a large object slowly fell through the sky. I could hear the whistle. The whistle of an inevitable bomb. I braced myself and waited. I didn't close my eyes. I watched it land what looked like a far ways. The horizon glowed with the impact and there was a delay. A short delay where you start to think, "why is anything not happening?" but the shaking of the earth interrupts you.
 
-I managed to stumble my way from my room to the kitchen as the ground shook me to my core. I prayed the floor wouldn&#8217;t give out from under my feet. The lights were on. My parents were already up and they were calm. Did they know in advance?
+I managed to stumble my way from my room to the kitchen as the ground shook me to my core. I prayed the floor wouldn't give out from under my feet. The lights were on. My parents were already up and they were calm. Did they know in advance?
 
-The TV flashed with warnings. At one moment, it showed a high quality 3D map of the city (you know, like the ones you see in the big Hollywood movies). A part of the city flashed red. I only heard two words. South. East. That&#8217;s where I am. Right now. That&#8217;s where I live.
+The TV flashed with warnings. At one moment, it showed a high quality 3D map of the city (you know, like the ones you see in the big Hollywood movies). A part of the city flashed red. I only heard two words. South. East. That's where I am. Right now. That's where I live.
 
-I panicked. What do I do? I&#8217;m not ready to die.
+I panicked. What do I do? I'm not ready to die.
 
 The TV ignored me and showed more images. Men &#8211; soldiers- gathering under the fire streaked sky. They held up flags of the United States of America and France. What an odd combination. But the flags looked almost beautiful. Red. White. And blue.
 
 A logo filled the screen and questions filled my mind. The logo was just like the flags: red, white, and blue. A few words were displayed under the sphere of colour. Columbia. Columbia? As in the university?
 
-The rest I don&#8217;t remember enough to write. I woke up and I was extremely shaken even though the dream was pretty ridiculous when I went over it in my head.
+The rest I don't remember enough to write. I woke up and I was extremely shaken even though the dream was pretty ridiculous when I went over it in my head.
 
 &#8211; Milky cloud dudes
   
@@ -40,5 +40,4 @@ The rest I don&#8217;t remember enough to write. I woke up and I was extremely s
   
 &#8211; The glimpse of people crowded in bathtubs
 
-<ol class="footnote">
-</ol>
+

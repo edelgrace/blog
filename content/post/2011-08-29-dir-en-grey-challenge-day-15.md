@@ -33,7 +33,6 @@ categories:
 
 **Your first Dir en grey PV.**
 
-_JEALOUS_. I was so hooked on that PV. All the members were just eerily beautiful (especially Toshiya, I loved his costume) and the beginning sounded like one of the Filipino songs my mom sang on karaoke for parties. Crappy quality was crappy though. It&#8217;s such an old PV. I wish there was an HD version out there.
+_JEALOUS_. I was so hooked on that PV. All the members were just eerily beautiful (especially Toshiya, I loved his costume) and the beginning sounded like one of the Filipino songs my mom sang on karaoke for parties. Crappy quality was crappy though. It's such an old PV. I wish there was an HD version out there.
 
-<ol class="footnote">
-</ol>
+

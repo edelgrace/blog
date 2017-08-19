@@ -41,9 +41,9 @@ categories:
   </div>
 </div>
 
-&#8230; Is getting an adult library card. I&#8217;m not even joking. I detested the teen library card. It was too &#8220;hip&#8221; for me. So I rather like my simplistic and pretty white adult library card. The bad thing is that I have to memorize a new card number. Although the number for my new card has bits and pieces of my address and home phone number so I reckon it&#8217;s not that bad.
+&#8230; Is getting an adult library card. I'm not even joking. I detested the teen library card. It was too "hip" for me. So I rather like my simplistic and pretty white adult library card. The bad thing is that I have to memorize a new card number. Although the number for my new card has bits and pieces of my address and home phone number so I reckon it's not that bad.
 
-And so I made my first library haul of the year with my shiny new library card! It took me an hour because I was pressed for time and with the fact that I probably won&#8217;t have too much time for reading. I finished one of them in a jiffy though.<span id="more-210"></span>
+And so I made my first library haul of the year with my shiny new library card! It took me an hour because I was pressed for time and with the fact that I probably won't have too much time for reading. I finished one of them in a jiffy though.<span id="more-210"></span>
 
 <div class="right">
   <div class="picture">
@@ -51,7 +51,7 @@ And so I made my first library haul of the year with my shiny new library card! 
   </div>
 </div>
 
-These pictures are pretty shoddy, mostly due to the fact that I took them with my only camera at the moment, my iPod. In case you can&#8217;t read the titles in the pictures, here are the books I took out:
+These pictures are pretty shoddy, mostly due to the fact that I took them with my only camera at the moment, my iPod. In case you can't read the titles in the pictures, here are the books I took out:
 
   * At a Crossroads by Kate T. Williamson
   * The Twelve Kingdoms: Sea of Wind by Fuyumi Ono
@@ -59,11 +59,10 @@ These pictures are pretty shoddy, mostly due to the fact that I took them with m
   * Twelve Steps to a Compassionate Life by Karen Armstrong
   * A Short History of Myth by Karen Armstrong
 
-As you can tell, I&#8217;m a big fan of Karen Armstrong. I&#8217;ve read her memoir, &#8220;Through the Narrow Gate,&#8221; and watched her prize winning TED talk, &#8220;The Charter for Compassion&#8221; and loved both of them. Armstrong is clearly an eloquent, intelligent, and passionate woman, and I cannot begin to explain how much I admire her for it. I can&#8217;t wait to dig into my first reads of 2013!
+As you can tell, I'm a big fan of Karen Armstrong. I've read her memoir, "Through the Narrow Gate," and watched her prize winning TED talk, "The Charter for Compassion" and loved both of them. Armstrong is clearly an eloquent, intelligent, and passionate woman, and I cannot begin to explain how much I admire her for it. I can't wait to dig into my first reads of 2013!
 
-I &#8216;m starting my reading with &#8220;The Case for God&#8221; by Karen Armstrong first (for now), mostly because I don&#8217;t want to find myself two days before the due date and finding myself just starting it. Although on second thought I just might read the shorter ones first, but I&#8217;ll see what happens. Once I get into reading any of Armstrong&#8217;s work, I can&#8217;t seem to put them down.
+I &#8216;m starting my reading with "The Case for God" by Karen Armstrong first (for now), mostly because I don't want to find myself two days before the due date and finding myself just starting it. Although on second thought I just might read the shorter ones first, but I'll see what happens. Once I get into reading any of Armstrong's work, I can't seem to put them down.
 
 <br style="clear:both;" />
 
-<ol class="footnote">
-</ol>
+

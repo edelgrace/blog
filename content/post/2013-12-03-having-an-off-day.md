@@ -18,5 +18,4 @@ categories:
 
 Today I do something new. This is my writing. I did not intend to post it on my blog but then I realized I released all of my feelings here. Feels good I guess.
 
-<ol class="footnote">
-</ol>
+

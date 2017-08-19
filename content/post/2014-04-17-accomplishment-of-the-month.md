@@ -27,13 +27,12 @@ I want to see his brow furrow and his jaw slacken.
   
 I want him to devour me.
 
-I&#8217;m probs reading into this too much but &#8220;after this I&#8217;m free.&#8221; Is that an invitation or something idk what to think.
+I'm probs reading into this too much but "after this I'm free." Is that an invitation or something idk what to think.
 
-He calls social networking sites &#8220;social networking software&#8221; lol what a dork.
+He calls social networking sites "social networking software" lol what a dork.
 
-&#8220;Concrete mathematics in computer programming. This is my favourite book.&#8221; wHAT A DORK.
+"Concrete mathematics in computer programming. This is my favourite book." wHAT A DORK.
 
-GDI. I&#8217;m so infatuated and sexually frustrated.
+GDI. I'm so infatuated and sexually frustrated.
 
-<ol class="footnote">
-</ol>
+

@@ -18,15 +18,15 @@ Yeah, yeah, I know, I know. Now you know my Twitter and my name. I mean, YOLO, r
 
 [<img src="http://scattered.me/wp-content/uploads/2014/01/senpai-noticed-me.png" alt="senpai-noticed-me" class="img-responsive" />][3]
 
-<ol class="footnote">
+
   <li>
-    <a id="foot_ajs-fn-id_1-454"></a>I don&#8217;t approve of the usage of YOLO. But I do approve of my favourite Internet personalities AKA Ray Narvaez Jr. using it therefore resulting in me quoting him.&nbsp;&nbsp;<a class="ajs-back-link" href="#back_ajs-fn-id_1-454"></a>
+    <a id="foot_ajs-fn-id_1-454"></a>I don't approve of the usage of YOLO. But I do approve of my favourite Internet personalities AKA Ray Narvaez Jr. using it therefore resulting in me quoting him.&nbsp;&nbsp;<a class="ajs-back-link" href="#back_ajs-fn-id_1-454"></a>
   </li>
-</ol>
+
 
 <div id="ajs-fn-id_1-454" style="display:none;margin:0;" class="ajs-footnote-popup">
   <div>
-    I don&#8217;t approve of the usage of YOLO. But I do approve of my favourite Internet personalities AKA Ray Narvaez Jr. using it therefore resulting in me quoting him.
+    I don't approve of the usage of YOLO. But I do approve of my favourite Internet personalities AKA Ray Narvaez Jr. using it therefore resulting in me quoting him.
   </div>
 </div>
 

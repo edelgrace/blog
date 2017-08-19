@@ -14,10 +14,10 @@ tags:
 
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"></a>
 
-<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week&#8217;s question is&#8230;
+<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > If you are at a really good point in a book and the phone rings or the door bell rings, do you stop reading or let the phone or door bell go unanswered?
 
-Honestly, I would get up and check them. Mostly because, in my mind, those things don&#8217;t happen unless there is something important. Who actually calls people anymore? The only phone calls I get are usually important such as my bank, my doctor, etc. If someone is taking the time to visit my home, I will go look at the door. Nine times out of ten it is usually just a door to door salesperson but I won&#8217;t let him in. Now if it was a text message, I will definitely let that go unanswered.
+Honestly, I would get up and check them. Mostly because, in my mind, those things don't happen unless there is something important. Who actually calls people anymore? The only phone calls I get are usually important such as my bank, my doctor, etc. If someone is taking the time to visit my home, I will go look at the door. Nine times out of ten it is usually just a door to door salesperson but I won't let him in. Now if it was a text message, I will definitely let that go unanswered.
 
-Honestly, it&#8217;s rare for me to be so engrossed in a book that way. If it really is that good, I will probably let my brother or parents look at the door or answer my phone instead. Unless they yell for me to do it instead, haha!
+Honestly, it's rare for me to be so engrossed in a book that way. If it really is that good, I will probably let my brother or parents look at the door or answer my phone instead. Unless they yell for me to do it instead, haha!

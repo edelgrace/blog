@@ -12,5 +12,4 @@ categories:
 ---
 That moment when your TA is looking at you not so subtly. Or maybe I just have sucky peripheral vision. WOW I really hope the latter is not the case. Man, my heart is so doki doki when I think about him. Much dork. :(
 
-<ol class="footnote">
-</ol>
+

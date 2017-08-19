@@ -14,10 +14,10 @@ tags:
 
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"></a>
 
-<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week&#8217;s question is&#8230;
+<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > Do your bookshelves have books ONLY or do you also have bookish items on the shelves?
 
-I have books, bookish items, and non-bookish items on my shelves. Actually my shelves are in a pretty sorry state. There is a lot of clutter on them and they&#8217;re usually my go to place to put things when I have no idea where to put them. If I wasn&#8217;t ashamed I would post a picture of my shelves but no one needs to see that!
+I have books, bookish items, and non-bookish items on my shelves. Actually my shelves are in a pretty sorry state. There is a lot of clutter on them and they're usually my go to place to put things when I have no idea where to put them. If I wasn't ashamed I would post a picture of my shelves but no one needs to see that!
 
-Ideally, my shelves would only contain books. I&#8217;m not quite so sure about bookish things. I guess a handful of bookmarks would be appropriate on shelves. I want to cut down on my figurines and memorabilia so I am hesitating on putting book related objects like those on my shelves.
+Ideally, my shelves would only contain books. I'm not quite so sure about bookish things. I guess a handful of bookmarks would be appropriate on shelves. I want to cut down on my figurines and memorabilia so I am hesitating on putting book related objects like those on my shelves.

@@ -11,7 +11,6 @@ categories:
   - High School
 
 ---
-Today me and Alyssa were watching the other bandies tobagon down the hill on the field outside during spare. There&#8217;s these large cardboard boxes laying around the band room and that&#8217;s what they used. Tristan made a makeshift bump. So when he stood up on the cardboard and went over it, me and Alyssa almost had a heart attack because he fell a bit. Oh, I love those shenanigans.
+Today me and Alyssa were watching the other bandies tobagon down the hill on the field outside during spare. There's these large cardboard boxes laying around the band room and that's what they used. Tristan made a makeshift bump. So when he stood up on the cardboard and went over it, me and Alyssa almost had a heart attack because he fell a bit. Oh, I love those shenanigans.
 
-<ol class="footnote">
-</ol>
+

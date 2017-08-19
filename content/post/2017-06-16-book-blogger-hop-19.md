@@ -14,8 +14,8 @@ tags:
 
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"></a>
 
-<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week&#8217;s question is&#8230;
+<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > How do you organize your blog in terms of what is in your side bar? Do you have categories and defined sections in your side bar?
 
-At the moment, my side bar is laid out by links to my favourite bloggers, categories, monthly archives, and recent comments. I don&#8217;t like to clutter my side bar with too much, especially images, so it&#8217;s mostly all text. I love minimalist designs.
+At the moment, my side bar is laid out by links to my favourite bloggers, categories, monthly archives, and recent comments. I don't like to clutter my side bar with too much, especially images, so it's mostly all text. I love minimalist designs.

@@ -42,5 +42,4 @@ But I **rere**discovered her like yesterday or so through the podcast. The Brill
 
 So I searched for more Tomoko. _Magic in Your Eyes_ was the one that stood out the most from my findings. I’ve listened to it before but it never stuck to me until now. The very first few seconds aren’t that amazing but filled with wonderful Engrish. “Come on darling close your eyes.” The bridge or chorus isn’t that great either. “Call in, if you’re my boyfriend x1000.” But the verses were absolutely HEAVENLY.
 
-<ol class="footnote">
-</ol>
+

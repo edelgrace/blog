@@ -21,5 +21,4 @@ cookie = { 'cookie_name': cookie }
 
 requests.post(url, cookies=cookie)</pre>
 
-<ol class="footnote">
-</ol>
+

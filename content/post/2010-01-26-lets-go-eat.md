@@ -18,7 +18,6 @@ categories:
   
 -> Boring post?
 
-Sorry about that ^^&#8221;
+Sorry about that ^^"
 
-<ol class="footnote">
-</ol>
+

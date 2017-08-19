@@ -23,8 +23,8 @@ categories:
 
 
 
-Since the beginning of July, I&#8217;ve been recording the highs and lows of the daily temperature through granny squares. The middle colour represents the low of the day and the outer colour represents the high of the day. The first three days of July were roughly the same but the fourth was a little bit cooler.
+Since the beginning of July, I've been recording the highs and lows of the daily temperature through granny squares. The middle colour represents the low of the day and the outer colour represents the high of the day. The first three days of July were roughly the same but the fourth was a little bit cooler.
 
-They say that Alberta is going to have a heat wave the next couple of days but I don&#8217;t feel it yet. I went to the gym this morning and there was a nice cool breeze. I&#8217;m sitting in my room right now and I&#8217;m not sweating one bit (TMI, I sweat pretty easily). I wish it would stay like this until the end of summer but I truly do anticipate the weather kicking up a notch.
+They say that Alberta is going to have a heat wave the next couple of days but I don't feel it yet. I went to the gym this morning and there was a nice cool breeze. I'm sitting in my room right now and I'm not sweating one bit (TMI, I sweat pretty easily). I wish it would stay like this until the end of summer but I truly do anticipate the weather kicking up a notch.
 
-I&#8217;m currently trying to think about when I should start joining the squares. I&#8217;m thinking maybe every weekend is when I&#8217;ll take the time to do it. Looking at weaving all those ends makes me a little bit nervous too. Ah, oh well. I find that once I start weaving in ends, it&#8217;s not so bad. Just getting started on weaving ends is where my mind goes, &#8220;Maybe later&#8230;&#8221;
+I'm currently trying to think about when I should start joining the squares. I'm thinking maybe every weekend is when I'll take the time to do it. Looking at weaving all those ends makes me a little bit nervous too. Ah, oh well. I find that once I start weaving in ends, it's not so bad. Just getting started on weaving ends is where my mind goes, "Maybe later&#8230;"

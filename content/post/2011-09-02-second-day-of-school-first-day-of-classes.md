@@ -12,21 +12,21 @@ categories:
 ---
 My second day of high school and first day of classes! Whoot. :] All my classes were pretty decent and I knew a few people in each class.
 
-So I went to school about an hour early and chatted with Shannon as we walked to the band room. That guy, Aiden, who her mom tried to set her up with? Yeah, he kissed her. Multiple times. Awkward. Awkward. Ew. Ew. Ew. Ew. I&#8217;m really concerned for that girl. Ugh. D:
+So I went to school about an hour early and chatted with Shannon as we walked to the band room. That guy, Aiden, who her mom tried to set her up with? Yeah, he kissed her. Multiple times. Awkward. Awkward. Ew. Ew. Ew. Ew. I'm really concerned for that girl. Ugh. D:
 
-So yeah, I went to TA when the bell rang. Me and Brad were there early-ish and sat down but then Antonio came and sat on the other side of the room. So I made Brad change seats on to the other side. TA was slightly awkward. Barely made conversation with Brad. Ack. But I really missed him. He&#8217;s a sweet guy and very cute in that brotherly kind of way.
+So yeah, I went to TA when the bell rang. Me and Brad were there early-ish and sat down but then Antonio came and sat on the other side of the room. So I made Brad change seats on to the other side. TA was slightly awkward. Barely made conversation with Brad. Ack. But I really missed him. He's a sweet guy and very cute in that brotherly kind of way.
 
 First period was nice. Bio 30 with Ms Dunn and I had Sarah and Dean in my class. I feel bad for dropping because I know I would have LOVED that class but if I took it I would fail all my subjects sooooo.
 
-Second period was fun too. Math 30. Kurtis, Mitchell, Mike, Patrick, and Sam are in it with me. I have Mr Dutchak for my teacher. He seems nice and he stutters. I remember Maria or Molly saying that he&#8217;s pretty hard but he really prepares you for the diploma. So I&#8217;m glad to have him. Plus, he has little animal figurines on the light rafters.
+Second period was fun too. Math 30. Kurtis, Mitchell, Mike, Patrick, and Sam are in it with me. I have Mr Dutchak for my teacher. He seems nice and he stutters. I remember Maria or Molly saying that he's pretty hard but he really prepares you for the diploma. So I'm glad to have him. Plus, he has little animal figurines on the light rafters.
 
-Third period was after lunch with Mr. Smith. I had physics 20. I walked there with Alara and was really surprised that the mechanics teacher also taught physics. I don&#8217;t think I&#8217;ll like the class very much. It&#8217;s fully of grade elevens, a few bandies but Naomi is the only grade twelve I know and I&#8217;m not that close with her. Oh wells. Also, Donna and Michelle (Wendy&#8217;s sister) is my class too. Ugh, grade elevens are so noisy.
+Third period was after lunch with Mr. Smith. I had physics 20. I walked there with Alara and was really surprised that the mechanics teacher also taught physics. I don't think I'll like the class very much. It's fully of grade elevens, a few bandies but Naomi is the only grade twelve I know and I'm not that close with her. Oh wells. Also, Donna and Michelle (Wendy's sister) is my class too. Ugh, grade elevens are so noisy.
 
-Fourth period was really nice! I have it with Geri, Alyssa, Aiden, and Mitchell. It&#8217;s Chem 30 with Ms Gratton. I hear she&#8217;s really nice and she emits a good aura, to me anyway.
+Fourth period was really nice! I have it with Geri, Alyssa, Aiden, and Mitchell. It's Chem 30 with Ms Gratton. I hear she's really nice and she emits a good aura, to me anyway.
 
 So after school I had to go to the counsellors to get my schedule changed. I waited for literally an hour with Daniel Vega. I really suck at small talk, but it was a nice talk with him at least.
 
-Here&#8217;s my schedule before I changed it:
+Here's my schedule before I changed it:
 
 SEMESTER 1
   
@@ -78,7 +78,6 @@ ULearn (Physics 30) &#8211; Mr. Toth
   
 Social 30 AP &#8211; Mr. De Iure
 
-Yeah, then I went home and did homework. I didn&#8217;t finish it yet though. XD
+Yeah, then I went home and did homework. I didn't finish it yet though. XD
 
-<ol class="footnote">
-</ol>
+

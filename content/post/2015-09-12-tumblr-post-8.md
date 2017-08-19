@@ -23,8 +23,8 @@ tags:
 
 My super messy notes (right) vs the rewritten version (left). During a lecture, neat and legible notes are the last things on my mind. Okay, sometimes I zone out and look down at my paper and think, “Wow, this looks horrible.” The main thing that matters is that I can understand them when I go to rewrite it. Also, note all the whiteout. I’m trying so hard to use whiteout and not to start a new clean sheet of paper every time I make a mistake. I’ve wasted so many trees doing that in the past.
 
-<ol class="footnote">
-</ol>
+
+
 
  [1]: http://ift.tt/1WuOkm4
  [2]: http://ift.tt/1OmzNpe

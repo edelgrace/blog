@@ -26,8 +26,8 @@ This was seriously a hard section to wrap my head around. Each step of computing
 
 Good thing one of my TAs recommended me another algorithm design textbook last year. I don’t have to dig that far to find more information! Although I’m a little sad it took me this long to finally crack it open.
 
-<ol class="footnote">
-</ol>
+
+
 
  [1]: http://ift.tt/1WuOkm4
  [2]: http://ift.tt/1dSwibY

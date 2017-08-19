@@ -22,7 +22,7 @@ I’m taking a “zero day” from studying but that doesn’t mean you have to
 
 Anyway, I haven’t worked on my blog for a while but it feels good to be coding with good old HTML and PHP again. I’ve always struggled with learning frameworks because I already have a style that I code with but once I get it, it’s easy to adapt. Also, I’m surprised that I have done 0 CSS coding… This will change.
 
-<ol class="footnote">
-</ol>
+
+
 
  [1]: http://ift.tt/1WuOkm4

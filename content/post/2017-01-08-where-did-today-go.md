@@ -10,7 +10,7 @@ categories:
   - Life
 
 ---
-It&#8217;s almost 3:00PM. So far today, I have done the following:
+It's almost 3:00PM. So far today, I have done the following:
 
   * Went to church
   * Did my laundry

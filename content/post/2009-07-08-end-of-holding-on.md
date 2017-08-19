@@ -88,5 +88,4 @@ until I feel the reawakening
   
 of that blazing scar.
 
-<ol class="footnote">
-</ol>
+

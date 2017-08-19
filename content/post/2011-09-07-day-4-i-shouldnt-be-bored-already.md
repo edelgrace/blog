@@ -12,7 +12,6 @@ categories:
 ---
 On Friday I changed my schedule and so now I have a spare first period. During my spare I hung out in the band room. It was pretty dull. Blah.
 
-Yeah, nothing really mind blowing happened, at least, I don&#8217;t think so. Physics class was way too loud. Fffffuuuuuuuuuuuuuu. Rage face.
+Yeah, nothing really mind blowing happened, at least, I don't think so. Physics class was way too loud. Fffffuuuuuuuuuuuuuu. Rage face.
 
-<ol class="footnote">
-</ol>
+

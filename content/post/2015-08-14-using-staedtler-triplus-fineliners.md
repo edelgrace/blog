@@ -20,9 +20,9 @@ tags:
 
 My Staedtler Triplus Fineliners always ran out quickly so I stopped using them. Seeing how popular Staedtler is, I gave them another chance and they look _awesome_. Except I’m still worried they might run out fast on me again. Also, I write neater when I use nicer pens, I wonder why…
 
-On another note, I&#8217;ve been using $0.03 pens for the past month no joke. I was in the Philippines and the pens there are dirt cheap. That also means that they&#8217;re not really that great of quality. Why did I stop using these again? Staedtler pens are great. The quality is too much for me to handle.
+On another note, I've been using $0.03 pens for the past month no joke. I was in the Philippines and the pens there are dirt cheap. That also means that they're not really that great of quality. Why did I stop using these again? Staedtler pens are great. The quality is too much for me to handle.
 
-<ol class="footnote">
-</ol>
+
+
 
  [1]: http://study.scattered.me

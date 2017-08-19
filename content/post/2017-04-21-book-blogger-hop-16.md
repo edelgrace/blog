@@ -12,14 +12,14 @@ categories:
 
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"></a>
 
-<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week&#8217;s question is&#8230;
+<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > Would you stop reading a book if an element of the plot strongly clashed with your personal beliefs, or would you continue reading until you finished the book?
 
-I would definitely finish the book. At least, that&#8217;s what I think and hope I would do. As long as the book is good, I will keep on reading it. For example, I finished Jodi Picoult&#8217;s _Songs of the Humpback Whale_ although the personal choices of the characters did not fit in at all with my moral values. It definitely made me like the book and characters a lot less, unfortunately, but I did plow through to the end because the book was still good enough for me to want to know the rest of it.
+I would definitely finish the book. At least, that's what I think and hope I would do. As long as the book is good, I will keep on reading it. For example, I finished Jodi Picoult's _Songs of the Humpback Whale_ although the personal choices of the characters did not fit in at all with my moral values. It definitely made me like the book and characters a lot less, unfortunately, but I did plow through to the end because the book was still good enough for me to want to know the rest of it.
 
-Most books I read nowadays are either very recent or classics. It&#8217;s easier for me to brush off elements that clash with my personal beliefs in classics because &#8220;that&#8217;s just how it was back then.&#8221; I still feel a slight offense but nine out of ten times, things are better now so there&#8217;s also a feeling of relief.
+Most books I read nowadays are either very recent or classics. It's easier for me to brush off elements that clash with my personal beliefs in classics because "that's just how it was back then." I still feel a slight offense but nine out of ten times, things are better now so there's also a feeling of relief.
 
-In terms of modern stories, I think most instances where this happens, it&#8217;s to demonstrate a positive message or to spread awareness.
+In terms of modern stories, I think most instances where this happens, it's to demonstrate a positive message or to spread awareness.
 
 So no, something must be very bad in order for me to drop the book.

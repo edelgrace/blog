@@ -8,9 +8,9 @@ categories:
   - Music
 
 ---
-**DISCLAIMER:** I&#8217;m not fluent in Tagalog but I am Filipino. English is my first language. This translation is improvised in some parts and relied heavily on Google Translate and my (very limited) existing knowledge of the language.
+**DISCLAIMER:** I'm not fluent in Tagalog but I am Filipino. English is my first language. This translation is improvised in some parts and relied heavily on Google Translate and my (very limited) existing knowledge of the language.
 
-I love Yeng Constantino (Filipino singer). I put this song at the very front of my Filofax to remind me of two things: to be proud of being Filipino and to keep my mind focused on God. I find Yeng extremely inspiring. I honestly have a huge crush on her! She&#8217;s beautiful, has an awesome voice, and has a strong faith in God. I hope you enjoy!
+I love Yeng Constantino (Filipino singer). I put this song at the very front of my Filofax to remind me of two things: to be proud of being Filipino and to keep my mind focused on God. I find Yeng extremely inspiring. I honestly have a huge crush on her! She's beautiful, has an awesome voice, and has a strong faith in God. I hope you enjoy!
 
 <div class="flex-video widescreen" style="margin: 0 auto;text-align:center;">
 </div>
@@ -76,15 +76,15 @@ I love Yeng Constantino (Filipino singer). I put this song at the very front of 
             </p>
             
             <p>
-              <em>Now I know<br /> The meaning of life<br /> Now that You are with me<br /> I&#8217;m really not alone</em>
+              <em>Now I know<br /> The meaning of life<br /> Now that You are with me<br /> I'm really not alone</em>
             </p>
             
             <p>
-              <em>Because You are the light<br /> At night when I&#8217;m depressed/crying/weeping<br /> And you are the morning<br /> In my smile</em>
+              <em>Because You are the light<br /> At night when I'm depressed/crying/weeping<br /> And you are the morning<br /> In my smile</em>
             </p>
             
             <p>
-              <em>I&#8217;m excited<br /> For You to come back</em>
+              <em>I'm excited<br /> For You to come back</em>
             </p>
             
             <p>
@@ -92,7 +92,7 @@ I love Yeng Constantino (Filipino singer). I put this song at the very front of 
             </p>
             
             <p>
-              <em>I don&#8217;t have a lot to give even though I give my all<br /> Even my life is not enough<br /> But I&#8217;ll still give everything<br /> My heart is true</em><br /> <em>Lord</em>
+              <em>I don't have a lot to give even though I give my all<br /> Even my life is not enough<br /> But I'll still give everything<br /> My heart is true</em><br /> <em>Lord</em>
             </p>
             
             <p>
@@ -102,5 +102,5 @@ I love Yeng Constantino (Filipino singer). I put this song at the very front of 
             <p>
               <em>You picked me<br /> When I thought that I was all alone<br /> My voice is not loud enough<br /> To say I love You<br /> Lord, Lord, Lord</em></td> </tr> </table> </div> 
               
-              <ol class="footnote">
-              </ol>
+              
+              

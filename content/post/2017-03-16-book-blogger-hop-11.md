@@ -14,10 +14,10 @@ tags:
 
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"></a>
 
-<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week&#8217;s question is&#8230;
+<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > Do you read a lot of diverse or own voices books? Why or why not? Submitted by Kitty @ [Vicarious Bookworm][1]
 
-Hmm&#8230; I&#8217;m not sure what this question means so I&#8217;m going to take a stab at it! Of course, I love a lot of variety with the different voices I read in books. It gets tiring reading about a smart intellectual and independent woman in the French Revolution the thirtieth time. I love exploring different characters from all walks life. Monotony is boring! I also love different types of books, both fiction and non-fiction, novels or graphic novels, etc.
+Hmm&#8230; I'm not sure what this question means so I'm going to take a stab at it! Of course, I love a lot of variety with the different voices I read in books. It gets tiring reading about a smart intellectual and independent woman in the French Revolution the thirtieth time. I love exploring different characters from all walks life. Monotony is boring! I also love different types of books, both fiction and non-fiction, novels or graphic novels, etc.
 
  [1]: http://vicariousbookworm.wordpress.com/

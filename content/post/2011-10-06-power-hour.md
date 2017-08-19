@@ -26,7 +26,7 @@ I told Shannon this and I pointed the two out in the usual hallway crowd as we h
 
 In TA, we had TA snack. Bags of chips. Yes. Antonio gave me his. Omnomnom.
 
-All day, all I could think about was Power Hour after school. Power Hour is a yearly presentation for the grade twelves about post secondary. It was a really informative presentation but I just left the school feeling so overwhelmed, not that I&#8217;m not overwhelmed already. Yeah. Especially the 80% average for engineering. I&#8217;m going to try my best.
+All day, all I could think about was Power Hour after school. Power Hour is a yearly presentation for the grade twelves about post secondary. It was a really informative presentation but I just left the school feeling so overwhelmed, not that I'm not overwhelmed already. Yeah. Especially the 80% average for engineering. I'm going to try my best.
 
 I ranted a bit on Tumblr.
 
@@ -54,7 +54,7 @@ School is stressful.
 
 Now excuse me while I study for math and chem.</em>
 
-Here&#8217;s how my friends responded:
+Here's how my friends responded:
 
 Maria (First year bio student, former trumpet):
 
@@ -64,7 +64,6 @@ Dylan (ginger):
 
 > Don’t even worry. I am as overwhelmed as you. I didn’t even go and I feel that way. Fucking school and grades and job and life.
 
-I&#8217;m a worry wart.
+I'm a worry wart.
 
-<ol class="footnote">
-</ol>
+

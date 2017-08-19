@@ -11,7 +11,6 @@ categories:
   - University
 
 ---
-He&#8217;s so cute, my ovaries hurt. Like. His eyes. I can&#8217;t get over his eyes. When the sun shone through them, I held my breath. They were beautiful, a wonderful glittering green. I couldn&#8217;t stop staring. And he has chin fuzz, how cute is that?
+He's so cute, my ovaries hurt. Like. His eyes. I can't get over his eyes. When the sun shone through them, I held my breath. They were beautiful, a wonderful glittering green. I couldn't stop staring. And he has chin fuzz, how cute is that?
 
-<ol class="footnote">
-</ol>
+

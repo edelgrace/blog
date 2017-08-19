@@ -13,11 +13,11 @@ tags:
 ---
 <img data-attachment-id="158" data-permalink="http://edelgrace.me/blog/organization/my-minimalist-bullet-journal-for-2017/attachment/bujo-cover/" data-orig-file="https://i1.wp.com/edelgrace.me/blog/wp-content/uploads/2017/01/bujo-cover.jpg?fit=600%2C539" data-orig-size="600,539" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;LG-K210&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1485701140&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.18&quot;,&quot;iso&quot;:&quot;350&quot;,&quot;shutter_speed&quot;:&quot;0.083333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="bujo-cover" data-image-description="" data-medium-file="https://i1.wp.com/edelgrace.me/blog/wp-content/uploads/2017/01/bujo-cover.jpg?fit=300%2C270" data-large-file="https://i1.wp.com/edelgrace.me/blog/wp-content/uploads/2017/01/bujo-cover.jpg?fit=600%2C539" src="https://i1.wp.com/edelgrace.me/blog/wp-content/uploads/2017/01/bujo-cover.jpg?resize=600%2C539" alt="" class="alignnone size-full wp-image-158" srcset="https://i1.wp.com/edelgrace.me/blog/wp-content/uploads/2017/01/bujo-cover.jpg?w=600 600w, https://i1.wp.com/edelgrace.me/blog/wp-content/uploads/2017/01/bujo-cover.jpg?resize=300%2C270 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" />
 
-It&#8217;s been a couple of weeks since 2017 has started. I started off the new year with some tweaks to my bullet journal. 2016 wasn&#8217;t the best year for using my bullet journal. I used it a lot when I was in school but not so much when I was working. I&#8217;m aiming to be more productive outside of work this year though! In light of my new goal, I decided it was best to revamp my bullet journal. This year&#8217;s theme is work-life balance. One of my friends jokingly said, &#8220;It seems like you never have any fun.&#8221; Thus, I resolve to have more fun!
+It's been a couple of weeks since 2017 has started. I started off the new year with some tweaks to my bullet journal. 2016 wasn't the best year for using my bullet journal. I used it a lot when I was in school but not so much when I was working. I'm aiming to be more productive outside of work this year though! In light of my new goal, I decided it was best to revamp my bullet journal. This year's theme is work-life balance. One of my friends jokingly said, "It seems like you never have any fun." Thus, I resolve to have more fun!
 
 **Monthly Habit Trackers**
 
-I&#8217;ve never stuck to a habit tracker in full before. This year I aimed to make them as minimal as possible. No rulers were used in making these. It took about half an hour to do all twelve months. I condensed the monthly log because I really don&#8217;t have that many events, usually.
+I've never stuck to a habit tracker in full before. This year I aimed to make them as minimal as possible. No rulers were used in making these. It took about half an hour to do all twelve months. I condensed the monthly log because I really don't have that many events, usually.
 
 <!-- IMAGE -->
 
@@ -25,7 +25,7 @@ I&#8217;ve never stuck to a habit tracker in full before. This year I aimed to m
 
 **Monthly Health Trackers**
 
-On the other side of the monthly habit trackers are the monthly health trackers. This mostly focuses on physical health with a side of mental health too. I&#8217;m trying to track my calories, steps I&#8217;ve taken, weight, and my mood each day.
+On the other side of the monthly habit trackers are the monthly health trackers. This mostly focuses on physical health with a side of mental health too. I'm trying to track my calories, steps I've taken, weight, and my mood each day.
 
 <!-- IMAGE -->
 
@@ -37,4 +37,4 @@ On the other side of the monthly habit trackers are the monthly health trackers.
 
 **The Verdict**
 
-Since I had a couple of weeks to settle into my bullet journal, I can safely say that I&#8217;m still pretty bad at using my bullet journal everyday. Honestly, this is definitely a mental health thing. When I find myself in a depressive slump, I do not feel like doing anything. You can tell when my mind became a little clouded and it wasn&#8217;t until a couple of days ago that I finally got out of it. Hopefully, February will fare better.
+Since I had a couple of weeks to settle into my bullet journal, I can safely say that I'm still pretty bad at using my bullet journal everyday. Honestly, this is definitely a mental health thing. When I find myself in a depressive slump, I do not feel like doing anything. You can tell when my mind became a little clouded and it wasn't until a couple of days ago that I finally got out of it. Hopefully, February will fare better.

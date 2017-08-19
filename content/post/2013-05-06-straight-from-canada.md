@@ -8,9 +8,9 @@ categories:
   - 'Family &amp; Friends'
 
 ---
-I&#8217;ve been in the Philippines for about five days now. We decided to take a family trip, because it&#8217;s been way too long since we&#8217;ve been here. It&#8217;s been good for the most part. Except it&#8217;s been an endless cycle of sleep, eat, sleep, eat, sleep with the rare outing. I thought I was going to lose weight here but I&#8217;m actually gaining, haha.
+I've been in the Philippines for about five days now. We decided to take a family trip, because it's been way too long since we've been here. It's been good for the most part. Except it's been an endless cycle of sleep, eat, sleep, eat, sleep with the rare outing. I thought I was going to lose weight here but I'm actually gaining, haha.
 
-So if you want to see my Tumblr-ized version of the first two days of my trip (because I&#8217;m lazy and the heat makes me even lazier), here you go:
+So if you want to see my Tumblr-ized version of the first two days of my trip (because I'm lazy and the heat makes me even lazier), here you go:
 
 <!--more-->
 
@@ -30,5 +30,4 @@ There’s so many people in the market!! So many stalls everywhere and people tr
 
 We got home and it was only 9. So we just lazed about, taking a nap, watching some TV, and now I’m sitting in a hot cramped room watching the boys play CoD. It’s now 3 in the afternoon.
 
-<ol class="footnote">
-</ol>
+

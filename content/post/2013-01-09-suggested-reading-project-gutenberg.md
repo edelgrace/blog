@@ -43,7 +43,7 @@ categories:
 
 **Suggested Reading** is a weekly feature that runs every, you guessed it, Wednesday. In this feature, a website, blog, or article is showcased for further reading. One of the best things about the Internet is the ability to share. So why not take advantage of that and share some of my favourite things to read on the web? This week’s SR is a website that features e-books for download, [Project Gutenberg][1].
 
-To be honest, I&#8217;m not a fan of e-books. I like keeping it traditional with the non-digital. However, I&#8217;m a fan of free books. Project Gutenberg is just that.<span id="more-202"></span>
+To be honest, I'm not a fan of e-books. I like keeping it traditional with the non-digital. However, I'm a fan of free books. Project Gutenberg is just that.<span id="more-202"></span>
 
 **Straight from the website (links removed):**
 
@@ -57,13 +57,13 @@ To be honest, I&#8217;m not a fan of e-books. I like keeping it traditional with
   
 > es.
 
-If you&#8217;re worrying if this is legal: relax! The books that Project Gutenberg release are public domain, AKA those really old classics that you&#8217;ve been meaning to read but just haven&#8217;t gotten around to doing so yet. What makes it better is that you can bring those classics wherever you can go (not that you couldn&#8217;t do that with regular ol&#8217; books) but you can have dozens of those thick volumes on you without having to drag a bag across the floor. Another to be honest, that&#8217;s the only thing I like about e-books.
+If you're worrying if this is legal: relax! The books that Project Gutenberg release are public domain, AKA those really old classics that you've been meaning to read but just haven't gotten around to doing so yet. What makes it better is that you can bring those classics wherever you can go (not that you couldn't do that with regular ol' books) but you can have dozens of those thick volumes on you without having to drag a bag across the floor. Another to be honest, that's the only thing I like about e-books.
 
 Getting around Project Gutenberg can be a bit confusing (at least, I found it a bit confusing at first). You can sort through the books by title, author, language, and category. There is a large selection so expect lots of free words, and with good quality too!
 
-While an awesome resource for books, the design and layout of the website unfortunately needs to be revamped (can&#8217;t help the wannabe designer in me). What I find interesting is the use of the fancy book script font logo and their newer, more modern logo throughout the site. It&#8217;s really a poor attempt at branding. Stick to one logo, and use that logo only! But, I guess this site can get away with it.
+While an awesome resource for books, the design and layout of the website unfortunately needs to be revamped (can't help the wannabe designer in me). What I find interesting is the use of the fancy book script font logo and their newer, more modern logo throughout the site. It's really a poor attempt at branding. Stick to one logo, and use that logo only! But, I guess this site can get away with it.
 
-<ol class="footnote">
-</ol>
+
+
 
  [1]: http://thelibrariancode.com/suggested-reading-project-gutenberg/gutenberg.org

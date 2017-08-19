@@ -25,8 +25,8 @@ tags:
 
 In bed with Camus. A penpal recommended this book to me and he expects a nice, long essay about it. Okay, I think (and hope) that was a joke but I really want to be able to understand this so we can have a meaningful conversation about it. I’m really trying to work on my highlight-literally-everything habit. Also, doesn’t “humanity’s gradually increasing awareness of itself” sound really ominous when it’s out of context?
 
-<ol class="footnote">
-</ol>
+
+
 
  [1]: http://ift.tt/1WuOkm4
  [2]: http://ift.tt/1KZn1HB

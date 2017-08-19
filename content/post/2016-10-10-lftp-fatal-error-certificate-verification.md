@@ -21,18 +21,18 @@ tags:
 
 ### Solution:
 
-Edit `~/.lftp/rc` so that it contains `set ssl:check-hostname no`. What this does is pretty self explanatory. If the hostname in the certificate does not match the hostname you&#8217;re attempting to connect to, it doesn&#8217;t matter because it won&#8217;t check for that in the first place.
+Edit `~/.lftp/rc` so that it contains `set ssl:check-hostname no`. What this does is pretty self explanatory. If the hostname in the certificate does not match the hostname you're attempting to connect to, it doesn't matter because it won't check for that in the first place.
 
 ### The context:
 
-I recently wanted to implement version control for my websites because all too often I think to myself, &#8220;I wish I knew what a previous version of this file looked lik&#8221;. So since I&#8217;m on shared hosting and don&#8217;t have my own server, I resorted to using [git-ftp][1] for deploying my websites. So far, it&#8217;s working great. However, I momentarily forgot I started using this and made some changes on one of my pages through cPanel. I tried pulling the latest pages using `git-ftp pull` and encountered this error.
+I recently wanted to implement version control for my websites because all too often I think to myself, "I wish I knew what a previous version of this file looked lik". So since I'm on shared hosting and don't have my own server, I resorted to using [git-ftp][1] for deploying my websites. So far, it's working great. However, I momentarily forgot I started using this and made some changes on one of my pages through cPanel. I tried pulling the latest pages using `git-ftp pull` and encountered this error.
 
 ### Sources:
 
   * [LFTP FTPS and Certificate Verification][2]
 
-<ol class="footnote">
-</ol>
+
+
 
  [1]: https://github.com/git-ftp/git-ftp
  [2]: http://web.archive.org/web/20160330173659/http://www.versatilewebsolutions.com/blog/2014/04/lftp-ftps-and-certificate-verification.html

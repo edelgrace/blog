@@ -3,7 +3,7 @@ title: 'DIR EN GREY Challenge: Day 16'
 author: Edel
 type: post
 date: 2011-08-30T21:28:25+00:00
-excerpt: 'Listening to: Thriller by Michael Jackson Fave song atm: Ophelia by L&#8217;Arc~en~Ciel Fave musician(s) atm: Michael Jackson Your favourite Dir en grey lyric and translation. Oh God. Don&#8217;t ask me this. Brb I&#8217;ll be hunting through lyric sites forever. Anyway, immediately, 我、闇とて。。。 came in my head. Here is the translation: It&#8217;s easy to stop breathing&#8230;but [...]'
+excerpt: 'Listening to: Thriller by Michael Jackson Fave song atm: Ophelia by L'Arc~en~Ciel Fave musician(s) atm: Michael Jackson Your favourite Dir en grey lyric and translation. Oh God. Don't ask me this. Brb I'll be hunting through lyric sites forever. Anyway, immediately, 我、闇とて。。。 came in my head. Here is the translation: It's easy to stop breathing&#8230;but [...]'
 url: /life/dir-en-grey-challenge-day-16/
 syndication_source:
   - Musical Broken Phrases
@@ -27,23 +27,23 @@ categories:
 ---
 > **Listening to**: Thriller by Michael Jackson
   
-> **Fave song atm**: Ophelia by L&#8217;Arc~en~Ciel
+> **Fave song atm**: Ophelia by L'Arc~en~Ciel
   
 > **Fave musician(s) atm**: Michael Jackson 
 
 **Your favourite Dir en grey lyric and translation.**
 
-Oh God. Don&#8217;t ask me this. Brb I&#8217;ll be hunting through lyric sites forever. Anyway, immediately, _我、闇とて。。。_ came in my head. Here is the translation:
+Oh God. Don't ask me this. Brb I'll be hunting through lyric sites forever. Anyway, immediately, _我、闇とて。。。_ came in my head. Here is the translation:
 
-_It&#8217;s easy to stop breathing&#8230;but I just want to feel you just a little more
+_It's easy to stop breathing&#8230;but I just want to feel you just a little more
   
 Will you allow me to live?
   
-One bright morning, I opened my eyes and it came tears I felt like I&#8217;ve realized the meaning for the first time
+One bright morning, I opened my eyes and it came tears I felt like I've realized the meaning for the first time
   
-Don&#8217;t know why, but I feel sadness when you&#8217;re near me
+Don't know why, but I feel sadness when you're near me
   
-Why can&#8217;t we become one?
+Why can't we become one?
   
 I put my hands out for those words that are too fragile, even just one
   
@@ -57,17 +57,17 @@ _I open out my wings of glass
   
 Up and towards the wind melted future
   
-So just please don&#8217;t go
+So just please don't go
   
-Please don&#8217;t go
+Please don't go
   
 Wanna be close to you
   
 I am now forgetting even the colours of your tears and love
   
-So just please don&#8217;t go
+So just please don't go
   
-Please don&#8217;t go
+Please don't go
   
 Holding on strong to what lies ahead_
 
@@ -77,5 +77,4 @@ How heavy is blood?
   
 **Happiness and Sadness lies too close**
 
-<ol class="footnote">
-</ol>
+

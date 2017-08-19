@@ -30,7 +30,7 @@ Here’s a picture of all the school supplies I bought for this year (and hopefu
   * **Blue and Black Bic Pens** &#8211; Every single school year I buy these. $1 per pack. I either lose them or they explode in my backpack. Now that I have a pencil case (I used to just throw my pens in my backpack), I hope less of that will happen. I use these for lecture notes. I mostly use black and then I use blue to indicate that I want to use a different colour for when I rewrite those notes.
   * **Post-It Sticky Flags** &#8211; I gotta start reusing my flags because I don’t have a lot left! I usually use these in my planner and in my textbooks. Why do they cost so much? Maybe I need to start shopping somewhere else to get them for cheaper…
 
-<ol class="footnote">
-</ol>
+
+
 
  [1]: http://ift.tt/1WuOkm4

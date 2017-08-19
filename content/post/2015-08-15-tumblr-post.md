@@ -28,7 +28,7 @@ I forgot where I heard this tip but it’s good to read papers that are in your 
 
 I also FINALLY finished reading chapter four of my algorithms textbook last night. I was getting a little bit bored reading about greedy algorithms. Chapter five includes a lot induction and recurrence relations, which are topics I haven’t mastered yet from previous courses. Although, I think I’m finally getting the hang of them. I think I might do the post-it textbook note taking method for chapter six.
 
-<ol class="footnote">
-</ol>
+
+
 
  [1]: http://ift.tt/1WuOkm4

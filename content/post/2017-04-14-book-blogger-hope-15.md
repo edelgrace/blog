@@ -14,8 +14,8 @@ tags:
 
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"></a>
 
-<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week&#8217;s question is&#8230;
+<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
 
 > When you feature a book in your posts, do you include a book cover?
 
-I definitely try my best to do so. It seems a little weird to write a blog post about a book without featuring the cover. I know most people like visuals when they look at a post and feel more enticed to read it. They also say, &#8220;Don&#8217;t judge a book by it&#8217;s cover&#8221; but more often than not, I&#8217;m sure many people do (I am one of them!) and decide to pass on posts depending on what kind of book they think it is about just from the cover. This might have the opposite effect from what a blogger may want but it just seems to be the standard!
+I definitely try my best to do so. It seems a little weird to write a blog post about a book without featuring the cover. I know most people like visuals when they look at a post and feel more enticed to read it. They also say, "Don't judge a book by it's cover" but more often than not, I'm sure many people do (I am one of them!) and decide to pass on posts depending on what kind of book they think it is about just from the cover. This might have the opposite effect from what a blogger may want but it just seems to be the standard!

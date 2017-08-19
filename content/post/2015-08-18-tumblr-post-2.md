@@ -23,7 +23,7 @@ tags:
 
 Lunch break with cantaloupes and warm pandesal with cheese. I usually don’t like eating at my desk when it comes to breads, especially crumbly breads like pandesal but I was totally craving it. The pandesal here is not as good as the real  deal. I prefer the spongy and tough pandesal (less crumbs = good study food)!
 
-<ol class="footnote">
-</ol>
+
+
 
  [1]: http://ift.tt/1WuOkm4

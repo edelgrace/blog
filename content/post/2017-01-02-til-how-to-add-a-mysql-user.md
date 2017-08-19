@@ -14,4 +14,4 @@ tags:
 <pre>CREATE USER 'user'@'server' IDENTIFIED BY 'PASSWORD';
 GRANT PRIVILEGES ON database.table TO 'user'@'server';</pre>
 
-I recently bought a VPS from Ramnode and started tinkering on it. I needed to create a database for my fanlistings. Back when I was on shared hosting, I would use cPanel and phpMyAdmin to do all that. This is admittedly another TIL that I didn&#8217;t learn today but, rather, relearned today because the information slipped my mind. Maybe I need to rename this little segment to &#8220;TIRL.&#8221;
+I recently bought a VPS from Ramnode and started tinkering on it. I needed to create a database for my fanlistings. Back when I was on shared hosting, I would use cPanel and phpMyAdmin to do all that. This is admittedly another TIL that I didn't learn today but, rather, relearned today because the information slipped my mind. Maybe I need to rename this little segment to "TIRL."

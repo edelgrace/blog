@@ -15,5 +15,4 @@ tags:
 ---
 `git remote add origin https://github.com/<user>/<repo>.git</repo></user>`
 
-<ol class="footnote">
-</ol>
+

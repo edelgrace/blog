@@ -28,4 +28,4 @@ Apply the policy
         [priority <em>priority-level</em>]
         set ip dscp <em>dscp-value</em></pre>
 
-Today at work I was going over firewalls. We want to check the configuration of the firewalls and compare them to our QoS standards. I&#8217;m not too familiar with how policies and QoS are implemented on Cisco devices so it was pretty interesting to learn.
+Today at work I was going over firewalls. We want to check the configuration of the firewalls and compare them to our QoS standards. I'm not too familiar with how policies and QoS are implemented on Cisco devices so it was pretty interesting to learn.
