@@ -1,9 +1,9 @@
 ---
 title: Late Pizza
-author: edel
+author: Edel
 type: post
 date: 2007-12-22T01:01:33+00:00
-url: /2007/12/late-pizza/
+url: /life/late-pizza/
 categories:
   - Jr High
 

@@ -1,9 +1,9 @@
 ---
 title: First Week of Half-Way Year
-author: edel
+author: Edel
 type: post
 date: 2014-09-15T04:45:47+00:00
-url: /2014/09/first-week-of-half-way-year/
+url: /life/first-week-of-half-way-year/
 categories:
   - Life
   - University

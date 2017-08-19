@@ -1,9 +1,9 @@
 ---
 title: CCNA1 8.2.1.4 Packet Tracer – Designing and Implementing a VLSM Addressing Scheme
-author: edel
+author: Edel
 type: post
 date: 2016-06-04T06:07:31+00:00
-url: /2016/06/ccna1-8-2-1-4-packet-tracer-designing-and-implementing-a-vlsm-addressing-scheme/
+url: /life/ccna1-8-2-1-4-packet-tracer-designing-and-implementing-a-vlsm-addressing-scheme/
 categories:
   - Technology
 tags:

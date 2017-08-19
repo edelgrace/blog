@@ -1,6 +1,6 @@
 ---
 title: 'Book Review: The Vegetarian by Han Kang'
-author: edel
+author: Edel
 type: post
 date: 2017-08-06T04:07:17+00:00
 url: /books/book-review-the-vegetarian-by-han-kang/

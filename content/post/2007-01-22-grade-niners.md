@@ -1,9 +1,9 @@
 ---
 title: Grade Niners
-author: edel
+author: Edel
 type: post
 date: 2007-01-22T23:16:02+00:00
-url: /2007/01/grade-niners/
+url: /life/grade-niners/
 categories:
   - 'Family &amp; Friends'
   - Jr High

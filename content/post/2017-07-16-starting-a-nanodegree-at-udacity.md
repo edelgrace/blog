@@ -1,6 +1,6 @@
 ---
 title: Starting a Nanodegree at Udacity
-author: edel
+author: Edel
 type: post
 date: 2017-07-16T18:03:20+00:00
 url: /programming/starting-a-nanodegree-at-udacity/

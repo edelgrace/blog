@@ -1,9 +1,9 @@
 ---
 title: Celebrity Dreams
-author: edel
+author: Edel
 type: post
 date: 2007-09-29T08:48:07+00:00
-url: /2007/09/celebrity-dreams/
+url: /life/celebrity-dreams/
 categories:
   - Music
 

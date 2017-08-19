@@ -1,6 +1,6 @@
 ---
 title: Where Can I Get Coffee After Five in this City?
-author: edel
+author: Edel
 type: post
 date: 2017-03-03T05:45:37+00:00
 url: /life/where-can-i-get-coffee-after-five-in-this-city/

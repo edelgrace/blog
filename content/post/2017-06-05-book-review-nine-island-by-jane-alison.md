@@ -1,6 +1,6 @@
 ---
 title: 'Book Review: Nine Island by Jane Alison'
-author: edel
+author: Edel
 type: post
 date: 2017-06-05T17:42:09+00:00
 url: /books/book-review-nine-island-by-jane-alison/

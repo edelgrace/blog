@@ -1,9 +1,9 @@
 ---
 title: I Enjoy Being Lazy
-author: edel
+author: Edel
 type: post
 date: 2012-08-06T20:55:18+00:00
-url: /2012/08/i-enjoy-being-lazy/
+url: /life/i-enjoy-being-lazy/
 categories:
   - Internet
   - Video Games

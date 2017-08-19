@@ -1,6 +1,6 @@
 ---
 title: Planned Projects for March 2017
-author: edel
+author: Edel
 type: post
 date: 2017-03-01T12:47:00+00:00
 url: /crochet/planned-projects-for-march-2017/

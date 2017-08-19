@@ -1,9 +1,9 @@
 ---
 title: First Post of the New Year!
-author: edel
+author: Edel
 type: post
 date: 2012-01-07T18:20:51+00:00
-url: /2012/01/first-post-of-the-new-year/
+url: /life/first-post-of-the-new-year/
 categories:
   - Books
   - Video Games

@@ -1,6 +1,6 @@
 ---
 title: 'Book Review: Frankenstein by Mary Shelley'
-author: edel
+author: Edel
 type: post
 date: 2017-06-13T06:28:23+00:00
 url: /books/book-review-frankenstein-by-mary-shelley/

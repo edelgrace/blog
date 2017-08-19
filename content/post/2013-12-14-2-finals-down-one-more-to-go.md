@@ -1,9 +1,9 @@
 ---
 title: 2 Finals Down, One More to Go
-author: edel
+author: Edel
 type: post
 date: 2013-12-15T01:27:02+00:00
-url: /2013/12/2-finals-down-one-more-to-go/
+url: /life/2-finals-down-one-more-to-go/
 categories:
   - Love
   - University

@@ -1,11 +1,11 @@
 ---
 title: I LOVE NINE HOURS OF MARCHING BAND
-author: edel
+author: Edel
 type: post
 date: 2010-02-28T04:29:24+00:00
 draft: true
 private: true
-url: /2010/02/i-love-nine-hours-of-marching-band/
+url: /life/i-love-nine-hours-of-marching-band/
 categories:
   - 'Family &amp; Friends'
 

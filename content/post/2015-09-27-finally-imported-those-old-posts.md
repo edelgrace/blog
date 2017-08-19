@@ -1,9 +1,9 @@
 ---
 title: Finally Imported Those Old Posts
-author: edel
+author: Edel
 type: post
 date: 2015-09-27T19:47:13+00:00
-url: /2015/09/finally-imported-those-old-posts/
+url: /life/finally-imported-those-old-posts/
 categories:
   - 'Family &amp; Friends'
   - Internet

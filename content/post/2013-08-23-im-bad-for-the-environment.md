@@ -1,9 +1,9 @@
 ---
 title: I’m Bad for the Environment
-author: edel
+author: Edel
 type: post
 date: 2013-08-23T20:50:19+00:00
-url: /2013/08/im-bad-for-the-environment/
+url: /life/im-bad-for-the-environment/
 categories:
   - University
 

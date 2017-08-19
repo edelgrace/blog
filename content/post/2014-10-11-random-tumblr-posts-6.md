@@ -1,9 +1,9 @@
 ---
 title: 'Random Tumblr Posts #6'
-author: edel
+author: Edel
 type: post
 date: 2014-10-12T02:57:53+00:00
-url: /2014/10/random-tumblr-posts-6/
+url: /life/random-tumblr-posts-6/
 categories:
   - Life
 

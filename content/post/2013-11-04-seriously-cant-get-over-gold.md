@@ -1,9 +1,9 @@
 ---
 title: Seriously Can’t Get Over “Gold”
-author: edel
+author: Edel
 type: post
 date: 2013-11-05T06:03:59+00:00
-url: /2013/11/seriously-cant-get-over-gold/
+url: /life/seriously-cant-get-over-gold/
 categories:
   - Internet
 tags:

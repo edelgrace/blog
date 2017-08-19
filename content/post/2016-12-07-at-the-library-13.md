@@ -1,9 +1,9 @@
 ---
 title: 'At the Library #13'
-author: edel
+author: Edel
 type: post
 date: 2016-12-08T04:12:01+00:00
-url: /2016/12/at-the-library-13/
+url: /life/at-the-library-13/
 categories:
   - Books
 tags:

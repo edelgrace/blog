@@ -1,11 +1,11 @@
 ---
 title: Congrats to the graduating class of 2010
-author: edel
+author: Edel
 type: post
 date: 2010-05-31T04:23:45+00:00
 draft: true
 private: true
-url: /2010/05/congrats-to-the-graduating-class-of-2010/
+url: /life/congrats-to-the-graduating-class-of-2010/
 categories:
   - High School
 

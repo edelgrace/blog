@@ -1,9 +1,9 @@
 ---
 title: So Far, So Good
-author: edel
+author: Edel
 type: post
 date: 2013-09-29T03:49:44+00:00
-url: /2013/09/so-far-so-good/
+url: /life/so-far-so-good/
 categories:
   - Internet
   - University

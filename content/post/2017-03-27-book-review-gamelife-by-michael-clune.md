@@ -1,6 +1,6 @@
 ---
 title: 'Book Review: Gamelife by Michael Clune'
-author: edel
+author: Edel
 type: post
 date: 2017-03-27T17:00:00+00:00
 url: /books/book-review-gamelife-by-michael-clune/

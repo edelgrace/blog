@@ -1,9 +1,9 @@
 ---
 title: 'Tumblr Post: My DIY Planner'
-author: edel
+author: Edel
 type: post
 date: 2015-09-08T00:02:02+00:00
-url: /2015/09/tumblr-post-7/
+url: /life/tumblr-post-7/
 categories:
   - Life
   - Planning

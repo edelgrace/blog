@@ -1,9 +1,9 @@
 ---
 title: It Sucks the Life Out of You
-author: edel
+author: Edel
 type: post
 date: 2012-02-10T01:01:08+00:00
-url: /2012/02/it-sucks-the-life-out-of-you/
+url: /life/it-sucks-the-life-out-of-you/
 categories:
   - High School
 

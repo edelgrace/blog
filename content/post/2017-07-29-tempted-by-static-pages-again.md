@@ -1,6 +1,6 @@
 ---
 title: Tempted by Static Pages Again
-author: edel
+author: Edel
 type: post
 date: 2017-07-29T14:01:27+00:00
 url: /programming/tempted-by-static-pages-again/

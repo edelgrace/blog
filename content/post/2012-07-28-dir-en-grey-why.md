@@ -1,10 +1,10 @@
 ---
 title: DIR EN GREY WHY
-author: edel
+author: Edel
 type: post
 date: 2012-07-28T10:15:55+00:00
 excerpt: 'A couple days ago, the Diru fandom on Tumblr was freaking out. I checked the DIR EN GREY tag just to be in the loop. Lo and behold, I see screenshots of this. I immediately went to the official website and there it was. The background was slowly fading in and out with different pictures [...]'
-url: /2012/07/dir-en-grey-why/
+url: /life/dir-en-grey-why/
 syndication_source_uri:
   - http://musical.brokenphrases.info
 syndication_source:

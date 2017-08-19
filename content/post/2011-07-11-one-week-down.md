@@ -1,9 +1,9 @@
 ---
 title: One Week Down
-author: edel
+author: Edel
 type: post
 date: 2011-07-11T20:28:46+00:00
-url: /2011/07/one-week-down/
+url: /life/one-week-down/
 categories:
   - 'Family &amp; Friends'
 

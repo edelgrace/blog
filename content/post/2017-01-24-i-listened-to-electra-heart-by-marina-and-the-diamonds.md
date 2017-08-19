@@ -1,6 +1,6 @@
 ---
 title: 'I Listened To: Electra Heart by Marina and the Diamonds'
-author: edel
+author: Edel
 type: post
 date: 2017-01-25T00:39:00+00:00
 url: /music/i-listened-to-electra-heart-by-marina-and-the-diamonds/

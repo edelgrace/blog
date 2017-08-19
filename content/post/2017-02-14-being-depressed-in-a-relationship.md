@@ -1,6 +1,6 @@
 ---
 title: 'Private: Being Depressed in a Relationship'
-author: edel
+author: Edel
 type: post
 date: 2017-02-14T12:41:00+00:00
 draft: true

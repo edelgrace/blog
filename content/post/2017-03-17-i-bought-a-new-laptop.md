@@ -1,6 +1,6 @@
 ---
 title: 'Private: I Bought a New Laptop'
-author: edel
+author: Edel
 type: post
 date: 2017-03-17T18:50:00+00:00
 draft: true

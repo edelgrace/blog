@@ -1,9 +1,9 @@
 ---
 title: 'Solid Day (AKA Ramen Run #2)'
-author: edel
+author: Edel
 type: post
 date: 2014-01-19T06:30:23+00:00
-url: /2014/01/solid-day-aka-ramen-run-2/
+url: /life/solid-day-aka-ramen-run-2/
 categories:
   - Friends
   - Life

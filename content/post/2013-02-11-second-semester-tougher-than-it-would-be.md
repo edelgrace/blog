@@ -1,9 +1,9 @@
 ---
 title: 'Second Semester: Tougher Than I Thought It Would Be'
-author: edel
+author: Edel
 type: post
 date: 2013-02-12T00:32:24+00:00
-url: /2013/02/second-semester-tougher-than-it-would-be/
+url: /life/second-semester-tougher-than-it-would-be/
 categories:
   - University
 

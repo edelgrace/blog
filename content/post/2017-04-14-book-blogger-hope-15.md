@@ -1,6 +1,6 @@
 ---
 title: 'Book Blogger Hop #15'
-author: edel
+author: Edel
 type: post
 date: 2017-04-14T08:00:00+00:00
 url: /books/book-blogger-hope-15/

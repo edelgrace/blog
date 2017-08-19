@@ -1,9 +1,9 @@
 ---
 title: Finally! New Layout!
-author: edel
+author: Edel
 type: post
 date: 2009-08-11T01:00:31+00:00
-url: /2009/08/finally-new-layout/
+url: /life/finally-new-layout/
 categories:
   - Internet
 

@@ -1,9 +1,9 @@
 ---
 title: 'On Approaching this Blog & R.I.P hide'
-author: edel
+author: Edel
 type: post
 date: 2014-05-25T16:44:53+00:00
-url: /2014/05/on-approaching-this-blog/
+url: /life/on-approaching-this-blog/
 categories:
   - Internet
   - Music

@@ -1,6 +1,6 @@
 ---
 title: Kits and Knits
-author: edel
+author: Edel
 type: post
 date: 2017-07-03T22:09:52+00:00
 url: /life/kits-and-knits/

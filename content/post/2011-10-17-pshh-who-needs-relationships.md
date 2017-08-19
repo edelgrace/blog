@@ -1,11 +1,11 @@
 ---
 title: Pshh Who Needs Relationships?
-author: edel
+author: Edel
 type: post
 date: 2011-10-18T05:01:04+00:00
 draft: true
 private: true
-url: /2011/10/pshh-who-needs-relationships/
+url: /life/pshh-who-needs-relationships/
 categories:
   - 'Family &amp; Friends'
   - High School

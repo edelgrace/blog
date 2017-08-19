@@ -1,9 +1,9 @@
 ---
 title: Christmas Holidays 2013
-author: edel
+author: Edel
 type: post
 date: 2014-01-09T18:23:57+00:00
-url: /2014/01/christmas-holidays-2013/
+url: /life/christmas-holidays-2013/
 categories:
   - Filofax
   - Friends

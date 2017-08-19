@@ -1,9 +1,9 @@
 ---
 title: Before I Go To Sleep
-author: edel
+author: Edel
 type: post
 date: 2009-12-22T05:38:49+00:00
-url: /2009/12/before-i-go-to-sleep/
+url: /life/before-i-go-to-sleep/
 categories:
   - Internet
 

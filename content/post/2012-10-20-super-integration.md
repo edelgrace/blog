@@ -1,11 +1,11 @@
 ---
 title: Super Integration
-author: edel
+author: Edel
 type: post
 date: 2012-10-21T00:40:45+00:00
 draft: true
 private: true
-url: /2012/10/super-integration/
+url: /life/super-integration/
 categories:
   - 'Family &amp; Friends'
 

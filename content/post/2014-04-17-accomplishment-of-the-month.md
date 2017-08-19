@@ -1,11 +1,11 @@
 ---
 title: Accomplishment of the Month
-author: edel
+author: Edel
 type: post
 date: 2014-04-18T05:41:15+00:00
 draft: true
 private: true
-url: /2014/04/accomplishment-of-the-month/
+url: /life/accomplishment-of-the-month/
 categories:
   - Love
   - University

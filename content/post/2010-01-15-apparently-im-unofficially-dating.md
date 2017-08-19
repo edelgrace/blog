@@ -1,11 +1,11 @@
 ---
 title: Apparently I’m Unofficially Dating
-author: edel
+author: Edel
 type: post
 date: 2010-01-16T02:21:47+00:00
 draft: true
 private: true
-url: /2010/01/apparently-im-unofficially-dating/
+url: /life/apparently-im-unofficially-dating/
 categories:
   - 'Family &amp; Friends'
   - High School

@@ -1,11 +1,11 @@
 ---
 title: 'Day 5: Boy Troubles Already?'
-author: edel
+author: Edel
 type: post
 date: 2011-09-08T14:41:06+00:00
 draft: true
 private: true
-url: /2011/09/day-5-boy-troubles-already/
+url: /life/day-5-boy-troubles-already/
 categories:
   - High School
 

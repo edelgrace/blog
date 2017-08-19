@@ -1,9 +1,9 @@
 ---
 title: Everything At Once
-author: edel
+author: Edel
 type: post
 date: 2009-11-30T21:48:47+00:00
-url: /2009/11/give-me-everything-at-once/
+url: /life/give-me-everything-at-once/
 categories:
   - 'Family &amp; Friends'
   - High School

@@ -1,6 +1,6 @@
 ---
 title: 'Crochet Haul #3: Vanna’s Choice in Silver Grey Yarn'
-author: edel
+author: Edel
 type: post
 date: 2017-03-07T21:42:58+00:00
 url: /crochet/crochet-haul-3-vannas-choice-in-silver-grey-yarn/

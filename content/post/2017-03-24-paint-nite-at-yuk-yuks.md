@@ -1,6 +1,6 @@
 ---
 title: Paint Nite Calgary at Yuk Yuk’s Comedy Club
-author: edel
+author: Edel
 type: post
 date: 2017-03-24T07:55:00+00:00
 url: /life/paint-nite-at-yuk-yuks/

@@ -1,9 +1,9 @@
 ---
 title: Apples to Apples
-author: edel
+author: Edel
 type: post
 date: 2010-02-15T23:51:58+00:00
-url: /2010/02/apples-to-apples/
+url: /life/apples-to-apples/
 categories:
   - 'Family &amp; Friends'
 

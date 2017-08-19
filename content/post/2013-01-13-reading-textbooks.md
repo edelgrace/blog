@@ -1,10 +1,10 @@
 ---
 title: Reading Textbooks
-author: edel
+author: Edel
 type: post
 date: 2013-01-14T02:50:55+00:00
 excerpt: 'I have a hard time reading textbooks. I can&rsquo;t read blocks of text. Yes, regular old books are blocks of text but textbooks aren&rsquo;t meant to be read the same way regular books are; they&rsquo;re meant to be skimmed. Even so, I still have trouble. Maybe it&rsquo;s only the university level textbooks that are causing [&hellip;]'
-url: /2013/01/reading-textbooks/
+url: /life/reading-textbooks/
 enclosure:
   - |
     |

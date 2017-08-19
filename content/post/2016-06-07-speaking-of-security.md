@@ -1,9 +1,9 @@
 ---
 title: Speaking of Security
-author: edel
+author: Edel
 type: post
 date: 2016-06-07T22:37:46+00:00
-url: /2016/06/speaking-of-security/
+url: /life/speaking-of-security/
 categories:
   - Internet
   - Technology

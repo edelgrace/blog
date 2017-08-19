@@ -1,10 +1,10 @@
 ---
 title: Three Songs I’ve Been Playing on Repeat
-author: edel
+author: Edel
 type: post
 date: 2012-09-23T20:34:09+00:00
 excerpt: 'These past two months or so have been great for new music. G-Dragon&rsquo;s comeback and news of Coheed and Cambria&rsquo;s new album. So many good things are happening! Lately, there has been three songs that I&rsquo;ve been playing over and over again. A gif made by vitadolce-moderato. The first one worth mentioning is G-Dragon&rsquo;s new [...]'
-url: /2012/09/three-songs-ive-been-playing-on-repeat/
+url: /life/three-songs-ive-been-playing-on-repeat/
 syndication_source:
   - Musical Broken Phrases
 syndication_source_uri:

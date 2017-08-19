@@ -1,11 +1,11 @@
 ---
 title: Nooo I don’t want it to end
-author: edel
+author: Edel
 type: post
 date: 2010-04-10T18:38:29+00:00
 draft: true
 private: true
-url: /2010/04/nooo-i-dont-want-it-to-end/
+url: /life/nooo-i-dont-want-it-to-end/
 categories:
   - 'Family &amp; Friends'
   - High School

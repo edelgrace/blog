@@ -1,10 +1,10 @@
 ---
 title: 'YouTube Discoveries #1'
-author: edel
+author: Edel
 type: post
 date: 2012-08-01T21:46:50+00:00
 excerpt: 'Listening to: Sunadokei by L&rsquo;Arc~en~Ciel Fave song atm: Somebody to Love by CLUBSODA Fave musician(s) atm: Uhh&hellip; I actually have no idea Just so you all know, I waded through 7000+ forums posts to find all the YouTube links I wanted to post here. Then I realized I could have used the search function. OTL [...]'
-url: /2012/08/youtube-discoveries-1/
+url: /life/youtube-discoveries-1/
 syndication_source:
   - Musical Broken Phrases
 syndication_source_uri:

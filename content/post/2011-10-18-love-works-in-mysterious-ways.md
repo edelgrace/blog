@@ -1,11 +1,11 @@
 ---
 title: Love Works In Mysterious Ways
-author: edel
+author: Edel
 type: post
 date: 2011-10-19T04:39:29+00:00
 draft: true
 private: true
-url: /2011/10/love-works-in-mysterious-ways/
+url: /life/love-works-in-mysterious-ways/
 categories:
   - High School
 

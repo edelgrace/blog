@@ -1,9 +1,9 @@
 ---
 title: ‘Twas the Night Before the Last Final….
-author: edel
+author: Edel
 type: post
 date: 2013-12-16T05:24:36+00:00
-url: /2013/12/twas-the-night-before-the-last-final/
+url: /life/twas-the-night-before-the-last-final/
 categories:
   - Gaming
   - Internet

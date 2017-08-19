@@ -1,6 +1,6 @@
 ---
 title: When Spam Isn’t Just Annoying
-author: edel
+author: Edel
 type: post
 date: 2017-07-10T17:16:00+00:00
 url: /websites/when-spam-isnt-just-annoying/

@@ -1,6 +1,6 @@
 ---
 title: 'I Watched: Rogue One'
-author: edel
+author: Edel
 type: post
 date: 2017-01-20T03:57:00+00:00
 url: /movies/i-saw-rogue-one/

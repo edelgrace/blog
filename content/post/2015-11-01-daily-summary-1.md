@@ -1,11 +1,11 @@
 ---
 title: 'Daily Summary #1'
-author: edel
+author: Edel
 type: post
 date: 2015-11-02T03:51:01+00:00
 draft: true
 private: true
-url: /2015/11/daily-summary-1/
+url: /life/daily-summary-1/
 categories:
   - Life
 

@@ -1,9 +1,9 @@
 ---
 title: But Seriously Though. AJ is perfect.
-author: edel
+author: Edel
 type: post
 date: 2013-11-28T19:24:06+00:00
-url: /2013/11/but-seriously-though-aj-is-perfect/
+url: /life/but-seriously-though-aj-is-perfect/
 categories:
   - Life
   - Music

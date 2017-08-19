@@ -1,10 +1,10 @@
 ---
 title: Interview with YA Author Graeme Ing
-author: edel
+author: Edel
 type: post
 date: 2013-01-17T15:07:09+00:00
 excerpt: 'When I let my friends know that I want to be a librarian after I exhaust my career as a software engineer, one of them laughed at me and said, &ldquo;A librarian with an engineering degree? Are you doing to make houses out of books?&rdquo; I just smiled and responded with a witty comment but [&hellip;]'
-url: /2013/01/interview-with-ya-author-grame-ing/
+url: /life/interview-with-ya-author-grame-ing/
 enclosure:
   - |
     |

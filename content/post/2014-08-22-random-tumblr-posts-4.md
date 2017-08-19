@@ -1,9 +1,9 @@
 ---
 title: 'Random Tumblr Posts #4'
-author: edel
+author: Edel
 type: post
 date: 2014-08-23T02:46:25+00:00
-url: /2014/08/random-tumblr-posts-4/
+url: /life/random-tumblr-posts-4/
 categories:
   - Life
 

@@ -1,6 +1,6 @@
 ---
 title: 'Kuzu no Honkai: On Using Others'
-author: edel
+author: Edel
 type: post
 date: 2017-07-05T04:46:20+00:00
 url: /anime/kuzu-no-honkai-on-using-others/

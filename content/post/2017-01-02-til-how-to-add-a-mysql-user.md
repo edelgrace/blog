@@ -1,6 +1,6 @@
 ---
 title: 'TIL: How to Add a MySQL User'
-author: edel
+author: Edel
 type: post
 date: 2017-01-03T04:14:55+00:00
 url: /programming/til-how-to-add-a-mysql-user/

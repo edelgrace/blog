@@ -1,6 +1,6 @@
 ---
 title: The Ending of Arrival
-author: edel
+author: Edel
 type: post
 date: 2017-02-22T20:26:00+00:00
 url: /movies/the-ending-of-arrival/

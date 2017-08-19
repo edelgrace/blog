@@ -1,6 +1,6 @@
 ---
 title: 'Private: Where Did Today Go?'
-author: edel
+author: Edel
 type: post
 date: 2017-01-08T21:50:58+00:00
 draft: true

@@ -1,6 +1,6 @@
 ---
 title: 'Private: Back to Work…'
-author: edel
+author: Edel
 type: post
 date: 2017-01-04T03:04:24+00:00
 draft: true

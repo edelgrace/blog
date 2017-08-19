@@ -1,6 +1,6 @@
 ---
 title: I Joined a Gym
-author: edel
+author: Edel
 type: post
 date: 2017-02-09T16:33:00+00:00
 url: /life/i-joined-a-gym/

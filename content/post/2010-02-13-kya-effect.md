@@ -1,9 +1,9 @@
 ---
 title: kya! effect
-author: edel
+author: Edel
 type: post
 date: 2010-02-14T03:55:37+00:00
-url: /2010/02/kya-effect/
+url: /life/kya-effect/
 categories:
   - Internet
 

@@ -1,6 +1,6 @@
 ---
 title: 'Private: Virtual Reality is the Future?'
-author: edel
+author: Edel
 type: post
 date: 2017-02-16T10:45:00+00:00
 draft: true

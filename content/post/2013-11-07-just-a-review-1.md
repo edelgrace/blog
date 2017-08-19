@@ -1,9 +1,9 @@
 ---
 title: 'Just a Review #1'
-author: edel
+author: Edel
 type: post
 date: 2013-11-08T02:35:16+00:00
-url: /2013/11/just-a-review-1/
+url: /life/just-a-review-1/
 categories:
   - Life
 

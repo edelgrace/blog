@@ -1,10 +1,10 @@
 ---
 title: 'Follow Friday #8'
-author: edel
+author: Edel
 type: post
 date: 2012-02-17T04:11:31+00:00
 excerpt: 'Follow Friday is a weekly book meme hosted by Parajunkee and Alison Can Read. In this meme, us bloggers are asked a question to which we respond to by posting on our blogs. Other bloggers can see our answers, comment, and follow! This week&rsquo;s question is: What&rsquo;s the most unique character name you&rsquo;ve come across? [...]'
-url: /2012/02/follow-friday-8/
+url: /life/follow-friday-8/
 syndication_source:
   - Room 304
 syndication_source_uri:

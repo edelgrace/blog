@@ -1,6 +1,6 @@
 ---
 title: Day Out in Pre-Stampede Rush
-author: edel
+author: Edel
 type: post
 date: 2017-07-09T17:00:00+00:00
 url: /life/day-out-in-pre-stampede-rush/

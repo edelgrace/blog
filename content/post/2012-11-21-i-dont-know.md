@@ -1,9 +1,9 @@
 ---
 title: I Don’t Know
-author: edel
+author: Edel
 type: post
 date: 2012-11-21T06:03:19+00:00
-url: /2012/11/i-dont-know/
+url: /life/i-dont-know/
 categories:
   - University
   - Video Games

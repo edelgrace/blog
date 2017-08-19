@@ -1,9 +1,9 @@
 ---
 title: Finally, I Know!
-author: edel
+author: Edel
 type: post
 date: 2012-08-12T04:02:38+00:00
-url: /2012/08/finally-i-know/
+url: /life/finally-i-know/
 categories:
   - University
 

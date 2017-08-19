@@ -1,6 +1,6 @@
 ---
 title: Winding Yarn Multitasking
-author: edel
+author: Edel
 type: post
 date: 2017-07-12T10:18:40+00:00
 url: /crochet/winding-yarn-multitasking/

@@ -1,9 +1,9 @@
 ---
 title: A thing called…gasp, Javascript!
-author: edel
+author: Edel
 type: post
 date: 2009-07-28T04:17:36+00:00
-url: /2009/07/a-thing-called-gasp-javascript/
+url: /life/a-thing-called-gasp-javascript/
 categories:
   - Internet
 

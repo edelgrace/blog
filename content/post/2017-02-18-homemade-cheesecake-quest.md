@@ -1,6 +1,6 @@
 ---
 title: Homemade Cheesecake Quest
-author: edel
+author: Edel
 type: post
 date: 2017-02-18T16:22:00+00:00
 url: /cooking/homemade-cheesecake-quest/

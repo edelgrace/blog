@@ -1,9 +1,9 @@
 ---
 title: The First “Post”
-author: edel
+author: Edel
 type: post
 date: 2010-05-19T04:36:51+00:00
-url: /2010/05/the-first-post/
+url: /life/the-first-post/
 categories:
   - Internet
 

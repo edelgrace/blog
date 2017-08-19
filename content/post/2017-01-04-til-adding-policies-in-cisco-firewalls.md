@@ -1,6 +1,6 @@
 ---
 title: 'TIL: Adding Policies in Cisco Firewalls'
-author: edel
+author: Edel
 type: post
 date: 2017-01-05T05:26:38+00:00
 url: /networking/til-adding-policies-in-cisco-firewalls/

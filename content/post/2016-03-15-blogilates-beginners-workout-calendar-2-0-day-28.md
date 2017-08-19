@@ -1,9 +1,9 @@
 ---
 title: 'Blogilates Beginner’s Workout Calendar 2.0: Day 28'
-author: edel
+author: Edel
 type: post
 date: 2016-03-15T19:00:06+00:00
-url: /2016/03/blogilates-beginners-workout-calendar-2-0-day-28/
+url: /life/blogilates-beginners-workout-calendar-2-0-day-28/
 categories:
   - Fitness
   - Life

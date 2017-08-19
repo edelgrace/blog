@@ -1,9 +1,9 @@
 ---
 title: New Layout and Some Other Things
-author: edel
+author: Edel
 type: post
 date: 2012-07-26T20:13:14+00:00
-url: /2012/07/new-layout-and-some-other-things/
+url: /life/new-layout-and-some-other-things/
 categories:
   - 'Family &amp; Friends'
   - Internet

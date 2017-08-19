@@ -1,9 +1,9 @@
 ---
 title: Grand Opening!
-author: edel
+author: Edel
 type: post
 date: 2009-06-27T17:22:33+00:00
-url: /2009/06/grand-opening/
+url: /life/grand-opening/
 categories:
   - Internet
 

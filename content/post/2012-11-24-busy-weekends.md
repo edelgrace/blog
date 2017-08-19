@@ -1,9 +1,9 @@
 ---
 title: Busy Weekends
-author: edel
+author: Edel
 type: post
 date: 2012-11-24T21:58:49+00:00
-url: /2012/11/busy-weekends/
+url: /life/busy-weekends/
 categories:
   - Internet
   - University

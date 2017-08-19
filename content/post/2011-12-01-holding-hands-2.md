@@ -1,11 +1,11 @@
 ---
 title: Holding Hands
-author: edel
+author: Edel
 type: post
 date: 2011-12-02T05:42:36+00:00
 draft: true
 private: true
-url: /2011/12/holding-hands-2/
+url: /life/holding-hands-2/
 categories:
   - 'Family &amp; Friends'
 

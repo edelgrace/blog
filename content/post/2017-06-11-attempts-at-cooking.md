@@ -1,6 +1,6 @@
 ---
 title: Attempts at Cooking
-author: edel
+author: Edel
 type: post
 date: 2017-06-11T18:05:08+00:00
 url: /cooking/attempts-at-cooking/

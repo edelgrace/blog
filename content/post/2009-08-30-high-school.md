@@ -1,11 +1,11 @@
 ---
 title: High School!
-author: edel
+author: Edel
 type: post
 date: 2009-08-30T21:37:37+00:00
 draft: true
 private: true
-url: /2009/08/high-school/
+url: /life/high-school/
 categories:
   - High School
 

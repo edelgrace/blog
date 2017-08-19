@@ -1,11 +1,11 @@
 ---
 title: Cute Foreign Engineering Dude
-author: edel
+author: Edel
 type: post
 date: 2012-09-08T04:30:57+00:00
 draft: true
 private: true
-url: /2012/09/cute-foreign-engineering-dude/
+url: /life/cute-foreign-engineering-dude/
 categories:
   - 'Family &amp; Friends'
   - University

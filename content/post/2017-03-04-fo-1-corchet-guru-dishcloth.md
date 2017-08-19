@@ -1,6 +1,6 @@
 ---
 title: 'FO #1: Corchet Guru Dishcloth'
-author: edel
+author: Edel
 type: post
 date: 2017-03-04T21:53:50+00:00
 url: /crochet/fo-1-corchet-guru-dishcloth/

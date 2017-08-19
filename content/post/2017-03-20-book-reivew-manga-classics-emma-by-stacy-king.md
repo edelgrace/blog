@@ -1,6 +1,6 @@
 ---
 title: 'Book Reivew: Manga Classics – Emma by Stacy King'
-author: edel
+author: Edel
 type: post
 date: 2017-03-20T21:06:51+00:00
 url: /books/book-reivew-manga-classics-emma-by-stacy-king/

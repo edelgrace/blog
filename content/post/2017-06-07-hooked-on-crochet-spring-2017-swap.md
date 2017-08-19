@@ -1,6 +1,6 @@
 ---
 title: Hooked on Crochet Spring 2017 Swap
-author: edel
+author: Edel
 type: post
 date: 2017-06-07T17:55:19+00:00
 url: /crochet/hooked-on-crochet-spring-2017-swap/

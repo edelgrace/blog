@@ -1,9 +1,9 @@
 ---
 title: 'Dream: Nearly Survived'
-author: edel
+author: Edel
 type: post
 date: 2013-02-03T16:18:53+00:00
-url: /2013/02/dream-nearly-survived/
+url: /life/dream-nearly-survived/
 categories:
   - Dreams
 

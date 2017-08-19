@@ -1,9 +1,9 @@
 ---
 title: DIY Planner for 2015
-author: edel
+author: Edel
 type: post
 date: 2015-08-13T02:36:03+00:00
-url: /2015/08/diy-planner-for-2015/
+url: /life/diy-planner-for-2015/
 categories:
   - Life
   - Planning

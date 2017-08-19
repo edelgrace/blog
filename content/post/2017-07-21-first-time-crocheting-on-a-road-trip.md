@@ -1,6 +1,6 @@
 ---
 title: First Time Crocheting on a Road Trip
-author: edel
+author: Edel
 type: post
 date: 2017-07-21T15:58:58+00:00
 url: /life/first-time-crocheting-on-a-road-trip/

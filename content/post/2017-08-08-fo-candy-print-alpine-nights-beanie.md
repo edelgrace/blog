@@ -1,6 +1,6 @@
 ---
 title: 'FO: Candy Print Alpine Nights Beanie'
-author: edel
+author: Edel
 type: post
 date: 2017-08-09T04:45:26+00:00
 url: /crochet/fo-candy-print-alpine-nights-beanie/

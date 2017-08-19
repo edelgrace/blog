@@ -1,11 +1,11 @@
 ---
 title: Beneath this Pillow Lies the Key to My Release
-author: edel
+author: Edel
 type: post
 date: 2011-09-14T00:42:52+00:00
 draft: true
 private: true
-url: /2011/09/under-this-pillow-lies-the-key-to-my-release/
+url: /life/under-this-pillow-lies-the-key-to-my-release/
 categories:
   - 'Family &amp; Friends'
   - High School

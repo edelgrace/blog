@@ -1,6 +1,6 @@
 ---
 title: 'Learning the Guitar: Week 1'
-author: edel
+author: Edel
 type: post
 date: 2017-02-20T01:42:56+00:00
 url: /music/learning-the-guitar-week-1/

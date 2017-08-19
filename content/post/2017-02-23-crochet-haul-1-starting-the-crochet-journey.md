@@ -1,6 +1,6 @@
 ---
 title: 'Private: Crochet Haul #1: Starting the Crochet Journey'
-author: edel
+author: Edel
 type: post
 date: 2017-02-23T19:56:02+00:00
 draft: true

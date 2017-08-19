@@ -1,11 +1,11 @@
 ---
 title: 'Python: Cookies and Requests'
-author: edel
+author: Edel
 type: post
 date: 2016-10-29T01:47:03+00:00
 draft: true
 private: true
-url: /2016/10/python-cookies-and-requests/
+url: /life/python-cookies-and-requests/
 categories:
   - Knowledge Base
   - Programming

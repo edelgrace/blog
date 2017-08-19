@@ -1,11 +1,11 @@
 ---
 title: Import Local Repo to Github
-author: edel
+author: Edel
 type: post
 date: 2016-10-19T01:31:16+00:00
 draft: true
 private: true
-url: /2016/10/import-local-repo-to-github/
+url: /life/import-local-repo-to-github/
 categories:
   - Knowledge Base
 tags:

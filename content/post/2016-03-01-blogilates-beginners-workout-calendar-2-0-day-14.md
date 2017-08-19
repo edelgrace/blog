@@ -1,9 +1,9 @@
 ---
 title: 'Blogilates Beginner’s Workout Calendar 2.0: Day 14'
-author: edel
+author: Edel
 type: post
 date: 2016-03-02T04:06:52+00:00
-url: /2016/03/blogilates-beginners-workout-calendar-2-0-day-14/
+url: /life/blogilates-beginners-workout-calendar-2-0-day-14/
 categories:
   - Fitness
   - Life

@@ -1,6 +1,6 @@
 ---
 title: 'Canada 150 Temperature Blanket: First Colour Change'
-author: edel
+author: Edel
 type: post
 date: 2017-07-07T22:37:09+00:00
 url: /crochet/canada-150-temperature-blanket-first-colour-change/

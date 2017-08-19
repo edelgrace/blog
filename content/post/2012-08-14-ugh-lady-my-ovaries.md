@@ -1,11 +1,11 @@
 ---
 title: Ugh, Lady, My Ovaries
-author: edel
+author: Edel
 type: post
 date: 2012-08-15T04:52:32+00:00
 draft: true
 private: true
-url: /2012/08/ugh-lady-my-ovaries/
+url: /life/ugh-lady-my-ovaries/
 categories:
   - 'Family &amp; Friends'
   - Internet

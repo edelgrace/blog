@@ -1,9 +1,9 @@
 ---
 title: You Ain’t Bad! You ain’t nothing!
-author: edel
+author: Edel
 type: post
 date: 2009-08-22T22:58:43+00:00
-url: /2009/08/you-aint-bad-you-aint-nothing/
+url: /life/you-aint-bad-you-aint-nothing/
 categories:
   - Internet
 

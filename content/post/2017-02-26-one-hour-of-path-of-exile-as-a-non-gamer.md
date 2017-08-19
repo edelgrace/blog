@@ -1,6 +1,6 @@
 ---
 title: 'Private: One Hour of Path of Exile as a Non-Gamer'
-author: edel
+author: Edel
 type: post
 date: 2017-02-26T19:34:32+00:00
 draft: true

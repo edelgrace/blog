@@ -1,6 +1,6 @@
 ---
 title: Cookie Icing Charades
-author: edel
+author: Edel
 type: post
 date: 2017-01-16T06:17:11+00:00
 url: /life/cookie-icing-charades/

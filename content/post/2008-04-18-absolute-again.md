@@ -1,9 +1,9 @@
 ---
 title: Absolute Again!
-author: edel
+author: Edel
 type: post
 date: 2008-04-19T04:02:32+00:00
-url: /2008/04/absolute-again/
+url: /life/absolute-again/
 categories:
   - Jr High
   - Music

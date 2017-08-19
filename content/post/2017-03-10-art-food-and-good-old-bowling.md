@@ -1,6 +1,6 @@
 ---
 title: Art, Food, and Good Old Bowling
-author: edel
+author: Edel
 type: post
 date: 2017-03-10T09:00:22+00:00
 url: /life/art-food-and-good-old-bowling/

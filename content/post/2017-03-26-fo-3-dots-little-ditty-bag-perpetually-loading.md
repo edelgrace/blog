@@ -1,6 +1,6 @@
 ---
 title: 'FO #3: Dot’s Little Ditty Bag – Perpetually Loading'
-author: edel
+author: Edel
 type: post
 date: 2017-03-26T19:03:56+00:00
 url: /crochet/fo-3-dots-little-ditty-bag-perpetually-loading/

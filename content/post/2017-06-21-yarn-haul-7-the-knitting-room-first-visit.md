@@ -1,6 +1,6 @@
 ---
 title: 'Yarn Haul #7: The Knitting Room First Visit'
-author: edel
+author: Edel
 type: post
 date: 2017-06-21T07:59:07+00:00
 url: /crochet/yarn-haul-7-the-knitting-room-first-visit/

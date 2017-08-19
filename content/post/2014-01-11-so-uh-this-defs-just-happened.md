@@ -1,11 +1,11 @@
 ---
 title: So, Uh… This Defs Just Happened
-author: edel
+author: Edel
 type: post
 date: 2014-01-11T23:58:31+00:00
 draft: true
 private: true
-url: /2014/01/so-uh-this-defs-just-happened/
+url: /life/so-uh-this-defs-just-happened/
 categories:
   - Love
 

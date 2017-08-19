@@ -1,9 +1,9 @@
 ---
 title: I Moved Hosts to Network Panda
-author: edel
+author: Edel
 type: post
 date: 2015-09-13T01:12:20+00:00
-url: /2015/09/i-moved-hosts/
+url: /life/i-moved-hosts/
 categories:
   - Internet
 tags:

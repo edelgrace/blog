@@ -1,11 +1,11 @@
 ---
 title: School is for Learning
-author: edel
+author: Edel
 type: post
 date: 2011-09-12T02:20:43+00:00
 draft: true
 private: true
-url: /2011/09/school-is-for-learning/
+url: /life/school-is-for-learning/
 categories:
   - High School
 

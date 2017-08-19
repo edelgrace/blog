@@ -1,9 +1,9 @@
 ---
 title: Xbox One Media Briefing 2013
-author: edel
+author: Edel
 type: post
 date: 2013-06-10T18:20:43+00:00
-url: /2013/06/xbox-one-media-briefing-2013/
+url: /life/xbox-one-media-briefing-2013/
 categories:
   - Video Games
 

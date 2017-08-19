@@ -1,6 +1,6 @@
 ---
 title: Two Steps Forward, One Step Back
-author: edel
+author: Edel
 type: post
 date: 2017-07-27T03:35:37+00:00
 url: /crochet/two-steps-forward-one-step-back/

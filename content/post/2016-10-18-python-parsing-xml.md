@@ -1,11 +1,11 @@
 ---
 title: 'Python: Parsing XML'
-author: edel
+author: Edel
 type: post
 date: 2016-10-19T01:56:22+00:00
 draft: true
 private: true
-url: /2016/10/python-parsing-xml/
+url: /life/python-parsing-xml/
 categories:
   - Knowledge Base
   - Programming

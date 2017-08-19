@@ -1,9 +1,9 @@
 ---
 title: Layout Trouble
-author: edel
+author: Edel
 type: post
 date: 2009-08-10T04:07:31+00:00
-url: /2009/08/layout-trouble/
+url: /life/layout-trouble/
 categories:
   - Internet
 

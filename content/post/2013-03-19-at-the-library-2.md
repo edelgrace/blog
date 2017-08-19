@@ -1,10 +1,10 @@
 ---
 title: 'At the Library #2'
-author: edel
+author: Edel
 type: post
 date: 2013-03-19T13:59:35+00:00
 excerpt: 'Okay, I&rsquo;ve decided that Room 304 is now officially a book log/archive with minimal blog posts. This calls for a redesign that will emphasize the fact. Why the change? It was always my intention to have Room 304 solely as a book log. But as I heard about book blogging, I decided I would give [...]'
-url: /2013/03/at-the-library-2/
+url: /life/at-the-library-2/
 enclosure:
   - |
     |

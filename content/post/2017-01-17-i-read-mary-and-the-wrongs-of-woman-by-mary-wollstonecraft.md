@@ -1,6 +1,6 @@
 ---
 title: 'I Read: Mary and The Wrongs of Woman by Mary Wollstonecraft'
-author: edel
+author: Edel
 type: post
 date: 2017-01-18T03:51:00+00:00
 url: /books/i-read-mary-and-the-wrongs-of-woman-by-mary-wollstonecraft/

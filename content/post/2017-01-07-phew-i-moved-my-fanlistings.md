@@ -1,6 +1,6 @@
 ---
 title: Phew… I Moved My Fanlistings
-author: edel
+author: Edel
 type: post
 date: 2017-01-07T14:50:11+00:00
 url: /websites/phew-i-moved-my-fanlistings/

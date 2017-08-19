@@ -1,6 +1,6 @@
 ---
 title: 'Crochet Haul #2: Cheap Crochet Set'
-author: edel
+author: Edel
 type: post
 date: 2017-02-28T13:26:00+00:00
 url: /crochet/crochet-haul-2-cheap-crochet-set/

@@ -1,9 +1,9 @@
 ---
 title: 'Tumblr Post: Lunch Food'
-author: edel
+author: Edel
 type: post
 date: 2015-08-18T19:14:38+00:00
-url: /2015/08/tumblr-post-2/
+url: /life/tumblr-post-2/
 categories:
   - Life
   - Planning

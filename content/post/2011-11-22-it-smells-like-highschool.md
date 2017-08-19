@@ -1,10 +1,10 @@
 ---
 title: It Smells Like Highschool
-author: edel
+author: Edel
 type: post
 date: 2011-11-22T15:57:47+00:00
 excerpt: 'Last week we got our yearbooks from last year. I dislike the fact that they give it out in the new school year since not all of those who graduated can come back and sign the yearbooks of those who were left behind. But I guess it takes a while to get all of the [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=mazohystic.wordpress.com&amp;blog=29298926&amp;post=10&amp;subd=mazohystic&amp;ref=&amp;feed=1" width="1" height="1" />'
-url: /2011/11/it-smells-like-highschool/
+url: /life/it-smells-like-highschool/
 syndication_source:
   - M A Z O H Y S T I C
 syndication_source_uri:

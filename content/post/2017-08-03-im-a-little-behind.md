@@ -1,6 +1,6 @@
 ---
 title: I’m a Little Behind
-author: edel
+author: Edel
 type: post
 date: 2017-08-03T13:35:00+00:00
 url: /life/im-a-little-behind/

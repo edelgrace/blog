@@ -1,9 +1,9 @@
 ---
 title: Doki Doki Goes the Heart
-author: edel
+author: Edel
 type: post
 date: 2013-12-02T02:28:45+00:00
-url: /2013/12/doki-doki-goes-the-heart/
+url: /life/doki-doki-goes-the-heart/
 categories:
   - Life
   - Love

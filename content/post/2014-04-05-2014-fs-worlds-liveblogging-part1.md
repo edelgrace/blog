@@ -1,9 +1,9 @@
 ---
 title: 2014 FS Worlds Liveblogging Part1
-author: edel
+author: Edel
 type: post
 date: 2014-04-06T02:53:35+00:00
-url: /2014/04/2014-fs-worlds-liveblogging-part1/
+url: /life/2014-fs-worlds-liveblogging-part1/
 categories:
   - Figure Skating
 

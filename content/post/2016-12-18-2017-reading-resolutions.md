@@ -1,9 +1,9 @@
 ---
 title: 2017 Reading Resolutions
-author: edel
+author: Edel
 type: post
 date: 2016-12-19T05:22:04+00:00
-url: /2016/12/2017-reading-resolutions/
+url: /life/2017-reading-resolutions/
 categories:
   - Books
 

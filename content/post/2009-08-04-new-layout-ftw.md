@@ -1,9 +1,9 @@
 ---
 title: New Layout FTW!
-author: edel
+author: Edel
 type: post
 date: 2009-08-05T02:21:46+00:00
-url: /2009/08/new-layout-ftw/
+url: /life/new-layout-ftw/
 categories:
   - Internet
 

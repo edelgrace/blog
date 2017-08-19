@@ -1,9 +1,9 @@
 ---
 title: Digital Planning Just Doesn’t Work For Me
-author: edel
+author: Edel
 type: post
 date: 2014-03-11T16:45:42+00:00
-url: /2014/03/digital-planning-just-doesnt-work-for-me/
+url: /life/digital-planning-just-doesnt-work-for-me/
 categories:
   - Filofax
   - Planning

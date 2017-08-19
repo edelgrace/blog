@@ -1,6 +1,6 @@
 ---
 title: 'Private: Town Hall with the Prime Minister'
-author: edel
+author: Edel
 type: post
 date: 2017-02-02T02:46:56+00:00
 draft: true

@@ -1,9 +1,9 @@
 ---
 title: 'Tumblr Post: School Supplies Haul'
-author: edel
+author: Edel
 type: post
 date: 2015-08-20T20:19:06+00:00
-url: /2015/08/tumblr-post-4/
+url: /life/tumblr-post-4/
 categories:
   - Life
   - Planning

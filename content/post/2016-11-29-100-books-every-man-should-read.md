@@ -1,9 +1,9 @@
 ---
 title: 100 Books Every Man Should Read
-author: edel
+author: Edel
 type: post
 date: 2016-11-30T01:08:14+00:00
-url: /2016/11/100-books-every-man-should-read/
+url: /life/100-books-every-man-should-read/
 categories:
   - Books
 

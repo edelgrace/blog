@@ -1,6 +1,6 @@
 ---
 title: 'Book Review: Vital Signs by Tessa McWatt'
-author: edel
+author: Edel
 type: post
 date: 2017-06-19T10:32:51+00:00
 url: /books/book-review-vital-signs-by-tessa-mcwatt/

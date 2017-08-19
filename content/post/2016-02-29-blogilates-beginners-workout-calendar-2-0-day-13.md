@@ -1,9 +1,9 @@
 ---
 title: 'Blogilates Beginner’s Workout Calendar 2.0: Day 13'
-author: edel
+author: Edel
 type: post
 date: 2016-03-01T06:47:52+00:00
-url: /2016/02/blogilates-beginners-workout-calendar-2-0-day-13/
+url: /life/blogilates-beginners-workout-calendar-2-0-day-13/
 categories:
   - Fitness
   - Life

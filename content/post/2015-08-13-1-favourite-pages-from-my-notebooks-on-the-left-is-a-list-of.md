@@ -1,9 +1,9 @@
 ---
 title: 1/? Favourite Pages From My Notebooks
-author: edel
+author: Edel
 type: post
 date: 2015-08-13T23:33:18+00:00
-url: /2015/08/1-favourite-pages-from-my-notebooks-on-the-left-is-a-list-of/
+url: /life/1-favourite-pages-from-my-notebooks-on-the-left-is-a-list-of/
 categories:
   - Life
   - Planning

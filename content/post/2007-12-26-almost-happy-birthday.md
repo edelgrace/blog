@@ -1,9 +1,9 @@
 ---
 title: Almost Happy Birthday
-author: edel
+author: Edel
 type: post
 date: 2007-12-26T22:54:04+00:00
-url: /2007/12/almost-happy-birthday/
+url: /life/almost-happy-birthday/
 categories:
   - 'Family &amp; Friends'
 

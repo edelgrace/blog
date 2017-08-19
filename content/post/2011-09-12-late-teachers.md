@@ -1,11 +1,11 @@
 ---
 title: Late Teachers
-author: edel
+author: Edel
 type: post
 date: 2011-09-13T03:38:30+00:00
 draft: true
 private: true
-url: /2011/09/late-teachers/
+url: /life/late-teachers/
 categories:
   - 'Family &amp; Friends'
   - High School

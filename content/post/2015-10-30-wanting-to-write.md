@@ -1,9 +1,9 @@
 ---
 title: Wanting to Write
-author: edel
+author: Edel
 type: post
 date: 2015-10-31T02:42:47+00:00
-url: /2015/10/wanting-to-write/
+url: /life/wanting-to-write/
 categories:
   - Books
   - Life

@@ -1,9 +1,9 @@
 ---
 title: Michael Jackson
-author: edel
+author: Edel
 type: post
 date: 2009-07-05T21:56:14+00:00
-url: /2009/07/michael-jackson/
+url: /life/michael-jackson/
 categories:
   - Music
 

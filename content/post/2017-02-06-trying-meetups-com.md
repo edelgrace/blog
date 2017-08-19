@@ -1,6 +1,6 @@
 ---
 title: 'Private: Trying Meetups.com'
-author: edel
+author: Edel
 type: post
 date: 2017-02-07T06:06:00+00:00
 draft: true

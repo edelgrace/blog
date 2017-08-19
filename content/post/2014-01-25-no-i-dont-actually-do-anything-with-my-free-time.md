@@ -1,9 +1,9 @@
 ---
 title: No, I Don’t Actually Do Anything With My “Free Time”
-author: edel
+author: Edel
 type: post
 date: 2014-01-26T05:38:51+00:00
-url: /2014/01/no-i-dont-actually-do-anything-with-my-free-time/
+url: /life/no-i-dont-actually-do-anything-with-my-free-time/
 categories:
   - University
 

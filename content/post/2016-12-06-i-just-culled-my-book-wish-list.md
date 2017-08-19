@@ -1,9 +1,9 @@
 ---
 title: I Just Culled My Book Wish List
-author: edel
+author: Edel
 type: post
 date: 2016-12-07T02:53:47+00:00
-url: /2016/12/i-just-culled-my-book-wish-list/
+url: /life/i-just-culled-my-book-wish-list/
 categories:
   - Books
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Private: Hello world, I’m 22'
-author: edel
+author: Edel
 type: post
 date: 2016-12-31T22:48:03+00:00
 draft: true

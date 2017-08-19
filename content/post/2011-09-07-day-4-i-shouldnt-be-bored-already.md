@@ -1,11 +1,11 @@
 ---
 title: 'Day 4: I Shouldn’t be Bored Already'
-author: edel
+author: Edel
 type: post
 date: 2011-09-07T14:32:06+00:00
 draft: true
 private: true
-url: /2011/09/day-4-i-shouldnt-be-bored-already/
+url: /life/day-4-i-shouldnt-be-bored-already/
 categories:
   - High School
 

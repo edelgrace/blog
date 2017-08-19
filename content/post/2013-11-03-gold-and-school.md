@@ -1,9 +1,9 @@
 ---
 title: “Gold” and School
-author: edel
+author: Edel
 type: post
 date: 2013-11-04T06:24:31+00:00
-url: /2013/11/gold-and-school/
+url: /life/gold-and-school/
 categories:
   - Internet
 tags:

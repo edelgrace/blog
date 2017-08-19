@@ -1,10 +1,10 @@
 ---
 title: 'DIR EN GREY Challenge: Day 16'
-author: edel
+author: Edel
 type: post
 date: 2011-08-30T21:28:25+00:00
 excerpt: 'Listening to: Thriller by Michael Jackson Fave song atm: Ophelia by L&#8217;Arc~en~Ciel Fave musician(s) atm: Michael Jackson Your favourite Dir en grey lyric and translation. Oh God. Don&#8217;t ask me this. Brb I&#8217;ll be hunting through lyric sites forever. Anyway, immediately, 我、闇とて。。。 came in my head. Here is the translation: It&#8217;s easy to stop breathing&#8230;but [...]'
-url: /2011/08/dir-en-grey-challenge-day-16/
+url: /life/dir-en-grey-challenge-day-16/
 syndication_source:
   - Musical Broken Phrases
 syndication_source_uri:

@@ -1,9 +1,9 @@
 ---
 title: 'Tagalog and Translated English Lyrics: “Panginoon” by Yeng Constantino'
-author: edel
+author: Edel
 type: post
 date: 2014-01-09T00:05:31+00:00
-url: /2014/01/tagalog-and-translated-english-lyrics-panginoon-by-yeng-constantino/
+url: /life/tagalog-and-translated-english-lyrics-panginoon-by-yeng-constantino/
 categories:
   - Music
 

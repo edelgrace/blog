@@ -1,9 +1,9 @@
 ---
 title: 'Tumblr Post: Convolutions, Please…'
-author: edel
+author: Edel
 type: post
 date: 2015-08-19T06:45:34+00:00
-url: /2015/08/tumblr-post-3/
+url: /life/tumblr-post-3/
 categories:
   - Life
   - Planning

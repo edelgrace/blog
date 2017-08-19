@@ -1,9 +1,9 @@
 ---
 title: 'Tumblr Post: Scientific Papers'
-author: edel
+author: Edel
 type: post
 date: 2015-08-16T03:20:45+00:00
-url: /2015/08/tumblr-post/
+url: /life/tumblr-post/
 categories:
   - Life
   - Planning

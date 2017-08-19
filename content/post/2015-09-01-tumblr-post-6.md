@@ -1,9 +1,9 @@
 ---
 title: 'Tumblr Post: The Rebel'
-author: edel
+author: Edel
 type: post
 date: 2015-09-01T06:02:41+00:00
-url: /2015/09/tumblr-post-6/
+url: /life/tumblr-post-6/
 categories:
   - Life
   - Planning

@@ -1,9 +1,9 @@
 ---
 title: Not So Subtle
-author: edel
+author: Edel
 type: post
 date: 2013-12-12T07:27:54+00:00
-url: /2013/12/not-so-subtle/
+url: /life/not-so-subtle/
 categories:
   - Life
   - Love

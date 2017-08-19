@@ -1,11 +1,11 @@
 ---
 title: Fanlists, Band Camp, SICK!
-author: edel
+author: Edel
 type: post
 date: 2009-11-09T22:58:31+00:00
 draft: true
 private: true
-url: /2009/11/fanlists-band-camp-sick/
+url: /life/fanlists-band-camp-sick/
 categories:
   - 'Family &amp; Friends'
   - High School

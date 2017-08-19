@@ -1,6 +1,6 @@
 ---
 title: 'Weekly Drawing #3'
-author: edel
+author: Edel
 type: post
 date: 2017-01-31T02:03:36+00:00
 url: /life/weekly-drawing-3/

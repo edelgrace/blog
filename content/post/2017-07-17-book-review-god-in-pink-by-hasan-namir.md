@@ -1,6 +1,6 @@
 ---
 title: 'Book Review: God in Pink by Hasan Namir'
-author: edel
+author: Edel
 type: post
 date: 2017-07-17T22:22:33+00:00
 url: /books/book-review-god-in-pink-by-hasan-namir/

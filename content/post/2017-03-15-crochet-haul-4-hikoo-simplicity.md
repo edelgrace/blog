@@ -1,6 +1,6 @@
 ---
 title: 'Crochet Haul #4: HiKoo Simplicity'
-author: edel
+author: Edel
 type: post
 date: 2017-03-15T12:47:00+00:00
 url: /crochet/crochet-haul-4-hikoo-simplicity/

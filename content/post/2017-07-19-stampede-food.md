@@ -1,6 +1,6 @@
 ---
 title: Stampede Food
-author: edel
+author: Edel
 type: post
 date: 2017-07-19T17:00:00+00:00
 url: /life/stampede-food/

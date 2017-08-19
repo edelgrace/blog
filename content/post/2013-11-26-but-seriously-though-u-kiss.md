@@ -1,9 +1,9 @@
 ---
 title: But Seriously Though. U-KISS
-author: edel
+author: Edel
 type: post
 date: 2013-11-27T03:11:01+00:00
-url: /2013/11/but-seriously-though-u-kiss/
+url: /life/but-seriously-though-u-kiss/
 categories:
   - Music
 

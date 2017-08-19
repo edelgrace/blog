@@ -1,6 +1,6 @@
 ---
 title: 'Book Review: Amity by Nasreen Pevjak'
-author: edel
+author: Edel
 type: post
 date: 2017-03-13T12:47:00+00:00
 url: /books/book-review-amity-by-nasreen-pevjak/

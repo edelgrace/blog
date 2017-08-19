@@ -1,6 +1,6 @@
 ---
 title: 'Private: Vietnamese Food and Westworld'
-author: edel
+author: Edel
 type: post
 date: 2017-01-08T18:00:21+00:00
 draft: true

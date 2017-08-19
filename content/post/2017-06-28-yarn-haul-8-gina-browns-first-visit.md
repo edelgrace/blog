@@ -1,6 +1,6 @@
 ---
 title: 'Yarn Haul #8: Gina Brown’s First Visit'
-author: edel
+author: Edel
 type: post
 date: 2017-06-28T08:00:00+00:00
 url: /crochet/yarn-haul-8-gina-browns-first-visit/

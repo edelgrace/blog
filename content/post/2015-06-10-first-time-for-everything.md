@@ -1,11 +1,11 @@
 ---
 title: First Time For Everything
-author: edel
+author: Edel
 type: post
 date: 2015-06-11T05:39:26+00:00
 draft: true
 private: true
-url: /2015/06/first-time-for-everything/
+url: /life/first-time-for-everything/
 categories:
   - Life
   - Love

@@ -1,11 +1,11 @@
 ---
 title: Free Scarfs
-author: edel
+author: Edel
 type: post
 date: 2011-11-07T03:38:42+00:00
 draft: true
 private: true
-url: /2011/11/free-scarfs/
+url: /life/free-scarfs/
 categories:
   - High School
   - University

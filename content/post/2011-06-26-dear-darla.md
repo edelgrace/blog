@@ -1,9 +1,9 @@
 ---
 title: He-Man Woman Haters
-author: edel
+author: Edel
 type: post
 date: 2011-06-27T00:37:06+00:00
-url: /2011/06/dear-darla/
+url: /life/dear-darla/
 categories:
   - Movies
 

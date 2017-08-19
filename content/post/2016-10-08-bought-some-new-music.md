@@ -1,9 +1,9 @@
 ---
 title: Bought Some New Music!
-author: edel
+author: Edel
 type: post
 date: 2016-10-09T03:33:37+00:00
-url: /2016/10/bought-some-new-music/
+url: /life/bought-some-new-music/
 categories:
   - Music
 

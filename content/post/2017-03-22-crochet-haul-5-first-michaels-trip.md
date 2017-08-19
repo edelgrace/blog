@@ -1,6 +1,6 @@
 ---
 title: 'Crochet Haul #5: First Michael’s Trip'
-author: edel
+author: Edel
 type: post
 date: 2017-03-22T12:46:00+00:00
 url: /crochet/crochet-haul-5-first-michaels-trip/

@@ -1,6 +1,6 @@
 ---
 title: 'Private: Weekly Drawing #1'
-author: edel
+author: Edel
 type: post
 date: 2017-01-16T02:05:19+00:00
 draft: true

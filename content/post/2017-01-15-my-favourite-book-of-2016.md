@@ -1,6 +1,6 @@
 ---
 title: My Favourite Book of 2016
-author: edel
+author: Edel
 type: post
 date: 2017-01-16T02:40:15+00:00
 url: /books/my-favourite-book-of-2016/

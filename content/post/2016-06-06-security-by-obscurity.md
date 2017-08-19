@@ -1,9 +1,9 @@
 ---
 title: 'Security By Obscurity: Just Hide It?'
-author: edel
+author: Edel
 type: post
 date: 2016-06-07T03:26:11+00:00
-url: /2016/06/security-by-obscurity/
+url: /life/security-by-obscurity/
 categories:
   - Technology
 tags:

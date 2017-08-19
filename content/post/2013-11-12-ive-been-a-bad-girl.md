@@ -1,9 +1,9 @@
 ---
 title: I’ve Been a Bad Girl
-author: edel
+author: Edel
 type: post
 date: 2013-11-13T04:46:09+00:00
-url: /2013/11/ive-been-a-bad-girl/
+url: /life/ive-been-a-bad-girl/
 categories:
   - Internet
 

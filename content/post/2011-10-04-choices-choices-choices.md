@@ -1,11 +1,11 @@
 ---
 title: Choices, Choices, Choices
-author: edel
+author: Edel
 type: post
 date: 2011-10-05T00:56:47+00:00
 draft: true
 private: true
-url: /2011/10/choices-choices-choices/
+url: /life/choices-choices-choices/
 categories:
   - High School
   - University

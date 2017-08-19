@@ -1,6 +1,6 @@
 ---
 title: STASH Lounge Moving and Other Outings
-author: edel
+author: Edel
 type: post
 date: 2017-07-24T03:04:34+00:00
 url: /life/stash-lounge-moving-and-other-outings/

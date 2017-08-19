@@ -1,6 +1,6 @@
 ---
 title: Forever Tinkering with My Productivity System
-author: edel
+author: Edel
 type: post
 date: 2017-08-12T23:48:53+00:00
 url: /life/forever-tinkering-with-my-productivity-system/

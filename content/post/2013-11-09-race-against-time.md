@@ -1,9 +1,9 @@
 ---
 title: Race Against Time
-author: edel
+author: Edel
 type: post
 date: 2013-11-10T06:24:22+00:00
-url: /2013/11/race-against-time/
+url: /life/race-against-time/
 categories:
   - Internet
   - Life

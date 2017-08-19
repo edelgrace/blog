@@ -1,6 +1,6 @@
 ---
 title: 'Crochet Haul #6: Blanket Mania'
-author: edel
+author: Edel
 type: post
 date: 2017-03-29T17:00:00+00:00
 url: /crochet/crochet-haul-6-blanket-mania/

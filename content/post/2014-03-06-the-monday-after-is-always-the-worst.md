@@ -1,9 +1,9 @@
 ---
 title: The Monday After is Always the Worst
-author: edel
+author: Edel
 type: post
 date: 2014-03-06T23:49:08+00:00
-url: /2014/03/the-monday-after-is-always-the-worst/
+url: /life/the-monday-after-is-always-the-worst/
 categories:
   - Figure Skating
   - Internet

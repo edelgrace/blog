@@ -1,6 +1,6 @@
 ---
 title: 'Private: I’m Slowly Losing My Hair'
-author: edel
+author: Edel
 type: post
 date: 2017-01-26T07:57:00+00:00
 draft: true

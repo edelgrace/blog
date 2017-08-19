@@ -1,9 +1,9 @@
 ---
 title: They Were Born Ready!
-author: edel
+author: Edel
 type: post
 date: 2011-07-21T22:59:03+00:00
-url: /2011/07/they-were-born-ready/
+url: /life/they-were-born-ready/
 categories:
   - High School
   - Music

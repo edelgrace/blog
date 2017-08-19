@@ -1,9 +1,9 @@
 ---
 title: Day 1 of Summer School
-author: edel
+author: Edel
 type: post
 date: 2011-07-06T01:56:29+00:00
-url: /2011/07/day-1-of-summer-school/
+url: /life/day-1-of-summer-school/
 categories:
   - High School
 

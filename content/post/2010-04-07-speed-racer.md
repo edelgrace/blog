@@ -1,9 +1,9 @@
 ---
 title: Speed Racer
-author: edel
+author: Edel
 type: post
 date: 2010-04-07T06:08:50+00:00
-url: /2010/04/speed-racer/
+url: /life/speed-racer/
 categories:
   - Music
 

@@ -1,10 +1,10 @@
 ---
 title: You, You, Only You
-author: edel
+author: Edel
 type: post
 date: 2011-11-16T06:40:57+00:00
 excerpt: 'I never finished the DIR EN GREY meme. I&rsquo;ll finish it sooner or later. I haven&rsquo;t posted in a while either. Oh no! Well, better late than never. I rediscovered this podcast I downloaded when I just started listening to &hellip; <a href="http://musicalphrases.wordpress.com/2011/11/16/you-you-only-you/">Continue reading <span>&rarr;</span></a><img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=musicalphrases.wordpress.com&amp;blog=29458397&amp;post=5&amp;subd=musicalphrases&amp;ref=&amp;feed=1" width="1" height="1"/>'
-url: /2011/11/you-you-only-you/
+url: /life/you-you-only-you/
 syndication_source:
   - Musical Broken Phrases
 syndication_source_uri:

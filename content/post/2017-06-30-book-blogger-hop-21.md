@@ -1,6 +1,6 @@
 ---
 title: 'Book Blogger Hop #21'
-author: edel
+author: Edel
 type: post
 date: 2017-06-30T08:00:00+00:00
 url: /books/book-blogger-hop-21/

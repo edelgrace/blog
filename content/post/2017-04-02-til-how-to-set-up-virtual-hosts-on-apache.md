@@ -1,6 +1,6 @@
 ---
 title: 'TIL: How to Set Up Virtual Hosts on Apache'
-author: edel
+author: Edel
 type: post
 date: 2017-04-02T17:50:31+00:00
 url: /websites/til-how-to-set-up-virtual-hosts-on-apache/

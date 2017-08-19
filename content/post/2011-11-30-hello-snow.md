@@ -1,9 +1,9 @@
 ---
 title: Hello Snow
-author: edel
+author: Edel
 type: post
 date: 2011-12-01T05:18:03+00:00
-url: /2011/11/hello-snow/
+url: /life/hello-snow/
 categories:
   - Internet
 

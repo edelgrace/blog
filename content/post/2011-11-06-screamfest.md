@@ -1,9 +1,9 @@
 ---
 title: Screamfest
-author: edel
+author: Edel
 type: post
 date: 2011-11-07T02:24:58+00:00
-url: /2011/11/screamfest/
+url: /life/screamfest/
 categories:
   - 'Family &amp; Friends'
 

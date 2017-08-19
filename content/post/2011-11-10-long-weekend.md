@@ -1,10 +1,10 @@
 ---
 title: Long Weekend!
-author: edel
+author: Edel
 type: post
 date: 2011-11-10T06:44:45+00:00
 excerpt: 'I understand that it is almost Thanksgiving in the States so others have long weekends as well. But our reasons for the long weekend are because of parent teacher interviews tomorrow and Rememberance day the after. Speaking of Rememberance day, today was the Rememberance celebration at my school. Since I go to a Catholic school, [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=mazohystic.wordpress.com&amp;blog=29298926&amp;post=5&amp;subd=mazohystic&amp;ref=&amp;feed=1" width="1" height="1"/>'
-url: /2011/11/long-weekend/
+url: /life/long-weekend/
 syndication_feed:
   - http://mazohystic.wordpress.com/feed/
 syndication_permalink:

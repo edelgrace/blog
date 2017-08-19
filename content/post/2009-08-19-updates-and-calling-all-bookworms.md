@@ -1,9 +1,9 @@
 ---
 title: Updates…and Calling All Bookworms!
-author: edel
+author: Edel
 type: post
 date: 2009-08-19T22:14:55+00:00
-url: /2009/08/updates-and-calling-all-bookworms/
+url: /life/updates-and-calling-all-bookworms/
 categories:
   - Books
   - Internet

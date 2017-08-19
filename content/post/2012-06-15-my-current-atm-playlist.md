@@ -1,10 +1,10 @@
 ---
 title: My Current ATM Playlist
-author: edel
+author: Edel
 type: post
 date: 2012-06-15T09:50:23+00:00
 excerpt: 'I usually create an &ldquo;ATM&rdquo; playlist that features all the songs I want to listen to on repeat. Here they are as of June 15, 2012. Koishikute (cover) by Aokicchi Koishikuteeeee. This girl has a pretty voice. Bad Boy by BIGBANG I really like it when GD sings okay. Last Farewell by BIGBANG I don&rsquo;t [...]'
-url: /2012/06/my-current-atm-playlist/
+url: /life/my-current-atm-playlist/
 syndication_source:
   - Musical Broken Phrases
 syndication_source_uri:

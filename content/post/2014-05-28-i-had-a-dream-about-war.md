@@ -1,9 +1,9 @@
 ---
 title: I Had a Dream About War
-author: edel
+author: Edel
 type: post
 date: 2014-05-29T05:30:14+00:00
-url: /2014/05/i-had-a-dream-about-war/
+url: /life/i-had-a-dream-about-war/
 categories:
   - Life
 

@@ -1,11 +1,11 @@
 ---
 title: End Of Holding On
-author: edel
+author: Edel
 type: post
 date: 2009-07-08T21:25:51+00:00
 draft: true
 private: true
-url: /2009/07/end-of-holding-on/
+url: /life/end-of-holding-on/
 categories:
   - 'Family &amp; Friends'
 

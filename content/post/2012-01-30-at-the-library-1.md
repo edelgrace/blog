@@ -1,10 +1,10 @@
 ---
 title: 'At the Library #1'
-author: edel
+author: Edel
 type: post
 date: 2012-01-31T02:00:50+00:00
 excerpt: 'Technically this is the second trip to the library this year but this is the first post about it. Right after I finished my chemistry diploma exam on Thursday, my dad drove me to the library. I felt at home, how sad, haha. Usually I go upstairs to the teen section, but oh ho, not [...]'
-url: /2012/01/at-the-library-1/
+url: /life/at-the-library-1/
 syndication_source:
   - Room 304
 syndication_source_uri:

@@ -1,6 +1,6 @@
 ---
 title: 'Private: TIL: Best First Search and Local Maxima Problem'
-author: edel
+author: Edel
 type: post
 date: 2017-01-02T06:40:16+00:00
 draft: true

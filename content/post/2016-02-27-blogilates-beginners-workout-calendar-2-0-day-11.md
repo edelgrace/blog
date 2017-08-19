@@ -1,9 +1,9 @@
 ---
 title: 'Blogilates Beginner’s Workout Calendar 2.0: Day 11'
-author: edel
+author: Edel
 type: post
 date: 2016-02-27T14:20:53+00:00
-url: /2016/02/blogilates-beginners-workout-calendar-2-0-day-11/
+url: /life/blogilates-beginners-workout-calendar-2-0-day-11/
 categories:
   - Fitness
   - Life

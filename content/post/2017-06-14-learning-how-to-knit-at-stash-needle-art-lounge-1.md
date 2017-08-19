@@ -1,6 +1,6 @@
 ---
 title: 'Learning How to Knit at STASH Needle Art Lounge #1'
-author: edel
+author: Edel
 type: post
 date: 2017-06-14T07:52:23+00:00
 url: /knitting/learning-how-to-knit-at-stash-needle-art-lounge-1/

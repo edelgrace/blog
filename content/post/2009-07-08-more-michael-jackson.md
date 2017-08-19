@@ -1,9 +1,9 @@
 ---
 title: More Michael Jackson
-author: edel
+author: Edel
 type: post
 date: 2009-07-08T21:35:07+00:00
-url: /2009/07/more-michael-jackson/
+url: /life/more-michael-jackson/
 categories:
   - Music
 

@@ -1,9 +1,9 @@
 ---
 title: 'Blogilates Beginner’s Workout Calendar 2.0: Day 20'
-author: edel
+author: Edel
 type: post
 date: 2016-03-08T05:27:13+00:00
-url: /2016/03/blogilates-beginners-workout-calendar-2-0-day-20/
+url: /life/blogilates-beginners-workout-calendar-2-0-day-20/
 categories:
   - Fitness
   - Life

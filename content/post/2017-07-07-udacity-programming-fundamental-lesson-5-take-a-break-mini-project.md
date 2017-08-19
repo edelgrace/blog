@@ -1,6 +1,6 @@
 ---
 title: 'Udacity Programming Fundamental Lesson 5: Take a Break Mini-Project'
-author: edel
+author: Edel
 type: post
 date: 2017-07-08T03:12:57+00:00
 url: /programming/udacity-programming-fundamental-lesson-5-take-a-break-mini-project/
