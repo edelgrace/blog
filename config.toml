@@ -142,6 +142,7 @@ watch =                       true
   tag = "tags"
 
 [params]
+latestpostcount = 5
 
 [params.highlight]
 style = "monokai"
