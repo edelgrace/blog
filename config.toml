@@ -7,7 +7,7 @@ description = "Blog of a nerdy crafter"
 keywords = ["crochet", "knitting", "technology", "programming", "web dev"]
 
 # theme
-theme = "hemingway2"
+theme = "cocoa"
 
 # archetypeDir =                "archetypes"
 
