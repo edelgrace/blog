@@ -1,5 +1,6 @@
 baseURL = "http://blog.edelgrace.me/"
 languageCode = "en-us"
+contentdir = "content"
 
 # meta
 title = "edelgrace.me"
@@ -8,7 +9,7 @@ keywords = ["crochet", "knitting", "technology", "programming", "web dev"]
 author = "Edel"
 
 # theme
-theme = "cocoa"
+theme = "hemingway2"
 
 # archetypeDir =                "archetypes"
 
@@ -109,7 +110,7 @@ pygmentsCodeFencesGuessSyntax = false
 pygmentsStyle =               "monokai"
 
 # true: use pygments-css or false: color-codes directly
-pygmentsUseClasses =          false
+pygmentsUseClasses = true
 
 # see "Section Menu for Lazy Bloggers", /templates/menu-templates for more info
 # SectionPagesMenu =
@@ -153,6 +154,14 @@ fa_icon = "fa-github"
 [[params.social]]
 url = "https://twitter.com/edelgraceme"
 fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "https://instagram.com/edelgraceme"
+fa_icon = "fa-instagram"
+
+[[params.social]]
+url="http://erzadel.tumblr.com"
+fa_icon = "fa-tumblr"
 
 [[params.social]]
 url = "/index.xml"
