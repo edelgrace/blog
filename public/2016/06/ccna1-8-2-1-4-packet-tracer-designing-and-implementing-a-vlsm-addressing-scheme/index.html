@@ -1,0 +1,937 @@
+<body>
+  <!DOCTYPE html>
+<html lang="en-us">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta content="" name="keywords">
+<meta content="CCNA1 8.2.1.4 Packet Tracer – Designing and Implementing a VLSM Addressing Scheme - edelgrace.me" property="og:title">
+<title>CCNA1 8.2.1.4 Packet Tracer – Designing and Implementing a VLSM Addressing Scheme | edelgrace.me</title>
+<link rel="stylesheet" href="http://blog.edelgrace.me//css/style.css">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/monokai.min.css">
+
+
+  <section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-left">
+        <a class="nav-item" href="http://blog.edelgrace.me//"><h1 class="title is-4">edelgrace.me</h1></a>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile">
+	  <form id="searchform" method="get" action="https://duckduckgo.com/">
+			<input type="search" name="q" maxlength="255" placeholder="Search..."><span class="mdricon mdr-search"></span>
+			<input type="hidden" name="sites" value="edelgrace.me">
+            <input type="hidden" name="kp" value="-1"> 
+            <input type="hidden" name="kh" value="1"> 
+            <input type="hidden" name="kl" value="wt-wt"> 
+            <input type="hidden" name="kg" value="p"> 
+            <input type="hidden" name="k7" value="#ffffff"> 
+            <input type="hidden" name="kj" value="#ffffff"> 
+			<input type="hidden" name="ky" value="#ffffff"> 
+			<input type="hidden" name="kx" value="#ffffff"> 
+			<input type="hidden" name="k1" value="-1"> 
+            <input type="hidden" name="ko" value="-2"> 
+            <input type="hidden" name="k8" value="#515151"> 
+            <input type="hidden" name="k9" value="#ffffff"> 
+            <input type="hidden" name="kaa" value="#ffffff"> 
+            <input type="hidden" name="kae" value="#ffffff"> 
+            <input type="hidden" name="ka" value="Roboto"> 
+            <input type="hidden" name="kt" value="Roboto"> 
+			<input type="submit" value="DuckDuckGo Search" style="visibility: hidden;">
+</form>
+
+          
+          <a class="level-item" href="https://github.com/edelgrace">
+            <span class="icon">
+              <i class="fa fa-github"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="https://twitter.com/edelgraceme">
+            <span class="icon">
+              <i class="fa fa-twitter"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="https://instagram.com/edelgraceme">
+            <span class="icon">
+              <i class="fa fa-instagram"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="http://erzadel.tumblr.com">
+            <span class="icon">
+              <i class="fa fa-tumblr"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="/index.xml">
+            <span class="icon">
+              <i class="fa fa-rss"></i>
+            </span>
+          </a>
+          
+        </nav>
+      </div>
+    </nav>
+  </div>
+</section>
+
+  <section class="section">
+    <div class="container">
+      <h2 class="subtitle is-6">June 4, 2016</h2>
+      <h1 class="title">CCNA1 8.2.1.4 Packet Tracer – Designing and Implementing a VLSM Addressing Scheme</h1>
+      
+      <div class="tags">
+    
+        <a class="button is-link" href="/tags/ccna">CCNA</a>
+    
+</div>
+
+      
+      <div class="content">
+        
+
+<p>I&#8217;m currently taking the CCNA1 course offered by Cisco. I struggled a lot with this activity so I thought it would be good to share how I finally figured it out. If you&#8217;re a little lazy and just want the answers, click <a href="#answers">here</a> to go straight to the addressing table or <a href="http://scattered.me/wp-content/uploads/2016/06/8.2.1.4-Packet-Tracer-Designing-and-Implementing-a-VLSM-Addressing-Scheme.pdf">here</a> to download the PDF. Be aware that the addresses may vary but the process is the same regardless.</p>
+
+<p>I am only human and will make mistakes so do not hesitate to point out any errors!</p>
+
+<div class="panel">
+  <ul>
+    <li>
+      <a href="#1">Part 1</a> <ul>
+        <li>
+          <a href="#1-1">Step 1</a>
+        </li>
+        <li>
+          <a href="#1-2">Step 2</a>
+        </li>
+      </ul>
+    </li>
+    
+    <li>
+      <a href="#2">Part 2</a> <ul>
+        <li>
+          <a href="#2-1">Step 1</a>
+        </li>
+        <li>
+          <a href="#2-2">Step 2</a>
+        </li>
+        <li>
+          <a href="#2-3">Step 3</a>
+        </li>
+      </ul>
+    </li>
+    
+    <li>
+      <a href="#3">Part 3</a>
+    </li>
+  </ul>
+</div>
+
+<h3 id="a-name-1-a-part-1-examine-the-network-requirements"><a name="1"></a>Part 1: Examine the Network Requirements</h3>
+
+<h4 id="a-name-1-1-a-step-1-determine-the-number-of-subnets-needed"><a name="1-1"></a>Step 1: Determine the number of subnets needed.</h4>
+
+<p>You will subnet the network address 192.168.72.0/24. The network has the following requirstrongents:</p>
+
+<ul>
+<li>ASW-1 LAN will require 7 host IP addresses</li>
+<li>ASW-2 LAN will require 15 host IP addresses</li>
+<li>ASW-3 LAN will require 29 host IP addresses</li>
+<li>ASW-4 LAN will require 58 host IP addresses</li>
+</ul>
+
+<h5 id="how-many-subnets-are-needed-in-the-network-topology">How many subnets are needed in the network topology?</h5>
+
+<p><a href="http://scattered.me/wp-content/uploads/2016/06/8.png"><img src="http://scattered.me/wp-content/uploads/2016/06/8.png" alt="8" width="571" height="358" class="alignnone size-full wp-image-11245" srcset="http://erzadel.net/blog/wp-content/uploads/2016/06/8.png 571w, http://erzadel.net/blog/wp-content/uploads/2016/06/8-300x188.png 300w" sizes="(max-width: 571px) 100vw, 571px" /></a></p>
+
+<p><strong>5 subnets are needed.</strong> If you look at the topology, there are 4 LANs (coloured in orange) and 1 serial connection between Building1 and Building2. Therefore, you need 5 subnets.</p>
+
+<h4 id="a-name-1-2-a-step-2-determine-the-subnet-mask-information-for-each-subnet"><a name="1-2"></a>Step 2: Determine the subnet mask information for each subnet.</h4>
+
+<p>The original subnet mask of the network address is 255.255.255.0. This comes from the prefix length /24, which indicates that there are 24 bits set in the subnet mask. We will use this as the basis for subnetting.</p>
+
+<table>
+  <tr>
+    <td>
+      11111111
+    </td>
+    
+    <td>
+      11111111
+    </td>
+    
+    <td>
+      11111111
+    </td>
+    
+    <td>
+      00000000
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      255
+    </td>
+    
+    <td>
+      255
+    </td>
+    
+    <td>
+      255
+    </td>
+    
+    <td>
+      00000000
+    </td>
+  </tr>
+</table>
+
+<h5 id="a-which-subnet-mask-will-accommodate-the-number-of-ip-addresses-required-for-asw-1">a. Which subnet mask will accommodate the number of IP addresses required for ASW-1?</h5>
+
+<p><strong>255.255.255.240 with a prefix length of /28.</strong></p>
+
+<p>First, calculate the number of host bits that will be able to contain at least 7 hosts. (2^n-2\</p>
+
+<p>= 2^4 &#8211; 2\</p>
+
+<p>= 14 usable &gt;= 7 required)</p>
+
+<p>14 is greater than 7, so this gives 4 bits are not set in the subnet mask.</p>
+
+<table>
+  <tr>
+    <td>
+      255
+    </td>
+    
+    <td>
+      255
+    </td>
+    
+    <td>
+      255
+    </td>
+    
+    <td>
+      240
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      128+64+32+16+8+2+1
+    </td>
+    
+    <td>
+      128+64+32+16+8+2+1
+    </td>
+    
+    <td>
+      128+64+32+16+8+2+1
+    </td>
+    
+    <td>
+      128+64+32+16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      11111111
+    </td>
+    
+    <td>
+      11111111
+    </td>
+    
+    <td>
+      11111111
+    </td>
+    
+    <td>
+      11110000
+    </td>
+  </tr>
+</table>
+
+<h5 id="how-many-usable-host-addresses-will-this-subnet-support">How many usable host addresses will this subnet support?</h5>
+
+<p><strong>14</strong>. This comes from the formula in the previous question.</p>
+
+<h5 id="b-which-subnet-mask-will-accommodate-the-number-of-ip-addresses-required-for-asw-2">b. Which subnet mask will accommodate the number of IP addresses required for ASW-2?</h5>
+
+<p><strong>255.255.255.224 with a prefix length of /27.</strong> (2^n-2\</p>
+
+<p>= 2^5 &#8211; 2\</p>
+
+<p>= 30 usable &gt;= 15 required)</p>
+
+<table>
+  <tr>
+    <td>
+      255
+    </td>
+    
+    <td>
+      255
+    </td>
+    
+    <td>
+      255
+    </td>
+    
+    <td>
+      224
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      11111111
+    </td>
+    
+    <td>
+      11111111
+    </td>
+    
+    <td>
+      11111111
+    </td>
+    
+    <td>
+      11100000
+    </td>
+  </tr>
+</table>
+
+<h5 id="how-many-usable-host-addresses-will-this-subnet-support-1">How many usable host addresses will this subnet support?</h5>
+
+<p><strong>30.</strong></p>
+
+<h5 id="c-which-subnet-mask-will-accommodate-the-number-of-ip-addresses-required-for-asw-3">c. Which subnet mask will accommodate the number of IP addresses required for ASW-3?</h5>
+
+<p><strong>255.255.255.224 with a prefix length of /27.</strong> (2^n-2\</p>
+
+<p>= 2^5 &#8211; 2\</p>
+
+<p>= 30 usable &gt;= 29 required)</p>
+
+<table>
+  <tr>
+    <td>
+      255
+    </td>
+    
+    <td>
+      255
+    </td>
+    
+    <td>
+      255
+    </td>
+    
+    <td>
+      224
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      11111111
+    </td>
+    
+    <td>
+      11111111
+    </td>
+    
+    <td>
+      11111111
+    </td>
+    
+    <td>
+      11100000
+    </td>
+  </tr>
+</table>
+
+<h5 id="how-many-usable-host-addresses-will-this-subnet-support-2">How many usable host addresses will this subnet support?</h5>
+
+<p><strong>30.</strong></p>
+
+<h5 id="d-which-subnet-mask-will-accommodate-the-number-of-ip-addresses-required-for-asw-4">d. Which subnet mask will accommodate the number of IP addresses required for ASW-4?</h5>
+
+<p><strong>255.255.255.192 with a prefix length of /26.</strong> (2^n-2\</p>
+
+<p>= 2^6 &#8211; 2\</p>
+
+<p>= 62 usable &gt;= 58 required)</p>
+
+<table>
+  <tr>
+    <td>
+      255
+    </td>
+    
+    <td>
+      255
+    </td>
+    
+    <td>
+      255
+    </td>
+    
+    <td>
+      224
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      11111111
+    </td>
+    
+    <td>
+      11111111
+    </td>
+    
+    <td>
+      11111111
+    </td>
+    
+    <td>
+      11000000
+    </td>
+  </tr>
+</table>
+
+<h5 id="how-many-usable-host-addresses-will-this-subnet-support-3">How many usable host addresses will this subnet support?</h5>
+
+<p><strong>62.</strong></p>
+
+<h5 id="e-which-subnet-mask-will-accommodate-the-number-of-ip-addresses-required-for-the-connection-between-building1-and-building2">e. Which subnet mask will accommodate the number of IP addresses required for the connection between Building1 and Building2?</h5>
+
+<p><strong>255.255.255.2552 with a prefix length of /30.</strong></p>
+
+<p>We can use one subnet for the WAN. Since there are only two routers involved, we just need two addresses for this subnet. (2^n-2\</p>
+
+<p>= 2^2 &#8211; 2\</p>
+
+<p>= 2 usable &gt;= 2 required)</p>
+
+<table>
+  <tr>
+    <td>
+      255
+    </td>
+    
+    <td>
+      255
+    </td>
+    
+    <td>
+      255
+    </td>
+    
+    <td>
+      252
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      11111111
+    </td>
+    
+    <td>
+      11111111
+    </td>
+    
+    <td>
+      11111111
+    </td>
+    
+    <td>
+      11111100
+    </td>
+  </tr>
+</table>
+
+<h3 id="a-name-2-a-part-2-design-the-vlsm-addressing-schstronge"><a name="2"></a>Part 2: Design the VLSM Addressing Schstronge</h3>
+
+<h4 id="a-name-2-1-a-step-1-divide-the-192-168-72-0-24-network-based-on-the-number-of-hosts-per-subnet"><a name="2-1"></a>Step 1: Divide the 192.168.72.0/24 network based on the number of hosts per subnet.</h4>
+
+<h5 id="a-use-the-first-subnet-to-accommodate-the-largest-lan">a. Use the first subnet to accommodate the largest LAN.</h5>
+
+<p><strong>192.168.72.0/26.</strong> The largest LAN is ASW-4 with 58 hosts. Subnet 192.168.72.0/24 into 192.168.72.0/26. This will give us 4 subnets ((2^2 = 4)) with 64 hosts per subnet.</p>
+
+<p>The subnets are:</p>
+
+<ul>
+<li>192.168.72.0</li>
+<li>192.168.72.64</li>
+<li>192.168.72.128</li>
+<li>192.168.72.192</li>
+</ul>
+
+<p>Since the subnets each contain 64 hosts, simple add 64 to the last octet. This method will not be as feasible for subnets with a large number of hosts. Another way is to convert everything to binary. Only the first 2 bits will change while the rstrongaining 6 bits stay the same.</p>
+
+<table>
+  <tr>
+    <td>
+      192.168.72.0
+    </td>
+    
+    <td>
+      110000.10101000.01001000.<strong>00</strong>000000
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      192.168.72.64
+    </td>
+    
+    <td>
+      110000.10101000.01001000.<strong>01</strong>000000
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      192.168.72.128
+    </td>
+    
+    <td>
+      110000.10101000.01001000.<strong>10</strong>000000
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      192.168.72.192
+    </td>
+    
+    <td>
+      110000.10101000.01001000.<strong>11</strong>000000
+    </td>
+  </tr>
+</table>
+
+<h5 id="b-use-the-second-subnet-to-accommodate-the-second-largest-lan">b. Use the second subnet to accommodate the second largest LAN.</h5>
+
+<p><strong>192.168.72.<sup>64</sup>&frasl;<sub>27</sub>.</strong>. We are using the second subnet because we are reserving the first subnet for the ASW-4 network. The second largest LAN is ASW-3 with 29 hosts. Subnet 192.168.72.<sup>62</sup>&frasl;<sub>26</sub> into 192.168.72.<sup>62</sup>&frasl;<sub>27</sub>. This will give 2 subnets ((2^1 = 2)) with 32 hosts per subnet. We use (2^1) because the base is /26 and /27 is only one bit longer.</p>
+
+<p>The subnets are:</p>
+
+<ul>
+<li>192.168.72.64</li>
+<li>192.168.72.96</li>
+</ul>
+
+<table>
+  <tr>
+    <td>
+      192.168.72.64
+    </td>
+    
+    <td>
+      110000.10101000.01001000.01<strong></strong>00000
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      192.168.72.96
+    </td>
+    
+    <td>
+      110000.10101000.01001000.01<strong>1</strong>00000
+    </td>
+  </tr>
+</table>
+
+<h5 id="c-use-the-third-subnet-to-accommodate-the-third-largest-lan">c. Use the third subnet to accommodate the third largest LAN.</h5>
+
+<p><strong>192.168.72.<sup>96</sup>&frasl;<sub>27</sub>.</strong> The third largest LAN is ASW-2 with 15 hosts. In the previous question, we already have 2 subnets that have 32 addresses each. The second subnet will be able to accomodate ASW-2. So we do not need to subnet further.</p>
+
+<h5 id="d-use-the-fourth-subnet-to-accommodate-the-fourth-largest-lan">d. Use the fourth subnet to accommodate the fourth largest LAN.</h5>
+
+<p><strong>192.168.72.<sup>128</sup>&frasl;<sub>28</sub>.</strong> Subnet 192.168.72.<sup>128</sup>&frasl;<sub>26</sub> into 192.168.72.<sup>128</sup>&frasl;<sub>28</sub>. This will give 4 subnets ((2^2 = 4)) with 16 hosts per subnet. We use (2^2) because the base is /26 and /28 is two bits longer.</p>
+
+<p>The subnets are:</p>
+
+<ul>
+<li>192.168.72.128</li>
+<li>192.168.72.144</li>
+<li>192.168.72.160</li>
+<li>192.168.72.176</li>
+</ul>
+
+<table>
+  <tr>
+    <td>
+      192.168.72.128
+    </td>
+    
+    <td>
+      110000.10101000.01001000.10<strong>00</strong>0000
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      192.168.72.144
+    </td>
+    
+    <td>
+      110000.10101000.01001000.10<strong>01</strong>0000
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      192.168.72.160
+    </td>
+    
+    <td>
+      110000.10101000.01001000.10<strong>10</strong>0000
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      192.168.72.176
+    </td>
+    
+    <td>
+      110000.10101000.01001000.10<strong>11</strong>0000
+    </td>
+  </tr>
+</table>
+
+<h5 id="e-use-the-fifth-subnet-to-accommodate-the-connection-between-building1-and-building2">e. Use the fifth subnet to accommodate the connection between Building1 and Building2.</h5>
+
+<p><strong>192.168.72.<sup>145</sup>&frasl;<sub>30</sub> and 192.168.72.<sup>146</sup>&frasl;<sub>30</sub>.</strong> Subnet 192.168.72.<sup>144</sup>&frasl;<sub>28</sub> into 192.168.72.<sup>144</sup>&frasl;<sub>30</sub>. This will give 4 subnets ((2^2 = 4)) with 2 hosts per subnet.</p>
+
+<p>The subnets are:</p>
+
+<ul>
+<li>192.168.72.144</li>
+<li>192.168.72.148</li>
+<li>192.168.72.152</li>
+<li>192.168.72.156</li>
+</ul>
+
+<table>
+  <tr>
+    <td>
+      192.168.72.144
+    </td>
+    
+    <td>
+      110000.10101000.01001000.1001<strong>00</strong>00
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      192.168.72.148
+    </td>
+    
+    <td>
+      110000.10101000.01001000.1001<strong>01</strong>00
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      192.168.72.152
+    </td>
+    
+    <td>
+      110000.10101000.01001000.1001<strong>10</strong>00
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      192.168.72.156
+    </td>
+    
+    <td>
+      110000.10101000.01001000.1001<strong>11</strong>00
+    </td>
+  </tr>
+</table>
+
+<h4 id="a-name-2-2-a-step-2-document-the-vlsm-subnets"><a name="2-2"></a>Step 2: Document the VLSM subnets.</h4>
+
+<p>Complete the Subnet Table, listing the subnet descriptions (e.g. ASW-1 LAN), number of hosts needed, then network address for the subnet, the first usable host address, and the broadcast address. Repeat until all addresses are listed.</p>
+
+<h5 id="subnet-table">Subnet Table</h5>
+
+<table>
+<thead>
+<tr>
+<th>Subnet Description</th>
+<th>Number of Hosts Needed</th>
+<th>Network Address/CIDR</th>
+<th>First Usable Host Address</th>
+<th>Broadcast Address</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>ASW-1 LAN</td>
+<td>7</td>
+<td>192.168.72.<sup>128</sup>&frasl;<sub>28</sub></td>
+<td>192.168.128.129</td>
+<td>192.168.128.143</td>
+</tr>
+
+<tr>
+<td>ASW-2 LAN</td>
+<td>15</td>
+<td>192.168.72.<sup>64</sup>&frasl;<sub>27</sub></td>
+<td>192.168.72.65</td>
+<td>192.168.72.95</td>
+</tr>
+
+<tr>
+<td>ASW-3 LAN</td>
+<td>29</td>
+<td>192.168.72.<sup>96</sup>&frasl;<sub>27</sub></td>
+<td>192.168.72.97</td>
+<td>192.168.72.127</td>
+</tr>
+
+<tr>
+<td>ASW-4 LAN</td>
+<td>58</td>
+<td>192.168.72.0/26</td>
+<td>192.168.72.1</td>
+<td>192.168.72.63</td>
+</tr>
+
+<tr>
+<td>Serial WAN</td>
+<td>2</td>
+<td>192.168.72.<sup>144</sup>&frasl;<sub>30</sub></td>
+<td>192.168.72.145</td>
+<td>192.168.72.147</td>
+</tr>
+</tbody>
+</table>
+
+<h4 id="a-name-2-3-a-step-3-document-the-addressing-schstronge"><a name="2-3"></a>Step 3: Document the addressing schstronge.</h4>
+
+<h5 id="a-assign-the-first-usable-ip-addresses-to-building1-for-the-two-lan-links-and-the-wan-link">a. Assign the first usable IP addresses to Building1 for the two LAN links and the WAN link.</h5>
+
+<ul>
+<li>ASW-1 LAN: 192.168.72.129</li>
+<li>ASW-2 LAN: 192.168.72.97</li>
+<li>Serial WAN: 192.168.72.145</li>
+</ul>
+
+<h5 id="b-assign-the-first-usable-ip-addresses-to-building2-for-the-two-lans-links-assign-the-last-usable-ip-address-for-the-wan-link">b. Assign the first usable IP addresses to Building2 for the two LANs links. Assign the last usable IP address for the WAN link.</h5>
+
+<ul>
+<li>ASW-3 LAN: 192.168.72.65</li>
+<li>ASW-4 LAN: 192.168.72.1</li>
+<li>Serial WAN: 192.168.72.146</li>
+</ul>
+
+<h5 id="c-assign-the-second-usable-ip-addresses-to-the-switches">c. Assign the second usable IP addresses to the switches.</h5>
+
+<ul>
+<li>ASW-1: 192.168.72.130</li>
+<li>ASW-2: 192.168.72.98</li>
+<li>ASW-3: 192.168.72.66</li>
+<li>ASW-4: 192.168.72.2</li>
+</ul>
+
+<h5 id="d-assign-the-last-usable-ip-addresses-to-the-hosts">d. Assign the last usable IP addresses to the hosts.</h5>
+
+<ul>
+<li>Host-A: 192.168.72.142</li>
+<li>Host-B: 192.168.72.94</li>
+<li>Host-C: 192.168.72.126</li>
+<li>Host-D: 192.168.72.62</li>
+</ul>
+
+<h3 id="a-name-3-a-part-3-assign-ip-addresses-to-devices-and-verify-connectivity"><a name="3"></a>Part 3: Assign IP Addresses to Devices and Verify Connectivity</h3>
+
+<p>Now it&#8217;s just a matter of plugging in values into Packet Tracer if you haven&#8217;t already.</p>
+
+<h3 id="a-name-answers-a-addressing-table"><a name="answers"></a>Addressing Table</h3>
+
+<p><td rowspan="3">
+  Remote-Site 1
+</td></p>
+
+<p><td rowspan="3">
+  Remote-Site 2
+</td></p>
+
+<table>
+<thead>
+<tr>
+<th>Device</th>
+<th>Interface</th>
+<th>IP Address</th>
+<th>Subnet Mask</th>
+<th>Default Gateway</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>G0/0</td>
+<td>192.168.72.129</td>
+<td>255.255.255.240</td>
+<td>N/A</td>
+<td></td>
+</tr>
+
+<tr>
+<td>G0/1</td>
+<td>192.168.72.97</td>
+<td>255.255.255.224</td>
+<td>N/A</td>
+<td></td>
+</tr>
+
+<tr>
+<td>S0/0/0</td>
+<td>192.168.72.145</td>
+<td>255.255.255.252</td>
+<td>N/A</td>
+<td></td>
+</tr>
+
+<tr>
+<td>G0/0</td>
+<td>192.168.72.65</td>
+<td>255.255.255.224</td>
+<td>N/A</td>
+<td></td>
+</tr>
+
+<tr>
+<td>G0/1</td>
+<td>192.168.72.1</td>
+<td>255.255.255.192</td>
+<td>N/A</td>
+<td></td>
+</tr>
+
+<tr>
+<td>S0/0/0</td>
+<td>192.168.72.146</td>
+<td>255.255.255.252</td>
+<td>N/A</td>
+<td></td>
+</tr>
+
+<tr>
+<td>SW1</td>
+<td>VLAN 1</td>
+<td>192.168.72.130</td>
+<td>255.255.255.240</td>
+<td>192.168.72.129</td>
+</tr>
+
+<tr>
+<td>SW2</td>
+<td>VLAN 1</td>
+<td>192.168.72.98</td>
+<td>255.255.255.224</td>
+<td>192.168.72.97</td>
+</tr>
+
+<tr>
+<td>SW3</td>
+<td>VLAN 1</td>
+<td>192.168.72.66</td>
+<td>255.255.255.224</td>
+<td>192.168.72.65</td>
+</tr>
+
+<tr>
+<td>SW4</td>
+<td>VLAN 1</td>
+<td>192.168.72.2</td>
+<td>255.255.255.192</td>
+<td>192.168.72.1</td>
+</tr>
+
+<tr>
+<td>User-1</td>
+<td>NIC</td>
+<td>192.168.72.142</td>
+<td>255.255.255.240</td>
+<td>192.168.72.129</td>
+</tr>
+
+<tr>
+<td>User-2</td>
+<td>NIC</td>
+<td>192.168.72.126</td>
+<td>255.255.255.224</td>
+<td>192.168.72.97</td>
+</tr>
+
+<tr>
+<td>User-3</td>
+<td>NIC</td>
+<td>192.168.72.94</td>
+<td>255.255.255.224</td>
+<td>192.168.72.65</td>
+</tr>
+
+<tr>
+<td>User-4</td>
+<td>NIC</td>
+<td>192.168.72.62</td>
+<td>255.255.255.192</td>
+<td>192.168.72.1</td>
+</tr>
+</tbody>
+</table>
+
+<ol class="footnote">
+</ol>
+
+      </div>
+    </div>
+  </section>
+  
+
+  <section class="section">
+  <div class="container has-text-centered">
+    <p></p>
+  </div>
+</section>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/dockerfile.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/php.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/python.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/java.min.js"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+</body>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hosting on edelgrace.me</title>
+    <link>http://blog.edelgrace.me/tags/hosting/</link>
+    <description>Recent content in Hosting on edelgrace.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Sep 2015 01:12:20 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.edelgrace.me/tags/hosting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I Moved Hosts to Network Panda</title>
+      <link>http://blog.edelgrace.me/2015/09/i-moved-hosts/</link>
+      <pubDate>Sun, 13 Sep 2015 01:12:20 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2015/09/i-moved-hosts/</guid>
+      <description>I&amp;#8217;ve been with Three Words Hosting for a long time now. I can&amp;#8217;t exactly pinpoint how long&amp;#8230; But I still had my first domain while I was with them. I remember when I had to jump from host to host because they kept disappearing. However, when I found Three Words, I felt like I could stay there forever. Honestly, I have nothing but praise for Misaki. She&amp;#8217;s been an outstanding host.</description>
+    </item>
+    
+  </channel>
+</rss>

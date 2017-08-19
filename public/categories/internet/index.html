@@ -1,0 +1,381 @@
+<body>
+  <!DOCTYPE html>
+<html lang="en-us">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta content="" name="keywords">
+<meta content="Internet - edelgrace.me" property="og:title">
+<title>Internet | edelgrace.me</title>
+<link rel="stylesheet" href="http://blog.edelgrace.me//css/style.css">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/monokai.min.css">
+
+
+  <section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-left">
+        <a class="nav-item" href="http://blog.edelgrace.me//"><h1 class="title is-4">edelgrace.me</h1></a>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile">
+	  <form id="searchform" method="get" action="https://duckduckgo.com/">
+			<input type="search" name="q" maxlength="255" placeholder="Search..."><span class="mdricon mdr-search"></span>
+			<input type="hidden" name="sites" value="edelgrace.me">
+            <input type="hidden" name="kp" value="-1"> 
+            <input type="hidden" name="kh" value="1"> 
+            <input type="hidden" name="kl" value="wt-wt"> 
+            <input type="hidden" name="kg" value="p"> 
+            <input type="hidden" name="k7" value="#ffffff"> 
+            <input type="hidden" name="kj" value="#ffffff"> 
+			<input type="hidden" name="ky" value="#ffffff"> 
+			<input type="hidden" name="kx" value="#ffffff"> 
+			<input type="hidden" name="k1" value="-1"> 
+            <input type="hidden" name="ko" value="-2"> 
+            <input type="hidden" name="k8" value="#515151"> 
+            <input type="hidden" name="k9" value="#ffffff"> 
+            <input type="hidden" name="kaa" value="#ffffff"> 
+            <input type="hidden" name="kae" value="#ffffff"> 
+            <input type="hidden" name="ka" value="Roboto"> 
+            <input type="hidden" name="kt" value="Roboto"> 
+			<input type="submit" value="DuckDuckGo Search" style="visibility: hidden;">
+</form>
+
+          
+          <a class="level-item" href="https://github.com/edelgrace">
+            <span class="icon">
+              <i class="fa fa-github"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="https://twitter.com/edelgraceme">
+            <span class="icon">
+              <i class="fa fa-twitter"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="https://instagram.com/edelgraceme">
+            <span class="icon">
+              <i class="fa fa-instagram"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="http://erzadel.tumblr.com">
+            <span class="icon">
+              <i class="fa fa-tumblr"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="/index.xml">
+            <span class="icon">
+              <i class="fa fa-rss"></i>
+            </span>
+          </a>
+          
+        </nav>
+      </div>
+    </nav>
+  </div>
+</section>
+
+  <section class="section">
+    <div class="container">
+      
+      <article>
+        <h2 class="subtitle is-6">October 11, 2016</h2>
+        <h1 class="title"><a href="http://blog.edelgrace.me/2016/10/lftp-fatal-error-certificate-verification/">LFTP Fatal Error: Certificate verification</a></h1>
+        
+        <div class="tags">
+    
+        <a class="button is-link" href="/tags/git-ftp">git-ftp</a>
+    
+        <a class="button is-link" href="/tags/lftp">lftp</a>
+    
+</div>
+
+        
+        <div class="content">
+          The error: ~$ git-ftp pull&lt;br /&gt; ~$ cd: Fatal error: Certificate verification: certificate common name doesn&rsquo;t match requested host name ‘ftp.mazohyst.org’&lt;br /&gt; ~$ mirror: Fatal error: Certificate verification: certificate common name doesn&rsquo;t match requested host name ‘ftp.mazohyst.org’
+Solution: Edit ~/.lftp/rc so that it contains set ssl:check-hostname no. What this does is pretty self explanatory. If the hostname in the certificate does not match the hostname you&#8217;re attempting to connect to, it doesn&#8217;t matter because it won&#8217;t check for that in the first place.
+          
+          ...<a class="button is-link" href="http://blog.edelgrace.me/2016/10/lftp-fatal-error-certificate-verification/" style="height:28px">
+            Read more
+            <span class="icon is-small">
+              <i class="fa fa-angle-double-right"></i>
+            </span>
+          </a>
+          
+        </div>
+      </article>
+      
+      <article>
+        <h2 class="subtitle is-6">June 7, 2016</h2>
+        <h1 class="title"><a href="http://blog.edelgrace.me/2016/06/speaking-of-security/">Speaking of Security</a></h1>
+        
+        <div class="content">
+          My last post was about security by obscurity and I talked a little about trying to implement security techniques into my projects. This is really great timing.
+Last week, various online services ran by my university were down. It was really inconvenient not having access to my e-mail but I took it in stride. I figured it was just the servers acting up or malware or something like that. It turns out that my university was dealing with a ransomware attack.
+          
+          ...<a class="button is-link" href="http://blog.edelgrace.me/2016/06/speaking-of-security/" style="height:28px">
+            Read more
+            <span class="icon is-small">
+              <i class="fa fa-angle-double-right"></i>
+            </span>
+          </a>
+          
+        </div>
+      </article>
+      
+      <article>
+        <h2 class="subtitle is-6">February 21, 2016</h2>
+        <h1 class="title"><a href="http://blog.edelgrace.me/2016/02/9-years-of-blogging/">9 Years of Blogging</a></h1>
+        
+        <div class="content">
+          Okay, I know that probably isn&#8217;t a lot compared to other bloggers out there but to me, that&#8217;s mind blowing. 9 years is around 40% of my life and that percentage will only keep on increasing. Assuming that I continue blogging. As long as I can type, I don&#8217;t think I would stop blogging. Sure, my blogging might be extremely sporadic but it&#8217;s still blogging to me.
+Actually, I was going through my archive and I read a blog post that was from exactly six years and two days ago.
+          
+          ...<a class="button is-link" href="http://blog.edelgrace.me/2016/02/9-years-of-blogging/" style="height:28px">
+            Read more
+            <span class="icon is-small">
+              <i class="fa fa-angle-double-right"></i>
+            </span>
+          </a>
+          
+        </div>
+      </article>
+      
+      <article>
+        <h2 class="subtitle is-6">February 19, 2016</h2>
+        <h1 class="title"><a href="http://blog.edelgrace.me/2016/02/comics-arent-just-kids-stuff/">Comics Aren’t Just Kids Stuff!</a></h1>
+        
+        <div class="tags">
+    
+        <a class="button is-link" href="/tags/web-comics">web comics</a>
+    
+</div>
+
+        
+        <div class="content">
+          I initially started writing this post in 2012. I&#8217;ve been going through and cleaning out my drafts and decided this one was worthy of continuing and actually publishing.
+Comics are usually written off as being childish or something only nerds can enjoy. But, I&#8217;m not here to argue whether comics are legitimate literature or not. I&#8217;m here to point out some of my favourite web comics. I don&#8217;t know where it started but I got bored one day and eventually ended up on a web comics site.
+          
+          ...<a class="button is-link" href="http://blog.edelgrace.me/2016/02/comics-arent-just-kids-stuff/" style="height:28px">
+            Read more
+            <span class="icon is-small">
+              <i class="fa fa-angle-double-right"></i>
+            </span>
+          </a>
+          
+        </div>
+      </article>
+      
+      <article>
+        <h2 class="subtitle is-6">September 27, 2015</h2>
+        <h1 class="title"><a href="http://blog.edelgrace.me/2015/09/finally-imported-those-old-posts/">Finally Imported Those Old Posts</a></h1>
+        
+        <div class="content">
+          So now that I&#8217;ve moved hosts, I decided to do some spring cleaning (fall cleaning?). Right now, my databases are a mess. I have a lot of databases that aren&#8217;t used and databases that are waiting to be used. I still had my old blog database, back from when Brokenphrases was my main blog. So, I decided to to import all those pages and posts here.
+Now my blog post archive is pretty much complete.
+          
+          ...<a class="button is-link" href="http://blog.edelgrace.me/2015/09/finally-imported-those-old-posts/" style="height:28px">
+            Read more
+            <span class="icon is-small">
+              <i class="fa fa-angle-double-right"></i>
+            </span>
+          </a>
+          
+        </div>
+      </article>
+      
+      <article>
+        <h2 class="subtitle is-6">September 13, 2015</h2>
+        <h1 class="title"><a href="http://blog.edelgrace.me/2015/09/i-moved-hosts/">I Moved Hosts to Network Panda</a></h1>
+        
+        <div class="tags">
+    
+        <a class="button is-link" href="/tags/hosting">hosting</a>
+    
+        <a class="button is-link" href="/tags/hosts">hosts</a>
+    
+</div>
+
+        
+        <div class="content">
+          I&#8217;ve been with Three Words Hosting for a long time now. I can&#8217;t exactly pinpoint how long&#8230; But I still had my first domain while I was with them. I remember when I had to jump from host to host because they kept disappearing. However, when I found Three Words, I felt like I could stay there forever. Honestly, I have nothing but praise for Misaki. She&#8217;s been an outstanding host.
+          
+          ...<a class="button is-link" href="http://blog.edelgrace.me/2015/09/i-moved-hosts/" style="height:28px">
+            Read more
+            <span class="icon is-small">
+              <i class="fa fa-angle-double-right"></i>
+            </span>
+          </a>
+          
+        </div>
+      </article>
+      
+      <article>
+        <h2 class="subtitle is-6">August 26, 2015</h2>
+        <h1 class="title"><a href="http://blog.edelgrace.me/2015/08/transition-to-foundation-successful/">Transition to Foundation: Successful?</a></h1>
+        
+        <div class="content">
+          Okay I&#8217;m so angry, I wrote this entire post out in the &#8220;Quick Draft&#8221; section of my dashboard, clicked &#8220;Save Draft&#8221; and then when I came back, what I wrote was erased. :( This happens a lot but not enough for me to remember to save entries locally before I publish&#8230; I&#8217;ll try my best to recreate what I just wrote. I&#8217;m still really salty, haha.
+In my previous post, I mentioned that I was moving from Bootstrap to Foundation.
+          
+          ...<a class="button is-link" href="http://blog.edelgrace.me/2015/08/transition-to-foundation-successful/" style="height:28px">
+            Read more
+            <span class="icon is-small">
+              <i class="fa fa-angle-double-right"></i>
+            </span>
+          </a>
+          
+        </div>
+      </article>
+      
+      <article>
+        <h2 class="subtitle is-6">August 6, 2014</h2>
+        <h1 class="title"><a href="http://blog.edelgrace.me/2014/08/link-dump-2/">Link Dump #2</a></h1>
+        
+        <div class="tags">
+    
+        <a class="button is-link" href="/tags/hyouka">hyouka</a>
+    
+        <a class="button is-link" href="/tags/link-dump">link dump</a>
+    
+        <a class="button is-link" href="/tags/paradise-kiss">paradise kiss</a>
+    
+</div>
+
+        
+        <div class="content">
+          I only have one link today, that&#8217;s the blog Altair &amp; Vega.
+Altair &amp; Vega is an extremely insightful blog that delves deep into the narrative and art of many popular anime and manga titles. They have a group of multiple authors and while their posts aren&#8217;t regular, when they do show up on my news feed, it&#8217;s a great treat.
+I forget how I originally got to this site. I probably stumbled upon it through the post on the anime Hyouka, &#8220;And You Don&#8217;t Doubt Your Own?
+          
+          ...<a class="button is-link" href="http://blog.edelgrace.me/2014/08/link-dump-2/" style="height:28px">
+            Read more
+            <span class="icon is-small">
+              <i class="fa fa-angle-double-right"></i>
+            </span>
+          </a>
+          
+        </div>
+      </article>
+      
+      <article>
+        <h2 class="subtitle is-6">July 3, 2014</h2>
+        <h1 class="title"><a href="http://blog.edelgrace.me/2014/07/random-tumblr-posts-3/">Random Tumblr Posts #3</a></h1>
+        
+        <div class="content">
+          Warning: Implied misogynistic content, alluding to the USBC shootings, and mentions of rape.
+I write SO MUCH on Tumblr even though I have a blog sitting here just waiting to be used. I&#8217;m sorry. I&#8217;ll try to make this as painless as possible. Here are some posts I&#8217;ve made on Tumblr.
+ I was listening to an episode of the Internet Box, which was recorded around the time when Andrew got a Tumblr and started stirring the pot with the social justice fan community.
+          
+          ...<a class="button is-link" href="http://blog.edelgrace.me/2014/07/random-tumblr-posts-3/" style="height:28px">
+            Read more
+            <span class="icon is-small">
+              <i class="fa fa-angle-double-right"></i>
+            </span>
+          </a>
+          
+        </div>
+      </article>
+      
+      <article>
+        <h2 class="subtitle is-6">June 3, 2014</h2>
+        <h1 class="title"><a href="http://blog.edelgrace.me/2014/06/random-tumblr-posts-1/">Random Tumblr Posts #1</a></h1>
+        
+        <div class="tags">
+    
+        <a class="button is-link" href="/tags/tumblr-posts">tumblr posts</a>
+    
+</div>
+
+        
+        <div class="content">
+          Ugh I write SO MUCH on Tumblr even though I have a blog sitting here just waiting to be used. I&#8217;m sorry. I&#8217;ll try to make this as painless as possible.
+ I had a dream where I literally just lived out my entire day, down to sitting in lecture being bored and taking notes.
+You don’t even know how disappointed I am when I woke up knowing that I had to do it all over again.
+          
+          ...<a class="button is-link" href="http://blog.edelgrace.me/2014/06/random-tumblr-posts-1/" style="height:28px">
+            Read more
+            <span class="icon is-small">
+              <i class="fa fa-angle-double-right"></i>
+            </span>
+          </a>
+          
+        </div>
+      </article>
+      
+      <article>
+        <h2 class="subtitle is-6">May 25, 2014</h2>
+        <h1 class="title"><a href="http://blog.edelgrace.me/2014/05/on-approaching-this-blog/">On Approaching this Blog &amp; R.I.P hide</a></h1>
+        
+        <div class="content">
+          Warning: Suicide content warning.
+My philosophy with this blog has always been to approach in a very casual and informal way. I was inspired by a blog to do so, but I don&#8217;t quite remember what site it was exactly (I&#8217;m tempted to say it was 6birds, but I&#8217;m not entirely sure). I try to have this mindset whenever I need to write a blog post. Even so, I don&#8217;t entirely feel free in writing whatever I want.
+          
+          ...<a class="button is-link" href="http://blog.edelgrace.me/2014/05/on-approaching-this-blog/" style="height:28px">
+            Read more
+            <span class="icon is-small">
+              <i class="fa fa-angle-double-right"></i>
+            </span>
+          </a>
+          
+        </div>
+      </article>
+      
+    </div>
+  </section>
+  <section class="section">
+  <div class="container">
+    <nav class="level is-mobile">
+      <div class="level-left">
+        <div class="level-item">
+          
+          <a class="button is-disabled">
+            <span class="icon is-small is-marginless">
+              <i class="fa fa-angle-left"></i>
+            </span>
+            Newer
+          </a>
+          
+        </div>
+      </div>
+      <div class="level-right is-marginless">
+        <div class="level-item">
+          
+          <a class="button" href="/categories/internet/page/2/">
+            Older
+            <span class="icon is-small is-marginless">
+              <i class="fa fa-angle-right"></i>
+            </span>
+          </a>
+          
+        </div>
+      </div>
+    </nav>
+  </div>
+</section>
+
+  <section class="section">
+  <div class="container has-text-centered">
+    <p></p>
+  </div>
+</section>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/dockerfile.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/php.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/python.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/java.min.js"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+</body>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firewalls on edelgrace.me</title>
+    <link>http://blog.edelgrace.me/tags/firewalls/</link>
+    <description>Recent content in Firewalls on edelgrace.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Jan 2017 05:26:38 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.edelgrace.me/tags/firewalls/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TIL: Adding Policies in Cisco Firewalls</title>
+      <link>http://blog.edelgrace.me/networking/til-adding-policies-in-cisco-firewalls/</link>
+      <pubDate>Thu, 05 Jan 2017 05:26:38 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/networking/til-adding-policies-in-cisco-firewalls/</guid>
+      <description>Identify traffic with an access-list
+access-list acl-name permit ip source destination dscp dscp-value Apply the access-list with the dscp value to an interfact
+class-map match-all interface match ip dscp dscp-value Apply the policy
+policy-map map-name class class-name [bandwidth bandwidth-value] [priority priority-level] set ip dscp dscp-value Today at work I was going over firewalls. We want to check the configuration of the firewalls and compare them to our QoS standards. I&amp;#8217;m not too familiar with how policies and QoS are implemented on Cisco devices so it was pretty interesting to learn.</description>
+    </item>
+    
+  </channel>
+</rss>

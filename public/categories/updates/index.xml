@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates on edelgrace.me</title>
+    <link>http://blog.edelgrace.me/categories/updates/</link>
+    <description>Recent content in Updates on edelgrace.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Nov 2013 05:57:28 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.edelgrace.me/categories/updates/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Here We Go</title>
+      <link>http://blog.edelgrace.me/2013/11/here-we-go/</link>
+      <pubDate>Sat, 02 Nov 2013 05:57:28 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2013/11/here-we-go/</guid>
+      <description>There&amp;#8217;s nothing like starting a new website on the first day of a month, halfway through the semester, and with my very first responsive design.
+I&amp;#8217;m excited that I&amp;#8217;m (silently) opening this website but I also have this nagging feeling at the back of my mind. I need to close a few other chapters in my online life. I have two domains that I will be letting go. One is my current blog and the other was a failed project blog of mine.</description>
+    </item>
+    
+  </channel>
+</rss>

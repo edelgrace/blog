@@ -1,0 +1,201 @@
+<body>
+  <!DOCTYPE html>
+<html lang="en-us">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta content="" name="keywords">
+<meta content="Udacity Programming Fundamental Lesson 5: Take a Break Mini-Project - edelgrace.me" property="og:title">
+<title>Udacity Programming Fundamental Lesson 5: Take a Break Mini-Project | edelgrace.me</title>
+<link rel="stylesheet" href="http://blog.edelgrace.me//css/style.css">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/monokai.min.css">
+
+
+  <section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-left">
+        <a class="nav-item" href="http://blog.edelgrace.me//"><h1 class="title is-4">edelgrace.me</h1></a>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile">
+	  <form id="searchform" method="get" action="https://duckduckgo.com/">
+			<input type="search" name="q" maxlength="255" placeholder="Search..."><span class="mdricon mdr-search"></span>
+			<input type="hidden" name="sites" value="edelgrace.me">
+            <input type="hidden" name="kp" value="-1"> 
+            <input type="hidden" name="kh" value="1"> 
+            <input type="hidden" name="kl" value="wt-wt"> 
+            <input type="hidden" name="kg" value="p"> 
+            <input type="hidden" name="k7" value="#ffffff"> 
+            <input type="hidden" name="kj" value="#ffffff"> 
+			<input type="hidden" name="ky" value="#ffffff"> 
+			<input type="hidden" name="kx" value="#ffffff"> 
+			<input type="hidden" name="k1" value="-1"> 
+            <input type="hidden" name="ko" value="-2"> 
+            <input type="hidden" name="k8" value="#515151"> 
+            <input type="hidden" name="k9" value="#ffffff"> 
+            <input type="hidden" name="kaa" value="#ffffff"> 
+            <input type="hidden" name="kae" value="#ffffff"> 
+            <input type="hidden" name="ka" value="Roboto"> 
+            <input type="hidden" name="kt" value="Roboto"> 
+			<input type="submit" value="DuckDuckGo Search" style="visibility: hidden;">
+</form>
+
+          
+          <a class="level-item" href="https://github.com/edelgrace">
+            <span class="icon">
+              <i class="fa fa-github"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="https://twitter.com/edelgraceme">
+            <span class="icon">
+              <i class="fa fa-twitter"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="https://instagram.com/edelgraceme">
+            <span class="icon">
+              <i class="fa fa-instagram"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="http://erzadel.tumblr.com">
+            <span class="icon">
+              <i class="fa fa-tumblr"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="/index.xml">
+            <span class="icon">
+              <i class="fa fa-rss"></i>
+            </span>
+          </a>
+          
+        </nav>
+      </div>
+    </nav>
+  </div>
+</section>
+
+  <section class="section">
+    <div class="container">
+      <h2 class="subtitle is-6">July 8, 2017</h2>
+      <h1 class="title">Udacity Programming Fundamental Lesson 5: Take a Break Mini-Project</h1>
+      
+      <div class="content">
+        <p>Seeing that I am now unemployed and have a lot of time on my hands, I decided to utilize the free month of <a href="https://udacity.com">Udacity</a> I received from Github&#8217;s <a href="http://education.github.com/pack">Student Pack</a>.</p>
+
+<p>This mini-project&#8217;s goal is to create a simple program using Python to open a web browser at an interval of ten seconds three times in a row.</p>
+
+<p>Here is my answer:</p>
+
+<p>`</p>
+<pre>import time
+import webbrowser</p>
+
+<p>break_duration = 10
+break_num = 3
+break_count = 0</p>
+
+<p>print(&ldquo;This program started at: &ldquo; + time.ctime())</p>
+
+<p>while(break_count &lt; break_num):</p>
+
+<pre><code>time.sleep(break_duration)
+
+webbrowser.open(&quot;http://edelgrace.me/blog&quot;)
+
+break_count += 1&lt;/pre&gt;
+</code></pre>
+
+<p><p>`</p>
+
+<p>First I will explain the first two lines. In Python, there are many different modules that you can utilize to achieve specific things. Think of them as apps that you use on your phone. You have apps for calendars, contacts, games, social media, etc. Just like apps, we don&rsquo;t really need to know how exactly modules works, just how to use them to get what we want. In this case, we use modules to get information about the time and to use the web browser on the computer.</p>
+
+<p><code>&lt;/p&gt;
+&lt;pre&gt;import time
+import webbrowser&lt;/pre&gt;
+&lt;p&gt;</code></p>
+
+<p>Next, I initialize some variables. Think of this as giving something a name. For example, I am 22 years old as of writing this. This would be my age. In the code, I am declaring that the <code>break_duration</code> (how long to wait to open a web browser) is 10 seconds. The <code>break_num</code> determines how many breaks to take, which is 3. Lastly, the number of breaks taken so far, <code>break_count</code>, is 0.</p>
+
+<p><code>&lt;/p&gt;
+&lt;pre&gt;break_duration = 10
+break_num = 3
+break_count = 0&lt;/pre&gt;
+&lt;p&gt;</code></p>
+
+<p>This line will print out a message to the console with the <code>print</code> function. Inside print, it uses a function from the <code>time</code> module that we imported earlier. The function we use is <code>ctime()</code>, which grabs the value of the current time.</p>
+
+<p><code>&lt;/p&gt;
+&lt;pre&gt;print(&quot;This program started at: &quot; + time.ctime())&gt;&lt;/pre&gt;
+&lt;p&gt;</code></p>
+
+<p>The last chunk of code is a <code>while</code> loop. Think of while loops as a set of instructions to repeat until a condition is met. I will break this down line by line.</p>
+
+<p>`</p>
+<pre>while(break_count &lt; break_num):</p>
+
+<pre><code>time.sleep(break_duration)
+
+webbrowser.open(&quot;http://edelgrace.me/blog&quot;)
+
+break_count += 1&lt;/pre&gt;
+</code></pre>
+
+<p><p>`</p>
+
+<p>The first line determines the condition. This loop will keep running as long as the number of breaks taken (<code>break_count</code>) is less than the number of breaks that should be taken (<code>break_num</code>, which is 3). When this condition is not met, the code inside the while loop will stop running.</p>
+
+<p><code>&lt;/p&gt;
+&lt;pre&gt;while(break_count &lt; break_num):&lt;/pre&gt;
+&lt;p&gt;</code></p>
+
+<p>Then we use the function <code>time.sleep()</code> to essentially wait for the number of seconds and essentially do nothing. From the official Python documentation, we can see that this function will accept numbers in terms of seconds, which is what we are using in <code>break_duration</code>.</p>
+
+<p><code>&lt;/p&gt;
+&lt;pre&gt;time.sleep(break_duration)&lt;/pre&gt;
+&lt;p&gt;</code></p>
+
+<p>Once the 10 seconds has elapsed, the next line of code will run. This uses the <code>webbrowser.open()</code> function. It essentially does what it says: open a web browser. Here, we indicate which site to open. In my case, we open up my blog for a quick break. 🙂</p>
+
+<p><code>&lt;/p&gt;
+&lt;pre&gt;webbrowser.open(&quot;http://edelgrace.me/blog&quot;)&lt;/pre&gt;
+&lt;p&gt;</code></p>
+
+<p>After that is all done, we have finished a break. Therefore, we increase the variable <code>break_num</code> by one to indicate that a break has been finished.</p>
+
+<p><code>&lt;/p&gt;
+&lt;pre&gt;break_count += 1&lt;/pre&gt;
+&lt;p&gt;</code></p>
+
+<p>The code then goes back to the start of the while loop and checks the condition. <code>break_count</code> is now 0+1=1 which is still less than <code>break_num</code> (which is 3). This repeats two more times until <code>break_count</code> is 3 and then the condition fails and the while loop is skipped over. Since there is no more code after the while loop, the program ends.</p>
+
+      </div>
+    </div>
+  </section>
+  
+
+  <section class="section">
+  <div class="container has-text-centered">
+    <p></p>
+  </div>
+</section>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/dockerfile.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/php.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/python.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/java.min.js"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+</body>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fitness on edelgrace.me</title>
+    <link>http://blog.edelgrace.me/tags/fitness/</link>
+    <description>Recent content in Fitness on edelgrace.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Feb 2017 16:33:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.edelgrace.me/tags/fitness/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I Joined a Gym</title>
+      <link>http://blog.edelgrace.me/life/i-joined-a-gym/</link>
+      <pubDate>Thu, 09 Feb 2017 16:33:00 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/life/i-joined-a-gym/</guid>
+      <description>In an attempt to do more things in my free time, I decided to join a gym. My original plan was to go to my university gym however since I am on co-op, I no longer have the discounted membership included in my tuition. Instead, I opted for my local Fit4Less. It is an extremely more convenient location, significantly cheaper, and a good &amp;#8220;introductory&amp;#8221; gym for those who are just starting out.</description>
+    </item>
+    
+  </channel>
+</rss>

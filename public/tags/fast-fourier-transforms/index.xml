@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fast Fourier Transforms on edelgrace.me</title>
+    <link>http://blog.edelgrace.me/tags/fast-fourier-transforms/</link>
+    <description>Recent content in Fast Fourier Transforms on edelgrace.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Aug 2015 06:45:34 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.edelgrace.me/tags/fast-fourier-transforms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tumblr Post: Convolutions, Please…</title>
+      <link>http://blog.edelgrace.me/2015/08/tumblr-post-3/</link>
+      <pubDate>Wed, 19 Aug 2015 06:45:34 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2015/08/tumblr-post-3/</guid>
+      <description>Disclaimer: This is a cross post from my Tumblr blog, Study, Scattered Me!. As well, any products mentioned in this post are not in any way sponsored (unless stated) and my views on those products are my own.
+ 
+I’m in the middle of trying out studyign{.tumblelog}’s method of taking textbook notes for my algorithm design class.
+This was seriously a hard section to wrap my head around. Each step of computing a convolution makes sense but the big picture escapes me right now, especially since it involves complex numbers, which I haven’t touched those in years.</description>
+    </item>
+    
+  </channel>
+</rss>

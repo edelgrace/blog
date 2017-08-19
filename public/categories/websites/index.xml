@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Websites on edelgrace.me</title>
+    <link>http://blog.edelgrace.me/categories/websites/</link>
+    <description>Recent content in Websites on edelgrace.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jul 2017 14:01:27 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.edelgrace.me/categories/websites/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tempted by Static Pages Again</title>
+      <link>http://blog.edelgrace.me/programming/tempted-by-static-pages-again/</link>
+      <pubDate>Sat, 29 Jul 2017 14:01:27 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/programming/tempted-by-static-pages-again/</guid>
+      <description>I recently started learning how to use emacs, which is a text editor and a Lisp interpreter. During my quest for resources, I came across a number of developers and their blogs. Since I&amp;#8217;m always intrigued by what sort of tools developers use to make their blogs, I did a little snooping. A shocking number of people who didn&amp;#8217;t use WordPress as their blogging platform opted for flat files instead.</description>
+    </item>
+    
+    <item>
+      <title>When Spam Isn’t Just Annoying</title>
+      <link>http://blog.edelgrace.me/websites/when-spam-isnt-just-annoying/</link>
+      <pubDate>Mon, 10 Jul 2017 17:16:00 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/websites/when-spam-isnt-just-annoying/</guid>
+      <description>The past couple of weeks I noticed that the MySQL service on my server would routinely stop out of the blue. At first I suspected that it was because my 512MB RAM wasn&amp;#8217;t enough but when I looked at the usage history, I never peaked more than 9%. I even tried reinstalling the MySQL server which worked at first but then it stopped running again.
+However, I think the problem was due to bots trying to log into my WordPress dashboard.</description>
+    </item>
+    
+    <item>
+      <title>TIL: How to Set Up Virtual Hosts on Apache</title>
+      <link>http://blog.edelgrace.me/websites/til-how-to-set-up-virtual-hosts-on-apache/</link>
+      <pubDate>Sun, 02 Apr 2017 17:50:31 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/websites/til-how-to-set-up-virtual-hosts-on-apache/</guid>
+      <description>Create a virtual host configuration file site-name.conf for the site:
+sudo vim /etc/apache2/sites-available/&amp;lt;em&amp;gt;site-name.conf&amp;lt;/em&amp;gt;  Inside the file:
+&amp;lt;VirtualHost *:80&amp;gt; ServerAdmin &amp;lt;em&amp;gt;email&amp;lt;/em&amp;gt; ServerName &amp;lt;em&amp;gt;domain name&amp;lt;/em&amp;gt; ServerAlias &amp;lt;em&amp;gt;domain name&amp;lt;/em&amp;gt; DocumentRoot &amp;lt;em&amp;gt;path to folder no slash at the end&amp;lt;/em&amp;gt; ErrorLog &amp;lt;em&amp;gt;path to error log&amp;lt;/em&amp;gt; CustomLog &amp;lt;em&amp;gt;path to access log&amp;lt;/em&amp;gt; &amp;lt;Directory /&amp;gt; Options FollowSymLinks AllowOverride All &amp;lt;/Directory&amp;gt; &amp;lt;/VirtualHost&amp;gt;  Add the site to the host file:
+sudo vim /etc/hosts  Inside the file:
+127.0.0.1 localhost.</description>
+    </item>
+    
+    <item>
+      <title>Phew… I Moved My Fanlistings</title>
+      <link>http://blog.edelgrace.me/websites/phew-i-moved-my-fanlistings/</link>
+      <pubDate>Sat, 07 Jan 2017 14:50:11 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/websites/phew-i-moved-my-fanlistings/</guid>
+      <description>Fanlistings are basically the early 2000&amp;#8217;s version of Facebook pages. I own a bunch of them, mostly of songs or video game characters. Honestly, the whole fanlisting thing has been going down in popularity as the years go by. It&amp;#8217;s a bit sad. Fanlistings come and go a lot. There&amp;#8217;s a high turnover rate. I try my best to maintain and keep mine up and running.
+However, my old domain name expired and I had trouble getting in touch with my registrar to renew it.</description>
+    </item>
+    
+  </channel>
+</rss>

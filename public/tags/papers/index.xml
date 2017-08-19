@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers on edelgrace.me</title>
+    <link>http://blog.edelgrace.me/tags/papers/</link>
+    <description>Recent content in Papers on edelgrace.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Aug 2015 03:20:45 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.edelgrace.me/tags/papers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tumblr Post: Scientific Papers</title>
+      <link>http://blog.edelgrace.me/2015/08/tumblr-post/</link>
+      <pubDate>Sun, 16 Aug 2015 03:20:45 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2015/08/tumblr-post/</guid>
+      <description>Disclaimer: This is a cross post from my Tumblr blog, Study, Scattered Me!. As well, any products mentioned in this post are not in any way sponsored (unless stated) and my views on those products are my own.
+ 
+ 
+I forgot where I heard this tip but it’s good to read papers that are in your field in your spare time. I spent like an hour looking for PDFs that I didn’t have to pay to read when I remembered that my university library provides free access to databases and databases of papers.</description>
+    </item>
+    
+  </channel>
+</rss>

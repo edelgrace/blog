@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet on edelgrace.me</title>
+    <link>http://blog.edelgrace.me/categories/internet/</link>
+    <description>Recent content in Internet on edelgrace.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Oct 2016 01:48:31 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.edelgrace.me/categories/internet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LFTP Fatal Error: Certificate verification</title>
+      <link>http://blog.edelgrace.me/2016/10/lftp-fatal-error-certificate-verification/</link>
+      <pubDate>Tue, 11 Oct 2016 01:48:31 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2016/10/lftp-fatal-error-certificate-verification/</guid>
+      <description>The error: ~$ git-ftp pull&amp;lt;br /&amp;gt; ~$ cd: Fatal error: Certificate verification: certificate common name doesn&amp;rsquo;t match requested host name ‘ftp.mazohyst.org’&amp;lt;br /&amp;gt; ~$ mirror: Fatal error: Certificate verification: certificate common name doesn&amp;rsquo;t match requested host name ‘ftp.mazohyst.org’
+Solution: Edit ~/.lftp/rc so that it contains set ssl:check-hostname no. What this does is pretty self explanatory. If the hostname in the certificate does not match the hostname you&amp;#8217;re attempting to connect to, it doesn&amp;#8217;t matter because it won&amp;#8217;t check for that in the first place.</description>
+    </item>
+    
+    <item>
+      <title>Speaking of Security</title>
+      <link>http://blog.edelgrace.me/2016/06/speaking-of-security/</link>
+      <pubDate>Tue, 07 Jun 2016 22:37:46 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2016/06/speaking-of-security/</guid>
+      <description>My last post was about security by obscurity and I talked a little about trying to implement security techniques into my projects. This is really great timing.
+Last week, various online services ran by my university were down. It was really inconvenient not having access to my e-mail but I took it in stride. I figured it was just the servers acting up or malware or something like that. It turns out that my university was dealing with a ransomware attack.</description>
+    </item>
+    
+    <item>
+      <title>9 Years of Blogging</title>
+      <link>http://blog.edelgrace.me/2016/02/9-years-of-blogging/</link>
+      <pubDate>Sun, 21 Feb 2016 21:45:26 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2016/02/9-years-of-blogging/</guid>
+      <description>Okay, I know that probably isn&amp;#8217;t a lot compared to other bloggers out there but to me, that&amp;#8217;s mind blowing. 9 years is around 40% of my life and that percentage will only keep on increasing. Assuming that I continue blogging. As long as I can type, I don&amp;#8217;t think I would stop blogging. Sure, my blogging might be extremely sporadic but it&amp;#8217;s still blogging to me.
+Actually, I was going through my archive and I read a blog post that was from exactly six years and two days ago.</description>
+    </item>
+    
+    <item>
+      <title>Comics Aren’t Just Kids Stuff!</title>
+      <link>http://blog.edelgrace.me/2016/02/comics-arent-just-kids-stuff/</link>
+      <pubDate>Fri, 19 Feb 2016 01:40:18 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2016/02/comics-arent-just-kids-stuff/</guid>
+      <description>I initially started writing this post in 2012. I&amp;#8217;ve been going through and cleaning out my drafts and decided this one was worthy of continuing and actually publishing.
+Comics are usually written off as being childish or something only nerds can enjoy. But, I&amp;#8217;m not here to argue whether comics are legitimate literature or not. I&amp;#8217;m here to point out some of my favourite web comics. I don&amp;#8217;t know where it started but I got bored one day and eventually ended up on a web comics site.</description>
+    </item>
+    
+    <item>
+      <title>Finally Imported Those Old Posts</title>
+      <link>http://blog.edelgrace.me/2015/09/finally-imported-those-old-posts/</link>
+      <pubDate>Sun, 27 Sep 2015 19:47:13 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2015/09/finally-imported-those-old-posts/</guid>
+      <description>So now that I&amp;#8217;ve moved hosts, I decided to do some spring cleaning (fall cleaning?). Right now, my databases are a mess. I have a lot of databases that aren&amp;#8217;t used and databases that are waiting to be used. I still had my old blog database, back from when Brokenphrases was my main blog. So, I decided to to import all those pages and posts here.
+Now my blog post archive is pretty much complete.</description>
+    </item>
+    
+    <item>
+      <title>I Moved Hosts to Network Panda</title>
+      <link>http://blog.edelgrace.me/2015/09/i-moved-hosts/</link>
+      <pubDate>Sun, 13 Sep 2015 01:12:20 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2015/09/i-moved-hosts/</guid>
+      <description>I&amp;#8217;ve been with Three Words Hosting for a long time now. I can&amp;#8217;t exactly pinpoint how long&amp;#8230; But I still had my first domain while I was with them. I remember when I had to jump from host to host because they kept disappearing. However, when I found Three Words, I felt like I could stay there forever. Honestly, I have nothing but praise for Misaki. She&amp;#8217;s been an outstanding host.</description>
+    </item>
+    
+    <item>
+      <title>Transition to Foundation: Successful?</title>
+      <link>http://blog.edelgrace.me/2015/08/transition-to-foundation-successful/</link>
+      <pubDate>Wed, 26 Aug 2015 17:55:45 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2015/08/transition-to-foundation-successful/</guid>
+      <description>Okay I&amp;#8217;m so angry, I wrote this entire post out in the &amp;#8220;Quick Draft&amp;#8221; section of my dashboard, clicked &amp;#8220;Save Draft&amp;#8221; and then when I came back, what I wrote was erased. :( This happens a lot but not enough for me to remember to save entries locally before I publish&amp;#8230; I&amp;#8217;ll try my best to recreate what I just wrote. I&amp;#8217;m still really salty, haha.
+In my previous post, I mentioned that I was moving from Bootstrap to Foundation.</description>
+    </item>
+    
+    <item>
+      <title>Link Dump #2</title>
+      <link>http://blog.edelgrace.me/2014/08/link-dump-2/</link>
+      <pubDate>Wed, 06 Aug 2014 04:38:29 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2014/08/link-dump-2/</guid>
+      <description>I only have one link today, that&amp;#8217;s the blog Altair &amp;amp; Vega.
+Altair &amp;amp; Vega is an extremely insightful blog that delves deep into the narrative and art of many popular anime and manga titles. They have a group of multiple authors and while their posts aren&amp;#8217;t regular, when they do show up on my news feed, it&amp;#8217;s a great treat.
+I forget how I originally got to this site. I probably stumbled upon it through the post on the anime Hyouka, &amp;#8220;And You Don&amp;#8217;t Doubt Your Own?</description>
+    </item>
+    
+    <item>
+      <title>Random Tumblr Posts #3</title>
+      <link>http://blog.edelgrace.me/2014/07/random-tumblr-posts-3/</link>
+      <pubDate>Thu, 03 Jul 2014 02:14:32 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2014/07/random-tumblr-posts-3/</guid>
+      <description>Warning: Implied misogynistic content, alluding to the USBC shootings, and mentions of rape.
+I write SO MUCH on Tumblr even though I have a blog sitting here just waiting to be used. I&amp;#8217;m sorry. I&amp;#8217;ll try to make this as painless as possible. Here are some posts I&amp;#8217;ve made on Tumblr.
+ I was listening to an episode of the Internet Box, which was recorded around the time when Andrew got a Tumblr and started stirring the pot with the social justice fan community.</description>
+    </item>
+    
+    <item>
+      <title>Random Tumblr Posts #1</title>
+      <link>http://blog.edelgrace.me/2014/06/random-tumblr-posts-1/</link>
+      <pubDate>Tue, 03 Jun 2014 02:09:56 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2014/06/random-tumblr-posts-1/</guid>
+      <description>Ugh I write SO MUCH on Tumblr even though I have a blog sitting here just waiting to be used. I&amp;#8217;m sorry. I&amp;#8217;ll try to make this as painless as possible.
+ I had a dream where I literally just lived out my entire day, down to sitting in lecture being bored and taking notes.
+You don’t even know how disappointed I am when I woke up knowing that I had to do it all over again.</description>
+    </item>
+    
+    <item>
+      <title>On Approaching this Blog &amp; R.I.P hide</title>
+      <link>http://blog.edelgrace.me/2014/05/on-approaching-this-blog/</link>
+      <pubDate>Sun, 25 May 2014 16:44:53 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2014/05/on-approaching-this-blog/</guid>
+      <description>Warning: Suicide content warning.
+My philosophy with this blog has always been to approach in a very casual and informal way. I was inspired by a blog to do so, but I don&amp;#8217;t quite remember what site it was exactly (I&amp;#8217;m tempted to say it was 6birds, but I&amp;#8217;m not entirely sure). I try to have this mindset whenever I need to write a blog post. Even so, I don&amp;#8217;t entirely feel free in writing whatever I want.</description>
+    </item>
+    
+    <item>
+      <title>I Started to Play TCGs Again</title>
+      <link>http://blog.edelgrace.me/2014/04/i-started-to-play-tcgs-again/</link>
+      <pubDate>Thu, 03 Apr 2014 05:11:20 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2014/04/i-started-to-play-tcgs-again/</guid>
+      <description>Since I gave up Tumblr for Lent, I realized how much free time I had on my hands without Tumblr. I decided, why not get back into TCGs? And so I did.
+TCG stands for &amp;#8220;Trading Card Game.&amp;#8221; There are TCGs around the Internet that you can join as long as you yourself have a bit of space on the Internet. The goal of the game is basically to collect all the cards that are available in the game.</description>
+    </item>
+    
+    <item>
+      <title>The Monday After is Always the Worst</title>
+      <link>http://blog.edelgrace.me/2014/03/the-monday-after-is-always-the-worst/</link>
+      <pubDate>Thu, 06 Mar 2014 23:49:08 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2014/03/the-monday-after-is-always-the-worst/</guid>
+      <description>The Monday after reading week is always the worst, that is. I told my friend who is from the States that I had reading week and she had no idea what it is. It&amp;#8217;s pretty much a Canadian/Commonwealth countries thing where we get a couple days off in the middle of the semester. I heard from the grapevine that reading week started because mid-semester is a period when too stressed out students tend to commit suicide.</description>
+    </item>
+    
+    <item>
+      <title>Brokenphrases is Expiring Soon</title>
+      <link>http://blog.edelgrace.me/2014/01/brokenphrases-is-expiring-soon/</link>
+      <pubDate>Sun, 12 Jan 2014 19:21:46 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2014/01/brokenphrases-is-expiring-soon/</guid>
+      <description>Yeah, you heard that right. It&amp;#8217;s expiring in a couple of months. I&amp;#8217;ve had this domain for almost four years now. That&amp;#8217;s so weird to think about! You can &amp;#8220;see&amp;#8221; Brokenphrases in it&amp;#8217;s first reincarnation by going into the Wayback Archive. Reading those posts make me cringe. And I remember when I actually tried making money off of my posts. LOL. I earned like seven cents writing that one post.</description>
+    </item>
+    
+    <item>
+      <title>‘Twas the Night Before the Last Final….</title>
+      <link>http://blog.edelgrace.me/2013/12/twas-the-night-before-the-last-final/</link>
+      <pubDate>Mon, 16 Dec 2013 05:24:36 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2013/12/twas-the-night-before-the-last-final/</guid>
+      <description>And all though the house
+Not a creature was stirring
+Not even a certain university student who should be cramming.
+Today was everything but studying. I had the intentions of doing so. I even planned out my day! Then things happened. Those things consist of: music and Ray. I spent most of my day hanging out on Last.fm. Then I went to make a quick tweet about how much I hate recursion, for when I actually decided to crack open my textbook for two seconds.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on edelgrace.me</title>
+    <link>http://blog.edelgrace.me/categories/programming/</link>
+    <description>Recent content in Programming on edelgrace.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jul 2017 14:01:27 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.edelgrace.me/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tempted by Static Pages Again</title>
+      <link>http://blog.edelgrace.me/programming/tempted-by-static-pages-again/</link>
+      <pubDate>Sat, 29 Jul 2017 14:01:27 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/programming/tempted-by-static-pages-again/</guid>
+      <description>I recently started learning how to use emacs, which is a text editor and a Lisp interpreter. During my quest for resources, I came across a number of developers and their blogs. Since I&amp;#8217;m always intrigued by what sort of tools developers use to make their blogs, I did a little snooping. A shocking number of people who didn&amp;#8217;t use WordPress as their blogging platform opted for flat files instead.</description>
+    </item>
+    
+    <item>
+      <title>Starting a Nanodegree at Udacity</title>
+      <link>http://blog.edelgrace.me/programming/starting-a-nanodegree-at-udacity/</link>
+      <pubDate>Sun, 16 Jul 2017 18:03:20 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/programming/starting-a-nanodegree-at-udacity/</guid>
+      <description>While I&amp;#8217;m still looking for a job this summer (which is almost halfway over already&amp;#8230; Blah!) I took a cue from Y who started to work on some side projects and I decided to be a little more productive. Since I have a free month of Udacity from the GitHub Student Pack. Udacity is basically an online learning hub where you can take courses that are related to the tech field.</description>
+    </item>
+    
+    <item>
+      <title>Udacity Programming Fundamental Lesson 5: Take a Break Mini-Project</title>
+      <link>http://blog.edelgrace.me/programming/udacity-programming-fundamental-lesson-5-take-a-break-mini-project/</link>
+      <pubDate>Sat, 08 Jul 2017 03:12:57 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/programming/udacity-programming-fundamental-lesson-5-take-a-break-mini-project/</guid>
+      <description>Seeing that I am now unemployed and have a lot of time on my hands, I decided to utilize the free month of Udacity I received from Github&amp;#8217;s Student Pack.
+This mini-project&amp;#8217;s goal is to create a simple program using Python to open a web browser at an interval of ten seconds three times in a row.
+Here is my answer:
+`
+import time import webbrowser
+break_duration = 10 break_num = 3 break_count = 0</description>
+    </item>
+    
+    <item>
+      <title>Tip: Backing Up MySQL Databases Via Command Line</title>
+      <link>http://blog.edelgrace.me/programming/tip-backing-up-mysql-databases-via-command-line/</link>
+      <pubDate>Tue, 21 Mar 2017 19:26:59 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/programming/tip-backing-up-mysql-databases-via-command-line/</guid>
+      <description>&amp;lt;/p&amp;gt; &amp;lt;pre&amp;gt;mysqldump -u username -p database &amp;gt; backup_name.sql&amp;lt;/pre&amp;gt; &amp;lt;p&amp;gt;
+I always forget this command. I always try to attempt to go mysql dump instead of mysqldump. Hopefully posting this little blurb will give me an easy reference in the future!</description>
+    </item>
+    
+    <item>
+      <title>TIL: How to Add a MySQL User</title>
+      <link>http://blog.edelgrace.me/programming/til-how-to-add-a-mysql-user/</link>
+      <pubDate>Tue, 03 Jan 2017 04:14:55 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/programming/til-how-to-add-a-mysql-user/</guid>
+      <description>CREATE USER &#39;user&#39;@&#39;server&#39; IDENTIFIED BY &#39;PASSWORD&#39;; GRANT PRIVILEGES ON database.table TO &#39;user&#39;@&#39;server&#39;; I recently bought a VPS from Ramnode and started tinkering on it. I needed to create a database for my fanlistings. Back when I was on shared hosting, I would use cPanel and phpMyAdmin to do all that. This is admittedly another TIL that I didn&amp;#8217;t learn today but, rather, relearned today because the information slipped my mind. Maybe I need to rename this little segment to &amp;#8220;TIRL.</description>
+    </item>
+    
+    <item>
+      <title>Silly Mistakes</title>
+      <link>http://blog.edelgrace.me/2016/10/silly-mistakes/</link>
+      <pubDate>Mon, 31 Oct 2016 22:04:29 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2016/10/silly-mistakes/</guid>
+      <description>At work I&amp;#8217;m writing a simple script in Python that pulls data from a sqlite database. I was doing some inserts and deletes and I was wondering why the database wasn&amp;#8217;t changing. I tried printing out the queries and double checking that they were indeed correct syntax-wise. I traced my program line by line up to the point where queries were being executed. Finally, I turned to Google.
+Stackoverflow, of course, delivered.</description>
+    </item>
+    
+    <item>
+      <title>LFTP Fatal Error: Certificate verification</title>
+      <link>http://blog.edelgrace.me/2016/10/lftp-fatal-error-certificate-verification/</link>
+      <pubDate>Tue, 11 Oct 2016 01:48:31 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2016/10/lftp-fatal-error-certificate-verification/</guid>
+      <description>The error: ~$ git-ftp pull&amp;lt;br /&amp;gt; ~$ cd: Fatal error: Certificate verification: certificate common name doesn&amp;rsquo;t match requested host name ‘ftp.mazohyst.org’&amp;lt;br /&amp;gt; ~$ mirror: Fatal error: Certificate verification: certificate common name doesn&amp;rsquo;t match requested host name ‘ftp.mazohyst.org’
+Solution: Edit ~/.lftp/rc so that it contains set ssl:check-hostname no. What this does is pretty self explanatory. If the hostname in the certificate does not match the hostname you&amp;#8217;re attempting to connect to, it doesn&amp;#8217;t matter because it won&amp;#8217;t check for that in the first place.</description>
+    </item>
+    
+  </channel>
+</rss>

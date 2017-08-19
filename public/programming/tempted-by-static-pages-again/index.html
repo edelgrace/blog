@@ -1,0 +1,153 @@
+<body>
+  <!DOCTYPE html>
+<html lang="en-us">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta content="" name="keywords">
+<meta content="Tempted by Static Pages Again - edelgrace.me" property="og:title">
+<title>Tempted by Static Pages Again | edelgrace.me</title>
+<link rel="stylesheet" href="http://blog.edelgrace.me//css/style.css">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/monokai.min.css">
+
+
+  <section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-left">
+        <a class="nav-item" href="http://blog.edelgrace.me//"><h1 class="title is-4">edelgrace.me</h1></a>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile">
+	  <form id="searchform" method="get" action="https://duckduckgo.com/">
+			<input type="search" name="q" maxlength="255" placeholder="Search..."><span class="mdricon mdr-search"></span>
+			<input type="hidden" name="sites" value="edelgrace.me">
+            <input type="hidden" name="kp" value="-1"> 
+            <input type="hidden" name="kh" value="1"> 
+            <input type="hidden" name="kl" value="wt-wt"> 
+            <input type="hidden" name="kg" value="p"> 
+            <input type="hidden" name="k7" value="#ffffff"> 
+            <input type="hidden" name="kj" value="#ffffff"> 
+			<input type="hidden" name="ky" value="#ffffff"> 
+			<input type="hidden" name="kx" value="#ffffff"> 
+			<input type="hidden" name="k1" value="-1"> 
+            <input type="hidden" name="ko" value="-2"> 
+            <input type="hidden" name="k8" value="#515151"> 
+            <input type="hidden" name="k9" value="#ffffff"> 
+            <input type="hidden" name="kaa" value="#ffffff"> 
+            <input type="hidden" name="kae" value="#ffffff"> 
+            <input type="hidden" name="ka" value="Roboto"> 
+            <input type="hidden" name="kt" value="Roboto"> 
+			<input type="submit" value="DuckDuckGo Search" style="visibility: hidden;">
+</form>
+
+          
+          <a class="level-item" href="https://github.com/edelgrace">
+            <span class="icon">
+              <i class="fa fa-github"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="https://twitter.com/edelgraceme">
+            <span class="icon">
+              <i class="fa fa-twitter"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="https://instagram.com/edelgraceme">
+            <span class="icon">
+              <i class="fa fa-instagram"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="http://erzadel.tumblr.com">
+            <span class="icon">
+              <i class="fa fa-tumblr"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="/index.xml">
+            <span class="icon">
+              <i class="fa fa-rss"></i>
+            </span>
+          </a>
+          
+        </nav>
+      </div>
+    </nav>
+  </div>
+</section>
+
+  <section class="section">
+    <div class="container">
+      <h2 class="subtitle is-6">July 29, 2017</h2>
+      <h1 class="title">Tempted by Static Pages Again</h1>
+      
+      <div class="content">
+        <p>I recently started learning how to use <a href="https://www.gnu.org/software/emacs/">emacs</a>, which is a text editor and a Lisp interpreter. During my quest for resources, I came across a number of developers and their blogs. Since I&#8217;m always intrigued by what sort of tools developers use to make their blogs, I did a little snooping. A shocking number of people who didn&#8217;t use WordPress as their blogging platform opted for flat files instead.</p>
+
+<p>Now I had dabbled a little bit in static pages before with <a href="https://www.boltwire.com/">BoltWire</a> but ultimately abandoned it to go back to WordPress. I think where I went wrong with BoltWire was that it simply did not have a big enough community (although they are an extremely dedicated community) to keep me reassured that I had made the right choice.</p>
+
+<p>However, I know flat files in general is a real and upcoming thing. Since I&#8217;m planning to use emacs and Markdown files as my main way of documenting things, it would be easy to use it in my blogging as well.</p>
+
+<p>So my main reasons for switching to a flat file system:</p>
+
+<ul>
+<li><p><strong>Better security</strong><br />
+WordPress was giving me so much trouble when it came to security. Yes, Jetpack did help in reducing spam and MySQL doesn&#8217;t randomly stop working anymore but you have to admit that using WordPress on a Digital Ocean server makes you a target.</li></p></li>
+
+<li><p><strong>Version control</strong><br />
+Yes, WordPress does have versioning for content however it would be much easier to have version control for settings, themes, etc. over the WordPress kind.</p></li>
+
+<li><p><strong>Less bloat</strong><br />
+I don&#8217;t need everything that WordPress offers and honestly sometimes I feel like it might be a bit overkill. Since the server I&#8217;m on has limited RAM and disk space, I need to be careful about the amount of resources I use. It helps that I don&#8217;t have many visitors to begin with but still!</p></li>
+
+<li><p><strong>Faster loading times</strong><br />
+While I&#8217;m unsure if this is too much of a concern for me but loading times do make me a bit worried. Fetching from a database can be quite slow.</p></li>
+
+<li><p><strong>I want a more future proof blogging system</strong><br />
+There are options to export your content into XML files in WordPress however it can&#8217;t beat readable Markdown, which many static file systems use. The fact that everything is file based is future proof in itself. Migrating from one server to the other wouldn&#8217;t be too much hard work.</p></li>
+</ul>
+
+<p>My concerns:</p>
+
+<ul>
+<li><strong>What comment system to use</strong><br />
+I do not like Disqus. I dislike the fact that I have to register for yet another site and people can&#8217;t click on my name on a comment and go directly to my website. I also don&#8217;t like the fact that the comments don&#8217;t stay on my server. I want to be able to have my comments.</li>
+<li><strong>Learning curve</strong><br />
+This would be a little more technically involved at first to get everything installed, just due to the nature of it not being a one-click install.</li>
+<li><strong>So many choices!</strong><br />
+There is no shortage of flat file systems out there. Like I&#8217;ve said, I&#8217;ve dabbled in BoltWire before and wiki systems but it&#8217;s so hard to find one that will work for you when there&#8217;s a breadth of options.</li>
+</ul>
+
+<p>One of the main frameworks I&#8217;ve been looking at is <a href="http://gohugo.io/">Hugo</a> which is used by <a href="https://baty.net/">Baty.net</a>, <a href="http://www.modernemacs.com">Modern Emacs</a>, <a href="https://kieranhealy.org">kieranHealy.org</a>, <a href="http://www.rousette.org.uk/blog">but she&#8217;s a girl&#8230;</a>, and more. I am very attracted to this option because it seems like it could work pretty well with an emacs workflow.</p>
+
+<p>Thankfully, I finally recovered my previous website, <a href="http://erzadel.net">erzadel.net</a> and now have access to my old blog posts. I&#8217;ll be tinkering with that this weekend and try to have a clone of my old blog up and running on my local machine. We&#8217;ll see how it goes!</p>
+
+      </div>
+    </div>
+  </section>
+  
+
+  <section class="section">
+  <div class="container has-text-centered">
+    <p></p>
+  </div>
+</section>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/dockerfile.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/php.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/python.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/java.min.js"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+</body>

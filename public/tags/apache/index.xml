@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apache on edelgrace.me</title>
+    <link>http://blog.edelgrace.me/tags/apache/</link>
+    <description>Recent content in Apache on edelgrace.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Apr 2017 17:50:31 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.edelgrace.me/tags/apache/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TIL: How to Set Up Virtual Hosts on Apache</title>
+      <link>http://blog.edelgrace.me/websites/til-how-to-set-up-virtual-hosts-on-apache/</link>
+      <pubDate>Sun, 02 Apr 2017 17:50:31 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/websites/til-how-to-set-up-virtual-hosts-on-apache/</guid>
+      <description>Create a virtual host configuration file site-name.conf for the site:
+sudo vim /etc/apache2/sites-available/&amp;lt;em&amp;gt;site-name.conf&amp;lt;/em&amp;gt;  Inside the file:
+&amp;lt;VirtualHost *:80&amp;gt; ServerAdmin &amp;lt;em&amp;gt;email&amp;lt;/em&amp;gt; ServerName &amp;lt;em&amp;gt;domain name&amp;lt;/em&amp;gt; ServerAlias &amp;lt;em&amp;gt;domain name&amp;lt;/em&amp;gt; DocumentRoot &amp;lt;em&amp;gt;path to folder no slash at the end&amp;lt;/em&amp;gt; ErrorLog &amp;lt;em&amp;gt;path to error log&amp;lt;/em&amp;gt; CustomLog &amp;lt;em&amp;gt;path to access log&amp;lt;/em&amp;gt; &amp;lt;Directory /&amp;gt; Options FollowSymLinks AllowOverride All &amp;lt;/Directory&amp;gt; &amp;lt;/VirtualHost&amp;gt;  Add the site to the host file:
+sudo vim /etc/hosts  Inside the file:
+127.0.0.1 localhost.</description>
+    </item>
+    
+  </channel>
+</rss>

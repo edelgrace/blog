@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vps on edelgrace.me</title>
+    <link>http://blog.edelgrace.me/tags/vps/</link>
+    <description>Recent content in Vps on edelgrace.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Jan 2017 04:14:55 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.edelgrace.me/tags/vps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TIL: How to Add a MySQL User</title>
+      <link>http://blog.edelgrace.me/programming/til-how-to-add-a-mysql-user/</link>
+      <pubDate>Tue, 03 Jan 2017 04:14:55 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/programming/til-how-to-add-a-mysql-user/</guid>
+      <description>CREATE USER &#39;user&#39;@&#39;server&#39; IDENTIFIED BY &#39;PASSWORD&#39;; GRANT PRIVILEGES ON database.table TO &#39;user&#39;@&#39;server&#39;; I recently bought a VPS from Ramnode and started tinkering on it. I needed to create a database for my fanlistings. Back when I was on shared hosting, I would use cPanel and phpMyAdmin to do all that. This is admittedly another TIL that I didn&amp;#8217;t learn today but, rather, relearned today because the information slipped my mind. Maybe I need to rename this little segment to &amp;#8220;TIRL.</description>
+    </item>
+    
+  </channel>
+</rss>

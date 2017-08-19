@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on edelgrace.me</title>
+    <link>http://blog.edelgrace.me/categories/technology/</link>
+    <description>Recent content in Technology on edelgrace.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Oct 2016 01:48:31 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.edelgrace.me/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LFTP Fatal Error: Certificate verification</title>
+      <link>http://blog.edelgrace.me/2016/10/lftp-fatal-error-certificate-verification/</link>
+      <pubDate>Tue, 11 Oct 2016 01:48:31 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2016/10/lftp-fatal-error-certificate-verification/</guid>
+      <description>The error: ~$ git-ftp pull&amp;lt;br /&amp;gt; ~$ cd: Fatal error: Certificate verification: certificate common name doesn&amp;rsquo;t match requested host name ‘ftp.mazohyst.org’&amp;lt;br /&amp;gt; ~$ mirror: Fatal error: Certificate verification: certificate common name doesn&amp;rsquo;t match requested host name ‘ftp.mazohyst.org’
+Solution: Edit ~/.lftp/rc so that it contains set ssl:check-hostname no. What this does is pretty self explanatory. If the hostname in the certificate does not match the hostname you&amp;#8217;re attempting to connect to, it doesn&amp;#8217;t matter because it won&amp;#8217;t check for that in the first place.</description>
+    </item>
+    
+    <item>
+      <title>Speaking of Security</title>
+      <link>http://blog.edelgrace.me/2016/06/speaking-of-security/</link>
+      <pubDate>Tue, 07 Jun 2016 22:37:46 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2016/06/speaking-of-security/</guid>
+      <description>My last post was about security by obscurity and I talked a little about trying to implement security techniques into my projects. This is really great timing.
+Last week, various online services ran by my university were down. It was really inconvenient not having access to my e-mail but I took it in stride. I figured it was just the servers acting up or malware or something like that. It turns out that my university was dealing with a ransomware attack.</description>
+    </item>
+    
+    <item>
+      <title>Security By Obscurity: Just Hide It?</title>
+      <link>http://blog.edelgrace.me/2016/06/security-by-obscurity/</link>
+      <pubDate>Tue, 07 Jun 2016 03:26:11 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2016/06/security-by-obscurity/</guid>
+      <description>Last semester I took an introductory course to information security. One of the concepts we touched on was &amp;#8220;security by obscurity.&amp;#8221; Basically what that means is if no one is aware of something, they can&amp;#8217;t possibly break into it. For example, hiding your diary is a form of security by obscurity. Of course, this has it flaws. There is always the possibility that someone could somehow stumble upon your diary by accident.</description>
+    </item>
+    
+    <item>
+      <title>CCNA1 8.2.1.4 Packet Tracer – Designing and Implementing a VLSM Addressing Scheme</title>
+      <link>http://blog.edelgrace.me/2016/06/ccna1-8-2-1-4-packet-tracer-designing-and-implementing-a-vlsm-addressing-scheme/</link>
+      <pubDate>Sat, 04 Jun 2016 06:07:31 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2016/06/ccna1-8-2-1-4-packet-tracer-designing-and-implementing-a-vlsm-addressing-scheme/</guid>
+      <description>I&amp;#8217;m currently taking the CCNA1 course offered by Cisco. I struggled a lot with this activity so I thought it would be good to share how I finally figured it out. If you&amp;#8217;re a little lazy and just want the answers, click here to go straight to the addressing table or here to download the PDF. Be aware that the addresses may vary but the process is the same regardless.</description>
+    </item>
+    
+  </channel>
+</rss>

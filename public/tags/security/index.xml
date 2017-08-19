@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on edelgrace.me</title>
+    <link>http://blog.edelgrace.me/tags/security/</link>
+    <description>Recent content in Security on edelgrace.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jun 2016 03:26:11 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.edelgrace.me/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Security By Obscurity: Just Hide It?</title>
+      <link>http://blog.edelgrace.me/2016/06/security-by-obscurity/</link>
+      <pubDate>Tue, 07 Jun 2016 03:26:11 +0000</pubDate>
+      
+      <guid>http://blog.edelgrace.me/2016/06/security-by-obscurity/</guid>
+      <description>Last semester I took an introductory course to information security. One of the concepts we touched on was &amp;#8220;security by obscurity.&amp;#8221; Basically what that means is if no one is aware of something, they can&amp;#8217;t possibly break into it. For example, hiding your diary is a form of security by obscurity. Of course, this has it flaws. There is always the possibility that someone could somehow stumble upon your diary by accident.</description>
+    </item>
+    
+  </channel>
+</rss>
