@@ -1,0 +1,58 @@
+---
+title: STASH Lounge Moving and Other Outings
+author: edel
+type: post
+date: 2017-07-24T03:04:34+00:00
+url: /life/stash-lounge-moving-and-other-outings/
+categories:
+  - Crochet
+  - Knitting
+  - Life
+tags:
+  - yarn
+
+---
+Yesterday [Yesterday][1] opened up at their new location across the street. I dragged my brother along with me to the opening.
+
+It was absolutely lovely! They had a DJ play some music in the background, a coffee bar, and a table of yummy sweets in the back. They even had door prizes, which I suspect I didn&#8217;t win anything from but that&#8217;s totally okay.
+
+In terms of the space, it&#8217;s great! It&#8217;s absolutely spacious while also filled to the brim with yarn. I enjoyed the rustic decorations like the vintage crates and items like typewriters. There are shelves upon shelves of yarn. Near the register there is a wall dedicated to various knitting and crochet accessories. There&#8217;s another wall where yarn is hung on, absolutely covering the entire space. It was incredibly cozy and it still retained it&#8217;s intimate feel as their previous location.
+
+<img data-attachment-id="613" data-permalink="http://edelgrace.me/blog/life/stash-lounge-moving-and-other-outings/attachment/20170722_104234/" data-orig-file="https://i0.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170722_104234.jpg?fit=1000%2C563" data-orig-size="1000,563" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;LG-K210&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1500720153&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.18&quot;,&quot;iso&quot;:&quot;50&quot;,&quot;shutter_speed&quot;:&quot;0.0017699115044248&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20170722_104234" data-image-description="" data-medium-file="https://i0.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170722_104234.jpg?fit=300%2C169" data-large-file="https://i0.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170722_104234.jpg?fit=663%2C373" src="https://i0.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170722_104234.jpg?resize=663%2C373" alt="" class="aligncenter size-large wp-image-613" srcset="https://i0.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170722_104234.jpg?w=1000 1000w, https://i0.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170722_104234.jpg?resize=300%2C169 300w, https://i0.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170722_104234.jpg?resize=768%2C432 768w, https://i0.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170722_104234.jpg?resize=982%2C553 982w, https://i0.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170722_104234.jpg?resize=400%2C225 400w" sizes="(max-width: 663px) 100vw, 663px" data-recalc-dims="1" />
+
+<img data-attachment-id="614" data-permalink="http://edelgrace.me/blog/life/stash-lounge-moving-and-other-outings/attachment/20170722_103054/" data-orig-file="https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170722_103054.jpg?fit=1000%2C563" data-orig-size="1000,563" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;LG-K210&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1500719453&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.18&quot;,&quot;iso&quot;:&quot;50&quot;,&quot;shutter_speed&quot;:&quot;0.0043290043290043&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20170722_103054" data-image-description="" data-medium-file="https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170722_103054.jpg?fit=300%2C169" data-large-file="https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170722_103054.jpg?fit=663%2C373" src="https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170722_103054.jpg?resize=663%2C373" alt="" class="aligncenter size-large wp-image-614" srcset="https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170722_103054.jpg?w=1000 1000w, https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170722_103054.jpg?resize=300%2C169 300w, https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170722_103054.jpg?resize=768%2C432 768w, https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170722_103054.jpg?resize=982%2C553 982w, https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170722_103054.jpg?resize=400%2C225 400w" sizes="(max-width: 663px) 100vw, 663px" data-recalc-dims="1" />
+
+At first I was going in there thinking I wouldn&#8217;t buy anything but then I decided that it would be rude not to! After much contemplation and running through the patterns I want to try in my mind, I decided on two skeins of Brooklyn Tweed Shelter in Barn Owl. This was after eating a couple of macaroons and cookies while walking through the crowded store. These two skeins will make my very first knitted hat!
+
+<img data-attachment-id="611" data-permalink="http://edelgrace.me/blog/life/stash-lounge-moving-and-other-outings/attachment/20170723_074009/" data-orig-file="https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170723_074009.jpg?fit=1000%2C563" data-orig-size="1000,563" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;LG-K210&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1500795609&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.18&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.033333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20170723_074009" data-image-description="" data-medium-file="https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170723_074009.jpg?fit=300%2C169" data-large-file="https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170723_074009.jpg?fit=663%2C373" src="https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170723_074009.jpg?resize=663%2C373" alt="" class="aligncenter size-full wp-image-611" srcset="https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170723_074009.jpg?w=1000 1000w, https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170723_074009.jpg?resize=300%2C169 300w, https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170723_074009.jpg?resize=768%2C432 768w, https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170723_074009.jpg?resize=982%2C553 982w, https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170723_074009.jpg?resize=400%2C225 400w" sizes="(max-width: 663px) 100vw, 663px" data-recalc-dims="1" />
+
+With my purchase, I even got a free reusable bag! It&#8217;s so sturdy and pretty. I think it will be a project bag or a maybe a library bag. We&#8217;ll see.
+
+<img data-attachment-id="612" data-permalink="http://edelgrace.me/blog/life/stash-lounge-moving-and-other-outings/attachment/20170723_073921/" data-orig-file="https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170723_073921.jpg?fit=1000%2C563" data-orig-size="1000,563" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;LG-K210&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1500795561&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.18&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.041666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20170723_073921" data-image-description="" data-medium-file="https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170723_073921.jpg?fit=300%2C169" data-large-file="https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170723_073921.jpg?fit=663%2C373" src="https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170723_073921.jpg?resize=663%2C373" alt="" class="aligncenter size-large wp-image-612" srcset="https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170723_073921.jpg?w=1000 1000w, https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170723_073921.jpg?resize=300%2C169 300w, https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170723_073921.jpg?resize=768%2C432 768w, https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170723_073921.jpg?resize=982%2C553 982w, https://i2.wp.com/edelgrace.me/blog/wp-content/uploads/2017/07/20170723_073921.jpg?resize=400%2C225 400w" sizes="(max-width: 663px) 100vw, 663px" data-recalc-dims="1" />
+
+That day I also went to the park with some relatives. I finally gave the blanket I made for my cousin&#8217;s newborn son and my cousin was head over heels over it! She said it was like store quality which made me blush a little. I am very pleased that she was happy with it.
+
+I also biked around Fish Creek park for two hours with my dad. We decided to take a different route than we usually do. It was a really nice bike ride although maybe a little bit too hot! We even stopped for ice cream at Annie&#8217;s. I&#8217;ve never been before but it&#8217;s a sweet little cafe just off the bike path. The ice cream scoops are huge! I definitely got my money&#8217;s worth from it.
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+  <div style="padding:8px;">
+    <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;">
+      <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
+      </div>
+    </div>
+    
+    <p style=" margin:8px 0 0 0; padding:0 4px;">
+      <a href="https://www.instagram.com/p/BW3Ovujhh9R/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Annie's does not skimp on the ice cream! Eating back all the calories I burnt from biking lmao</a>
+    </p>
+    
+    <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
+      A post shared by Edel Altares (@edelgraceme) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-07-22T20:54:00+00:00">Jul 22, 2017 at 1:54pm PDT</time>
+    </p>
+  </div>
+</blockquote>
+
+
+
+All in all, yesterday was a very good day!
+
+ [1]: http://stashlounge.com/
