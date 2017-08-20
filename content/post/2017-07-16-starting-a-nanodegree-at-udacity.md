@@ -9,7 +9,7 @@ categories:
   - Programming
 
 ---
-While I'm still looking for a job this summer (which is almost halfway over already&#8230; Blah!) I took a cue from Y who started to work on some side projects and I decided to be a little more productive. Since I have a free month of Udacity from the GitHub [Student Pack][1]. Udacity is basically an online learning hub where you can take courses that are related to the tech field.
+While I'm still looking for a job this summer (which is almost halfway over already... Blah!) I took a cue from Y who started to work on some side projects and I decided to be a little more productive. Since I have a free month of Udacity from the GitHub [Student Pack][1]. Udacity is basically an online learning hub where you can take courses that are related to the tech field.
 
 Since I am an aspiring full stack web developer, I decided to go with the appropriately named, "Full Stack Developer" Nanodegree. I am probably around 20% completed the degree and it's been pretty much a week since I started.
 
@@ -17,7 +17,7 @@ So far I have done some basic Python programming and responsive web development.
 
 Right now I'm working on a responsive web design. It's taking a little bit more time because I've been busy the past couple of days. I had my first counselling appointment with a new counsellor, went to some Stampede breakfasts, and hung out with family and Y. But I think I'm pretty much done it all except for making sure everything complies with Udacity's style guides. I keep tripping up on them wanting `` being lowercase instead. It's hard to break old habits.
 
-One thing I really like about their format is that there are a lot of videos. That way I can take my time to weave in ends for my temperature blanket that I'm working on. July is turning out to be a rollercoaster for weather. I had my first solid colour square the other day. It was pretty rainy on that day which explains why it was so much cooler. Now the rain spell has mostly ended and we're back to low 30s weather. I don't know which I prefer the most&#8230;
+One thing I really like about their format is that there are a lot of videos. That way I can take my time to weave in ends for my temperature blanket that I'm working on. July is turning out to be a rollercoaster for weather. I had my first solid colour square the other day. It was pretty rainy on that day which explains why it was so much cooler. Now the rain spell has mostly ended and we're back to low 30s weather. I don't know which I prefer the most...
 
 <blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:8px;">

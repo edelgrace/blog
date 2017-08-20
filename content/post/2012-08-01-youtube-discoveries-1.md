@@ -32,13 +32,13 @@ categories:
   
 > **Fave song atm**: Somebody to Love by CLUBSODA
   
-> **Fave musician(s) atm**: Uhh&#8230; I actually have no idea 
+> **Fave musician(s) atm**: Uhh... I actually have no idea 
 
 Just so you all know, I waded through 7000+ forums posts to find all the YouTube links I wanted to post here. Then I realized I could have used the search function. OTL Anyway, on to the post. Warning, there's a lot here. I don't know if you'd want to read it all but yeah.
 
 <span id="more-259"></span>
 
-I'm in the weird part of YouTube. Well, not really. The weirdest thing I've seen is probably the Obscure music video by DIR EN GREY. My mind is seriously boggled at how such a thing is allowed to exist on YouTube but I'm glad it does or I would have never been able to bask in DIR EN GREY's glorious music. It's actually pretty surprising at all the different things you can find on YouTube. People from all of the world (minus North Korea and some of C, haha&#8230; Oh, that's not funny) posting videos and watching videos and commenting on videos. It's kinda crazy once you think about it. Just the Internet in general is a concept that I find hard to wrap my head around.
+I'm in the weird part of YouTube. Well, not really. The weirdest thing I've seen is probably the Obscure music video by DIR EN GREY. My mind is seriously boggled at how such a thing is allowed to exist on YouTube but I'm glad it does or I would have never been able to bask in DIR EN GREY's glorious music. It's actually pretty surprising at all the different things you can find on YouTube. People from all of the world (minus North Korea and some of C, haha... Oh, that's not funny) posting videos and watching videos and commenting on videos. It's kinda crazy once you think about it. Just the Internet in general is a concept that I find hard to wrap my head around.
 
 Currently, I'm in a roleplaying guild on Neopets. Roleplaying? Guilds? Neopets? Ugh, I'm so lame. But yeah. We're not so international. In fact, I'm the only one who doesn't live in the US. And I don't live in some exotic foreign place, I live in Canada. Even so, we have such diverse tastes, especially in music. I've only been part of the guild for two to three weeks, and I've encountered many different songs and different genres and it's all just great.
 
@@ -54,7 +54,7 @@ Hauntingly beautiful. I don't want to say it's primitive or basic because it is 
 
 **[Technologic by Daft Punk][3]**
   
-This is definitely not a new discovery, but rather, a rediscovery. Daft Punk. Guhhh. The sounds this duo brings is seriously out of this world. It's almost hard to believe that this music wasn't made too long ago. I feel like I've grown up with this song. As for the music video&#8230; I'm reminded of Furbies that were skinned of their synthetic fur.
+This is definitely not a new discovery, but rather, a rediscovery. Daft Punk. Guhhh. The sounds this duo brings is seriously out of this world. It's almost hard to believe that this music wasn't made too long ago. I feel like I've grown up with this song. As for the music video... I'm reminded of Furbies that were skinned of their synthetic fur.
 
 **[Innocence by Miku Hatsune][4]**
   
@@ -66,7 +66,7 @@ What. Is. This. Catchy. Trickery. I actually like this, what's with my constantl
 
 **[HetaOni Douga what I don't even know][6]**
   
-From the same guild member who likes vocaloids. I&#8230; What? This is worthy of the "weird part of YouTube" title. There's 12 minutes of weird Hetalia shit. I don't really like Hetalia and uh, I just couldn't really watch it for some reason? One of my favourite songs is half an hour long and I couldn't pay attention to this at all.
+From the same guild member who likes vocaloids. I... What? This is worthy of the "weird part of YouTube" title. There's 12 minutes of weird Hetalia shit. I don't really like Hetalia and uh, I just couldn't really watch it for some reason? One of my favourite songs is half an hour long and I couldn't pay attention to this at all.
 
 **[Classical Servant of Evil by some Nico Chorus][7]**
   
@@ -130,7 +130,7 @@ Okay, this is my first reactions to the video and then some. THIS IS KINDA CRAZY
   
 0:35 &#8211; What. Antares. Such a cool name. It's one letter off from my last name. What. He has a cool voice too. What. I love how he's building with each word ugh.
   
-0:43 &#8211; K is really cute okay. Omg now there's Minnie too. MINNIE IS SO CUTE. What. This whole part is too cute. I can't&#8230; Voices this cute should not exist, okay?
+0:43 &#8211; K is really cute okay. Omg now there's Minnie too. MINNIE IS SO CUTE. What. This whole part is too cute. I can't... Voices this cute should not exist, okay?
   
 1:00 &#8211; Oh goodness, Ann from the Ugly cover. Yes.
   

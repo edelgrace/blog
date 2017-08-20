@@ -30,7 +30,7 @@ I've done this video so many times that I've almost memorized everything Cassey 
 <div class="flex-video">
 </div>
 
-  * _Hot Potato:_ This is a nice and easy move to start off the video. When I'm rewatching the videos to write these posts, only then do I notice how graceful Cassey looks doing the moves&#8230; Goals.
+  * _Hot Potato:_ This is a nice and easy move to start off the video. When I'm rewatching the videos to write these posts, only then do I notice how graceful Cassey looks doing the moves... Goals.
   * _Leg Circles:_ These aren't hard but tiring. My legs get heavier and heavier with each circle. I had to like look at my legs and will them to go wider, haha!
   * _Side Plank Leg Lifts:_ I had to do the beginner's version of this video, unfortunately. That doesn't mean that I didn't feel the burn!
   * _Hip Twists:_ This is probably the first time I did this move without stopping. I'm not sure if I did them 100% correct but I tried my best to power through them and power through them I did!
@@ -46,7 +46,7 @@ I finished this video a little after midnight but I'm not going to count it as b
 
   * _Half Clam Lifter:_ I don't really know if I'm doing this move right but it definitely hurt. I tried to keep an eye on my leg to see if I had proper form but the rest of my body felt a little bit weird.
   * _Half Clam Pulse:_ This hurt a little bit more but it was easier.
-  * _Lateral Leg Extension:_ "You feel it?" I feel it&#8230; This definitely hurt to do since my legs were feeling tired.
+  * _Lateral Leg Extension:_ "You feel it?" I feel it... This definitely hurt to do since my legs were feeling tired.
   * _Floor tap:_ My foot lingered a little bit too long on the floor but I made it up with doing more on each leg. The stretch after this move was amazing.
   * _Frogger:_ I love froggers! It's easy but my legs definitely feel it.
   * _Frogger Abs:_ I really like this modification! It's an easy move to do, just like the frogger, but I love that burning feeling in my abs.

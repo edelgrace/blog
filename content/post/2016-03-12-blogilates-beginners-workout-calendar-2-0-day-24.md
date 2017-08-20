@@ -18,7 +18,7 @@ tags:
 
 ### Day 24: Lower Body
 
-I'm still behind&#8230; Oh well, I mostly caught up today. I still have one video to do for day 25 but it's day 25 now and I have three hours left to do it! Today was pretty hard but that could be due to the fact I did two days in one.
+I'm still behind... Oh well, I mostly caught up today. I still have one video to do for day 25 but it's day 25 now and I have three hours left to do it! Today was pretty hard but that could be due to the fact I did two days in one.
 
 ### Video 1: Fat Loss Cardio Workout
 
@@ -39,7 +39,7 @@ This video was so hard! Especially since I couldn't do these moves 100% because 
   * _Single Legged Burpee:_ I did not know how to do this move quietly so I just did a silent burpee and paused the video to do more than what Cassey did.
   * _Inching Caterpillar:_ This move is a little bit strange, in my opinion. The inching forward is a little weird, haha! I mostly felt this move in my arms and not really my abs or legs. Although I did feel it in my legs for sure, just not as much as I thought I would.
   * _Plank:_ Planks AKA my worst enemy. Enough said.
-  * _Jumping Reptile:_ Please tell me how to do this move quietly&#8230; I just did each leg one at a time, slowly. So definitely not as good as it should have been.
+  * _Jumping Reptile:_ Please tell me how to do this move quietly... I just did each leg one at a time, slowly. So definitely not as good as it should have been.
   * _Ballerina Leg Outs:_ I had so much trouble with this move! I just could not get the balance right. I did a wrong variation of this move and I really did feel my abs working. So I guess that must count for something?
 
 ### Video 3: Best Stretches for Lower Back Pain

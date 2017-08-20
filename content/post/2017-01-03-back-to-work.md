@@ -14,7 +14,7 @@ tags:
   - work
 
 ---
-The holidays are officially over, for I went back to work today. It was a bit of a slow day. I got my internship extended, however they basically treated me as a new hire since my contract ended in December. So I'm starting from scratch, essentially. I had no laptop, no e-mail, no account to login into any computer connected to the company's network&#8230; Kinda rough.
+The holidays are officially over, for I went back to work today. It was a bit of a slow day. I got my internship extended, however they basically treated me as a new hire since my contract ended in December. So I'm starting from scratch, essentially. I had no laptop, no e-mail, no account to login into any computer connected to the company's network... Kinda rough.
 
 However, I did manage to do some small tasks that didn't require the use of a computer.
 

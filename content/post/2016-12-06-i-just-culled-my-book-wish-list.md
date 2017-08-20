@@ -20,7 +20,7 @@ Recently I've been bit by the konmari bug. I've konmari'd my wardrobe and my boo
 I read this book a couple of years ago. Although it's aimed at a younger audience, I really enjoyed this story. After reading it, I went to watch the animated movie as well. A small part of me has always been fascinated by unicorns and horses (I blame Sailor Moon as the source of that).
 
 **The Picture of Dorian Gray by Oscar Wilde**  
-To be honest, I don't remember much of this book but I do remember being in awe of Wilde's writing. I remember the last few pages more than anything. It was not exactly terrifying but it was a bit&#8230; Grotesque? I mostly want this book so I can re-read it.
+To be honest, I don't remember much of this book but I do remember being in awe of Wilde's writing. I remember the last few pages more than anything. It was not exactly terrifying but it was a bit... Grotesque? I mostly want this book so I can re-read it.
 
 **The Master and Margarita by Mikhail Bulgakov**  
 A couple of years ago I took a Russian Literature course and had to do a group presentation on this book. This book is probably one of the very few that I actually read front to back for a class. Actually, I read all the required books in this course. That was a first for me. Bulgakov's imagination is borderline execessive with this work but I do like his alternative history spin on Jesus' life.

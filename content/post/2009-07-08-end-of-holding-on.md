@@ -22,7 +22,7 @@ Rating: G
   
 Disclaimer: N/A
   
-Comments: This is a poem we had to write in LA&#8230;I hate writing poems but everyone said it was good. Ehhh I love this one because the girl talking in this poem is me in a way&#8230;cause this is based on my experiences from the Philippines&#8230;
+Comments: This is a poem we had to write in LA...I hate writing poems but everyone said it was good. Ehhh I love this one because the girl talking in this poem is me in a way...cause this is based on my experiences from the Philippines...
   
 Synopsis: Holding hands means a lot, but hands eventually slip away.
 

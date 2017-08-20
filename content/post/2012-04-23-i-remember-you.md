@@ -26,7 +26,7 @@ First period comes and goes and then it's time for second period. While my teach
 
 Half an hour passes and my principal's voice comes onto the intercom, "Please excuse this interruption. Teachers please read out the handout you just received. Thank you."
 
-"We learned that over the weekend that T.W. passed away&#8230;"
+"We learned that over the weekend that T.W. passed away..."
 
 I ground my teeth so that my mouth wouldn't wobble or let out a cry. It was official. Really official this time. I spent the rest of the period trying not to cry. I couldn't believe that Muffin was gone.
 
@@ -40,7 +40,7 @@ Muffin's friend, appropriately nicknamed Cupcake, made a speech. It was wonderfu
 
 As it came to a close, I had a sudden urge to see his face. One last time. But I was in the back and I couldn't make it to see him in time. Maybe it was better if I didn't. I probably wouldn't have handled it.
 
-When they brought out the coffin, all the emotions I held in that past week burst out of me. I sobbed into my friend's shoulder as I watched as his best friend since the age of seven carried the coffin into the hearse. As I watched as his father quietly sobbed in his arm as the other men held him. As I saw his sister turn her head away and cry out loud. I couldn't believe it. Was that really Muffin in that coffin? What was his expression? And as silly as this sounds, was it really him? I was filled with immense sorrow and anger at that moment. Anger at myself, anger at him, anger towards whatever had caused this&#8230; I still kind of am but now it's considerably less.
+When they brought out the coffin, all the emotions I held in that past week burst out of me. I sobbed into my friend's shoulder as I watched as his best friend since the age of seven carried the coffin into the hearse. As I watched as his father quietly sobbed in his arm as the other men held him. As I saw his sister turn her head away and cry out loud. I couldn't believe it. Was that really Muffin in that coffin? What was his expression? And as silly as this sounds, was it really him? I was filled with immense sorrow and anger at that moment. Anger at myself, anger at him, anger towards whatever had caused this... I still kind of am but now it's considerably less.
 
 After the hearse drove away, I made me way to say my condolences. All I could say was "I haven't seen you in a while" and I hugged Cupcake for the longest time. I suddenly realized how long it was since I talked to him and how long it was since I told anyone any of my secrets. Then I went to hug Muffin's sister. It was a quick one. I don't know her that well. She looked at me and with the bravest and strongest face I have ever seen she said, "If you want anything of Tai's, let me know." That's another topic entirely.
 

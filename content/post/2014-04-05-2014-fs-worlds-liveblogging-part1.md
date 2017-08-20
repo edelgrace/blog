@@ -12,7 +12,7 @@ Okay, for two weeks I told myself that I would watch the Worlds for figure skati
 
 **Opening ceremony**
   
-Okay, I love the little figure skating girls! And I'm so sorry, but as they were doing the flag bit, I couldn't help but think "that is how you use props, Adelina." I'm so sorry&#8230; I like her but that just sprung into my mind&#8230;
+Okay, I love the little figure skating girls! And I'm so sorry, but as they were doing the flag bit, I couldn't help but think "that is how you use props, Adelina." I'm so sorry... I like her but that just sprung into my mind...
 
 **Pairs Short Program**
   

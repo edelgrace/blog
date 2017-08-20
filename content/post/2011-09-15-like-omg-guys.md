@@ -33,7 +33,7 @@ Me: Why would you get yelled at?
   
 Brad: Because of Sarah. But I didn't do anything wrong!
   
-Me: &#8230; No comment.
+Me: ... No comment.
 
 Then Brad proceeded to play with my calculator and quizzed me on cubed roots. Like the cubed root of 125 and 81. I only got the cubed root of 1000 right (10) but that's too easy.
 

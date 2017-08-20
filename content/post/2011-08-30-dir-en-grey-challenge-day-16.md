@@ -3,7 +3,7 @@ title: 'DIR EN GREY Challenge: Day 16'
 author: Edel
 type: post
 date: 2011-08-30T21:28:25+00:00
-excerpt: 'Listening to: Thriller by Michael Jackson Fave song atm: Ophelia by L'Arc~en~Ciel Fave musician(s) atm: Michael Jackson Your favourite Dir en grey lyric and translation. Oh God. Don't ask me this. Brb I'll be hunting through lyric sites forever. Anyway, immediately, 我、闇とて。。。 came in my head. Here is the translation: It's easy to stop breathing&#8230;but [...]'
+excerpt: 'Listening to: Thriller by Michael Jackson Fave song atm: Ophelia by L'Arc~en~Ciel Fave musician(s) atm: Michael Jackson Your favourite Dir en grey lyric and translation. Oh God. Don't ask me this. Brb I'll be hunting through lyric sites forever. Anyway, immediately, 我、闇とて。。。 came in my head. Here is the translation: It's easy to stop breathing...but [...]'
 url: /life/dir-en-grey-challenge-day-16/
 syndication_source:
   - Musical Broken Phrases
@@ -35,7 +35,7 @@ categories:
 
 Oh God. Don't ask me this. Brb I'll be hunting through lyric sites forever. Anyway, immediately, _我、闇とて。。。_ came in my head. Here is the translation:
 
-_It's easy to stop breathing&#8230;but I just want to feel you just a little more
+_It's easy to stop breathing...but I just want to feel you just a little more
   
 Will you allow me to live?
   

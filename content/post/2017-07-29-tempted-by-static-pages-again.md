@@ -38,7 +38,7 @@ My concerns:
   * **So many choices!**  
     There is no shortage of flat file systems out there. Like I've said, I've dabbled in BoltWire before and wiki systems but it's so hard to find one that will work for you when there's a breadth of options.
 
-One of the main frameworks I've been looking at is [Hugo][3] which is used by [Baty.net][4], [Modern Emacs][5], [kieranHealy.org][6], [but she's a girl&#8230;][7], and more. I am very attracted to this option because it seems like it could work pretty well with an emacs workflow.
+One of the main frameworks I've been looking at is [Hugo][3] which is used by [Baty.net][4], [Modern Emacs][5], [kieranHealy.org][6], [but she's a girl...][7], and more. I am very attracted to this option because it seems like it could work pretty well with an emacs workflow.
 
 Thankfully, I finally recovered my previous website, [erzadel.net][8] and now have access to my old blog posts. I'll be tinkering with that this weekend and try to have a clone of my old blog up and running on my local machine. We'll see how it goes!
 

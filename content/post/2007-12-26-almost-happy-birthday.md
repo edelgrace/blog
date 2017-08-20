@@ -5,8 +5,10 @@ type: post
 date: 2007-12-26T22:54:04+00:00
 url: /life/almost-happy-birthday/
 categories:
-  - 'Family &amp; Friends'
-
+  - life
+tags:
+  - friends
+  - family
 ---
 My birthday is in four days! I'll finally be thirteen! I have had it with people staring at me and going, "You're still twelve?" It's annoying. I'm not the only twelve year old in grade eight! 
 

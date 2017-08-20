@@ -18,13 +18,13 @@ However, today I did talk to him. I asked him how his weekend was. Apparently it
 > **Senpai:** ?  
 > **Me:** Why did you choose University of Calgary?  
 > **Senpai:** I won't answer that question.  
-> **Me:** Oh&#8230;  
+> **Me:** Oh...  
 > \*time passes by and he comes over to my group and attractively leans on my de\*  
 > **Me:** So you won't tell me why you're here?  
-> **Senpai:** No, I won't tell you. It's very sad. It's related to&#8230; No, it's really sad and happened recently. I don't want to talk about it.  
-> **Me:** \*inside\* Oh shit&#8230;
+> **Senpai:** No, I won't tell you. It's very sad. It's related to... No, it's really sad and happened recently. I don't want to talk about it.  
+> **Me:** \*inside\* Oh shit...
 
-So yeah, the above happened. I'm like 99% sure that he's talking about that girl I've seen with him sometimes. I think it's utterly sweet that he went across the ocean for her but at the same time&#8230; That must be devastating for him. To do all that and to be dumped in the end? I'm just&#8230; Poor Senpai. D: I think I can pinpoint when it happened too. Just after the Thanksgiving weekend Rayce asked how his weekend was. The response was that it was "Bad." Man, I can barely imagine the heartbreak he's having. That really sucks. Since he is older, I imagine that maybe he envisioned a future with her. In the long term. Adult stuff, man. Adult. Stuff.
+So yeah, the above happened. I'm like 99% sure that he's talking about that girl I've seen with him sometimes. I think it's utterly sweet that he went across the ocean for her but at the same time... That must be devastating for him. To do all that and to be dumped in the end? I'm just... Poor Senpai. D: I think I can pinpoint when it happened too. Just after the Thanksgiving weekend Rayce asked how his weekend was. The response was that it was "Bad." Man, I can barely imagine the heartbreak he's having. That really sucks. Since he is older, I imagine that maybe he envisioned a future with her. In the long term. Adult stuff, man. Adult. Stuff.
 
 On the bright side, I got him to spill about his research. Cloud computing and networks. Doesn't sound so complicated but holy shoes, it is! Then Chan was all, "Could I find your thesis if I looked it up?" And then Senpai was all, "Don't Google me! Don't Google me!" Of course, Chan pretended to do so on his phone and Senpai got all frantic and tried to grab the phone away from him. It was adorable! They did that for like a good minute. Cute. :(
 

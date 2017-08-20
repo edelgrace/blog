@@ -15,7 +15,7 @@ So it's been about 9 days since he broke up with me.
   
 We haven't talked at all.
   
-Ocassionally we meet eyes and turn away&#8230;
+Ocassionally we meet eyes and turn away...
   
 We walk past each other without saying a word.
   
@@ -25,7 +25,7 @@ He sits at the other side of the band room.
   
 On Wednesday, he was playing Outsider and other music which I loved.
   
-It's almost like he's luring me with music again&#8230;
+It's almost like he's luring me with music again...
   
 They say he misses me.
   

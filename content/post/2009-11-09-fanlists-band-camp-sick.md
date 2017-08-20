@@ -12,11 +12,11 @@ categories:
   - Internet
 
 ---
-I'm thinking of changing all my fanlist links and moving them from Ueda Hime to over here. Would that be a good idea? I'm debating if I have enough time to do it in one session&#8230; probably not. I might do it eventually though&#8230;
+I'm thinking of changing all my fanlist links and moving them from Ueda Hime to over here. Would that be a good idea? I'm debating if I have enough time to do it in one session... probably not. I might do it eventually though...
 
 I'm sick. -.- AND I MISSED BAND CAMP! Ahhh! Oh well. My friends sent me pics from their phones and one even took the time to text me any moment he could (that was Tanner <3). So yeah, my friends are amazing and I love them! I missed two days of school so yeah, HOMEWORK! Whoot! Not.
 
-Oh oh and there is a layout in the works! I'm trying to re-learn DIV layers cause apparently I learned them the wrong way (haha&#8230;).
+Oh oh and there is a layout in the works! I'm trying to re-learn DIV layers cause apparently I learned them the wrong way (haha...).
 
 Some Tanner texts:
 

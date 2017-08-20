@@ -29,7 +29,7 @@ There is a couple of basic moves done in 45, 30, and 20 second bursts. Thankfull
 
   * _Froggy Hop:_ I did the beginner's version of this move, solely because I didn't want to wake up my dad downstairs. This is the least intensive move in this video.
   * _Push Up Plank:_ I hate these so much!!! Halfway through, I had to switch from the advanced to beginner's version. Push ups are not my area of expertise.
-  * _Inner Thigh Lunge:_ I'm not sure if it's because of yesterday's workout, but I felt actual pain doing these. I don't even remember what yesterday's workout was and if there were a lot of thighs involved&#8230;
+  * _Inner Thigh Lunge:_ I'm not sure if it's because of yesterday's workout, but I felt actual pain doing these. I don't even remember what yesterday's workout was and if there were a lot of thighs involved...
   * _Criss Cross Abs:_ I'm starting to love and hate this move. There is a lot of this move in today's workout.
 
 ### Video 2: Flat Belly Fat Burner
@@ -45,7 +45,7 @@ There is a couple of basic moves done in 45, 30, and 20 second bursts. Thankfull
   * _Double Leg Lifts:_ I tried really hard to focus on my abs with this move. I definitely felt it.
   * _Football Runs:_ Good thing this move focuses on light feet because I really did not want to wake my dad up.
   * _Eagle Abs:_ how do I do these properly? I'm doing them in a way that I really feel my abs but I'm sure that if someone watched me and then watched Cassey, they would laugh at me, haha!
-  * _Criss Cross Abs:_ There is around 2-3 minutes of this move&#8230; It's so hard to do for such a long time! Cassey does add some variation but of course, it's to challenge us and not to make it monotonous.
+  * _Criss Cross Abs:_ There is around 2-3 minutes of this move... It's so hard to do for such a long time! Cassey does add some variation but of course, it's to challenge us and not to make it monotonous.
 
 ### Video 3: 6 Minutes to a Sexy Booty
 
@@ -54,8 +54,8 @@ Still debating whether or not I want a "booty" or not. I did the video anyway.
 <div class="flex-video">
 </div>
 
-  * _Cross Butt Lift:_ This move is really interesting&#8230; I could feel the burn through the entire thing. I also did not do it properly because I just could not make my knee touch the floor.
+  * _Cross Butt Lift:_ This move is really interesting... I could feel the burn through the entire thing. I also did not do it properly because I just could not make my knee touch the floor.
   * _Fire Hydrant:_ When I first tried this move, it was pretty easy but in this video, after those cross butt lifts, my butt was on fire! Ironic, considering the name of the move, haha.
-  * _Heel Lift:_ Oh my legs! And more importantly, oh my butt&#8230; The pulses are torturous.
+  * _Heel Lift:_ Oh my legs! And more importantly, oh my butt... The pulses are torturous.
 
 

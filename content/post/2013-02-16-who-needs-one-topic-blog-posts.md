@@ -16,7 +16,7 @@ I quit Tumblr for Lent. It's only been a couple of days, and I've accumulated so
 
 #### Ugh no wow stop
 
-Attractive engineering guy is really attractive. I haven't seen him since like semester. Now I go to a different lecture for my statics course because my statics prof confuses me. I found out that attractive engineering guy was in the lecture and we've been sitting together lately. It's nice. I love watching his mouth when he talks. One side of his mouth goes crooked. Really cute. Although he tends to mumble/speak really softly. Combined with the accent I'm constantly saying "Pardon? Oh goodness, sorry, I didn't hear that&#8230; What? Say that again? &#8230; Pardon?" I also noticed that his hair seems to look lighter. I thought it was jet black (or really close to black) but now it looks like a warm and dark chestnut. I also feel stupid now, he got a B+ in the subject I did the worst in and said he wasn't smart. Brb crying in a corner now.
+Attractive engineering guy is really attractive. I haven't seen him since like semester. Now I go to a different lecture for my statics course because my statics prof confuses me. I found out that attractive engineering guy was in the lecture and we've been sitting together lately. It's nice. I love watching his mouth when he talks. One side of his mouth goes crooked. Really cute. Although he tends to mumble/speak really softly. Combined with the accent I'm constantly saying "Pardon? Oh goodness, sorry, I didn't hear that... What? Say that again? ... Pardon?" I also noticed that his hair seems to look lighter. I thought it was jet black (or really close to black) but now it looks like a warm and dark chestnut. I also feel stupid now, he got a B+ in the subject I did the worst in and said he wasn't smart. Brb crying in a corner now.
 
 <div class="alignleft">
   <div class="picture">
@@ -76,6 +76,6 @@ It's weird how that after I write I write a hard test, I am filled with self loa
 
 #### Can't wait for summer!
 
-It's official. We're going to the Philippines for the month of May! My mom just picked up the plane tickets a couple of days ago. I'm super excited. I can't wait. I just need to get through this gosh darn awful semester first. Hopefully it'll happen&#8230;
+It's official. We're going to the Philippines for the month of May! My mom just picked up the plane tickets a couple of days ago. I'm super excited. I can't wait. I just need to get through this gosh darn awful semester first. Hopefully it'll happen...
 
 

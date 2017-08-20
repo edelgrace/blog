@@ -38,7 +38,7 @@ Right after I finished my chemistry diploma exam on Thursday, my dad drove me to
 
 After that check, I go straight to see if there any books I haven't read in the P and M section to get my fix of Jodi Picoult and Haruki Murakami. Then I quickly scan the bookshelves to see if there's anything that's on my to-read list. After that, I head up to the teens section. I scan the shelves again and then carefully inspect the comic book shelves. I've pretty much read all the comics I want to read in the section but you never know.
 
-Here's my library list for that day. I'm trying to lessen my loads as not to make it so intimidating to get through. And so I can minimalize the amount of books I return unread. I hate doing that&#8230;
+Here's my library list for that day. I'm trying to lessen my loads as not to make it so intimidating to get through. And so I can minimalize the amount of books I return unread. I hate doing that...
 
   * **[Moon Boy (Volumes 1-3)][1] by Lee Young-You**  
     I've read a some of this series and has been curious ever since then. I saw most of the volumes on the shelves but told myself to only get the first three instead of the first seven.

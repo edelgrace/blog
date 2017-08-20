@@ -33,9 +33,9 @@ categories:
   
 > **Fave musician(s) atm**: 2NE1 & BIGBANG 
 
-Okay, I love Hyde. I always have. There's something about him that I just can't ignore. However, I just wish I could bring back the Roentgen era. Variety is good and experimenting is all well and nice but&#8230; Roentgen. I miss you.
+Okay, I love Hyde. I always have. There's something about him that I just can't ignore. However, I just wish I could bring back the Roentgen era. Variety is good and experimenting is all well and nice but... Roentgen. I miss you.
 
-VAMPS was an iffy time for me. I was fully into L'Arc~en~Ciel and obsessing over everything Laruku related. When VAMPS came out with _Love Addict_ I was excited. "OMG HYDE HAS A SOLO PROJECT AND THE MUSIC IS SO SEXY OMG." Yeah&#8230;
+VAMPS was an iffy time for me. I was fully into L'Arc~en~Ciel and obsessing over everything Laruku related. When VAMPS came out with _Love Addict_ I was excited. "OMG HYDE HAS A SOLO PROJECT AND THE MUSIC IS SO SEXY OMG." Yeah...
 
 But at the same time I was disappointed. I found myself saying, "What is this noise? Is Hyde going through a mid-life crisis? What is going on?"
 
@@ -49,7 +49,7 @@ But. It strayed from what I was expecting and I didn't enjoy it as much.
 
 I want Hyde to go back to the Roentgen days. The songs back then were just so poetic and beautiful and just created an amazing place in my mind whenever I listened to them.
 
-I understand that bands grow and change but I don't want them going in that direction. I'd love to see them evolve into more complicated and poetic lyrics with fancy and creative riffs. Not stadium bubblegum pop. I just&#8230; No.
+I understand that bands grow and change but I don't want them going in that direction. I'd love to see them evolve into more complicated and poetic lyrics with fancy and creative riffs. Not stadium bubblegum pop. I just... No.
 
 I'll sit here and listen to forbidden lover on repeat and weep. <strike>Forbidden lover was such a long time ago omg I can't comprehend that.</strike>
 

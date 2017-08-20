@@ -27,7 +27,7 @@ I nearly flipped out when I looked at the CD. _DIR EN GREY &#8211; DUM SPIRO SPE
 
 The thing about the library is that it's right next to the mall. Where did we go next? The mall. I don't like shopping for clothes but I need clothes so I had to buy clothes. That part was boring.
 
-Like I said before, we got home and I spent the rest of the day playing _Assassin's Creed_. It's such a good game&#8230; I want the other Assassin's Creed games. Expect they're so expensive! Another time I guess.
+Like I said before, we got home and I spent the rest of the day playing _Assassin's Creed_. It's such a good game... I want the other Assassin's Creed games. Expect they're so expensive! Another time I guess.
 
 
 

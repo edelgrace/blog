@@ -11,7 +11,7 @@ categories:
 Man, lately I've just been scouring the Internet (okay, YouTube) for new music. I'm so hungry for new music! Anyway, here are my findings.
 
 **Buhar Jerreau**  
-These guys are at the top of my list at the moment. They're a hip-hop/rap group of three guys from Kazakhstan. According to translations of their lyrics, I find them to be extremely talented at song writing. I really am in love with the beats of their songs (I don't know rap lingo&#8230;). They all just make me bob my head. <del>It helps that all of them are really attractive too.</del> From what I could find, they have a dozen or so songs released but not much.  
+These guys are at the top of my list at the moment. They're a hip-hop/rap group of three guys from Kazakhstan. According to translations of their lyrics, I find them to be extremely talented at song writing. I really am in love with the beats of their songs (I don't know rap lingo...). They all just make me bob my head. <del>It helps that all of them are really attractive too.</del> From what I could find, they have a dozen or so songs released but not much.  
 **Favourite song(s):** Мост<sup class="footnote"><a href="#foot_ajs-fn-id_1-702" id="back_ajs-fn-id_1-702">1</a></sup>, Текстиль<sup class="footnote"><a href="#foot_ajs-fn-id_2-702" id="back_ajs-fn-id_2-702">2</a></sup>, 498<sup class="footnote"><a href="#foot_ajs-fn-id_3-702" id="back_ajs-fn-id_3-702">3</a></sup>
 
 **Yeng Constantino**  

@@ -18,7 +18,7 @@ tags:
 
 ### Day 8: Total Body
 
-After my "rest day" I've been missing Cassey a little. It's hard to believe that it's already the second week! It doesn't feel like it's been that long&#8230;
+After my "rest day" I've been missing Cassey a little. It's hard to believe that it's already the second week! It doesn't feel like it's been that long...
 
 ### Video 1: Indoor Cardio Workout
 
@@ -38,7 +38,7 @@ This "body slimming" workout is essentially a rehash of the beginner's pilate vi
   * _Pilates Stance:_ This move is okay, I'm finding it easier to hold myself up but I'm not sure if I'm holding myself up high enough.
   * _The Hundred:_ These still are pretty hard for me but when Cassey turned from table top to straight let, I was surprised at how it didn't get much harder. I can feel myself do these better and without as much strain in my neck!
   * _Bridge Pulses:_ This is a new move! At first it felt really easy to do but then I started to really feel it in my butt. Now, whenever Cassey says, "you'll feel it in your butt," I never do so this is a first for me.
-  * _Double Leg Lift:_ I still don't know how to position my hands so that my tailbone doesn't hurt&#8230;
+  * _Double Leg Lift:_ I still don't know how to position my hands so that my tailbone doesn't hurt...
   * _Half Cobra Pushup:_ The cobra moves are a little bit more easier to do every time.
   * _Parachuter:_ Another new move! This move is cool but I have no idea if I'm doing it right. I feels like I'm lifting my body up but again, is it high enough? I don't know.
 
@@ -51,7 +51,7 @@ I tend to slouch a lot but lately I'm becoming more conscious of my posture. My 
 
   * _Seated Twist:_ These felt really good! I do a variation of this whenever I'm sitting down.
   * _Pretzel:_ Cassey claims that this move was a typical gym class move but I'm not sure I remember it! I didn't feel this one as much but it was surprising to me to find out that I'm more flexible on my right compared to my left side.
-  * _Cobra:_ I just can't seem to escape the cobras&#8230; Maybe that's a good thing because it's the thing that I need to work on the most!
+  * _Cobra:_ I just can't seem to escape the cobras... Maybe that's a good thing because it's the thing that I need to work on the most!
   * _Scorpion Twist:_ Hmmm, I don't really see the correlation with a scorpion but this was a fun move regardless. I didn't have much room to do these but it was still a good stretch.
   * _Cat-Dog:_ This reminds me of like otso-otso in slow motion. Below my shoulders it kind of started to hurt. I didn't feel much of a stretch but I really tried to mimic the ost-otso flow, haha!
 

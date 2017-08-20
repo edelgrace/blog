@@ -14,13 +14,13 @@ tags:
 
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"></a>
 
-<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
+<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is...
 
 > When you start reading a novel, do you prefer to be plunged right into the action, or do you prefer a slower, more descriptive introduction to the plot and characters? Submitted by Maria @ [<figure><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><img src="https://i1.wp.com/3.bp.blogspot.com/-2bKizvp-A9w/WEjGAM4OjJI/AAAAAAAAV50/nU3xHQNtvSQQ8dRsB8OueG061E99KPrYACLcB/s1600/Book%2BBlogger%2BHop%2B%2528Final%2529.png?w=663&#038;ssl=1" data-recalc-dims="1" /></a></figure> 
 
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"></a>
 
-<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
+<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is...
 
 > When you start reading a novel, do you prefer to be plunged right into the action, or do you prefer a slower, more descriptive introduction to the plot and characters? Submitted by Maria @][1] 
 

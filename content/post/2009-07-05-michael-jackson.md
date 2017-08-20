@@ -132,7 +132,7 @@ I'm trying to finish this before June 25, 2010. Here's what's going to be in it!
 
 Total Works= 387 or 388
   
-Estimated Time= Um&#8230;centuries!
+Estimated Time= Um...centuries!
   
 Time Liked to Finish By= Before June 25, 2010
 

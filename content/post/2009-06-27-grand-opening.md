@@ -14,9 +14,9 @@ Hello, I'm Edel! I'm so excited for the opening of my site. When I first got [Ol
 
 You have been accepted!"
 
-And then I screamed&#8230; I Twittered, Facebooked, and forum posted about it. No one really was as estatic as I was, but that was to be expected. I'm very excited for what this site can be turned into.
+And then I screamed... I Twittered, Facebooked, and forum posted about it. No one really was as estatic as I was, but that was to be expected. I'm very excited for what this site can be turned into.
 
-Anyway, right now I am mourning the loss of Farrah Fawcett and Michael Jackson. So many specials on MTV and Much Music for M.J. I was actually looking forward to his tour (I wasn't going but I wanted to watch fancams on You Tube. haha&#8230;).
+Anyway, right now I am mourning the loss of Farrah Fawcett and Michael Jackson. So many specials on MTV and Much Music for M.J. I was actually looking forward to his tour (I wasn't going but I wanted to watch fancams on You Tube. haha...).
 
 Yesterday I saw My Sister's Keeper! This may reveal some spoilers for those who haven't read the book (I strongly reccommend it. Although it may not be for the weak hearted and the strongly emotional ones). Basically it's about two girls. The older sister, Kate has APL, a rare form of Leukemia. Her younger sister, Anna, is conceived just to give blood for Kate at birth. When Kate needs a kidney, Anna is fed up and files a lawsuit against her parents.
 

@@ -18,7 +18,7 @@ tags:
 
 ### Day 10: Abs
 
-The day starts off with two thirty second planks on each side. How I hate planks&#8230; But I did it anyway, even if I cheated for a couple seconds on each. There's only one new video today and I decided that I wouldn't list all the moves for the other videos again in the interest of time and because I don't really have anything to say about specific moves.
+The day starts off with two thirty second planks on each side. How I hate planks... But I did it anyway, even if I cheated for a couple seconds on each. There's only one new video today and I decided that I wouldn't list all the moves for the other videos again in the interest of time and because I don't really have anything to say about specific moves.
 
 ### Video 1: Ab Time
 
@@ -29,7 +29,7 @@ This video is so simple and without graphics, it's so weird now that I'm used to
 
 ### Video 2: Bubble Butt Workout
 
-I'm a little skeptical on the whole butt thing (is lifting my butt a good thing even if I have absolutely no butt?) but I did this workout anyway. I was able to go through this entire video without cheating. The grasshopper move at the end is still pretty hard for me. I'm getting bonier and my hips hurt being pushed to the ground&#8230; Otherwise, I think my butt is on it's way to become a butt!
+I'm a little skeptical on the whole butt thing (is lifting my butt a good thing even if I have absolutely no butt?) but I did this workout anyway. I was able to go through this entire video without cheating. The grasshopper move at the end is still pretty hard for me. I'm getting bonier and my hips hurt being pushed to the ground... Otherwise, I think my butt is on it's way to become a butt!
 
 <div class="flex-video">
 </div>

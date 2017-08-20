@@ -9,7 +9,7 @@ categories:
   - Internet
 
 ---
-Wow, it's already August! I can't believe it. Summer is half way done. No way. I wish summer break was longer. I don't want to think about school yet. Although I'm extremely excited to start shopping for school supplies. That's honestly my favourite part of going back to school. I'm in love with stationary. Notebooks and binders are something I go through very quickly&#8230;
+Wow, it's already August! I can't believe it. Summer is half way done. No way. I wish summer break was longer. I don't want to think about school yet. Although I'm extremely excited to start shopping for school supplies. That's honestly my favourite part of going back to school. I'm in love with stationary. Notebooks and binders are something I go through very quickly...
 
 I have a confession to make. It looks like I haven't blogged in a while, but I have. A lot of my posts that I made within the past nine days are set to private. Why? Because they contain very personal content and I don't want to have a physical diary. For some reason, I have more motivation to do it on my blog than on paper. I've been keeping diaries for a while and because of that my family members are more likely to find it. I'm horrible at hiding the fact that I have a diary. There's absolutely no privacy in this house. Seeing that my parents are technologically illiterate, I am basically free to do whatever as long as my parents aren't watching over my shoulder. As for my brother, what I say on the Internet doesn't bother him as long as I don't bad mouth him (which I don't). So yeah, this blog is like a diary to me.
 

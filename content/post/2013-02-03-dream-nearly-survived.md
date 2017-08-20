@@ -26,7 +26,7 @@ More trains came by on the other side. The tracks on the other side were chaotic
 
 I looked down the platform. People were picking up their bags and leaving. With a worried look on my mothers face, she asked me for the time. I looked at my wrist watch and said, "It's quarter to 10, why?" She didn't respond but instead looked off in the distance. I repeated the question until she answered me with, "The trains stop running at 12:45." I didn't even realize it was night already. She went on about maybe staying in a hotel for the night and as she did, I sent a text to my aunt in Vancouver explaining what had happened. It was at that moment that I knew that we were in the Philippines for vacation.
 
-I was starting to say something but my mom shushed me when the sounds of an airplane filled our ears. It sounded extremely close, therefore extremely loud, and getting louder every second. I covered my ears thinking, "We're going to get hit, we're going to get hit&#8230;" and braced myself for our impending doom. The sound abruptly stopped and for some reason, we were at ease.
+I was starting to say something but my mom shushed me when the sounds of an airplane filled our ears. It sounded extremely close, therefore extremely loud, and getting louder every second. I covered my ears thinking, "We're going to get hit, we're going to get hit..." and braced myself for our impending doom. The sound abruptly stopped and for some reason, we were at ease.
 
 We were the only ones on the platform now, give or take a person or two. I looked down the tracks and could see the night sky and the twinkling of office building lights and highways.
 

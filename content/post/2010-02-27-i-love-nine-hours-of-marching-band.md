@@ -20,7 +20,7 @@ Ah so, I got approved for the Outsider "Loner" fanlisting. Holy cheese. I'm like
 
 <a name="monday"></a>So a couple of things happened over the past few days. On Monday I was sick, and then Cloud got sick too. I felt like I made him sick, ah I told him not to get too close to me! But then my friend said that we both might have mono. O_o
 
-To recap, my friend Rio had a friend who had mono. His friend kinda coughed in his face a lot, and accidetally shared food on more than one occassion. So me and Dylan and Rio are chilling at Chinook mall and I eat half of Rio's burrito, Dylan eats the other half and drinks Rio's pop. It was ony after we did that, that Rio told us that he might have mono. Thank you Rio&#8230; But there's little chance that me and Dylan have mono. So yeah, being sick is never fun.
+To recap, my friend Rio had a friend who had mono. His friend kinda coughed in his face a lot, and accidetally shared food on more than one occassion. So me and Dylan and Rio are chilling at Chinook mall and I eat half of Rio's burrito, Dylan eats the other half and drinks Rio's pop. It was ony after we did that, that Rio told us that he might have mono. Thank you Rio... But there's little chance that me and Dylan have mono. So yeah, being sick is never fun.
 
 <a name="wednesday"></a>Then on Wednesday I had gym. Since I'm in bandie gym (a gym class with mostly band kids in it) I don't take gym seriously cause no one else really does. But there's always that one kid who is always hardcore and intense.
 
@@ -44,7 +44,7 @@ But this time me and Cloud didn't go to Chinatown but instead went to Jack Astor
 
 We sat down at this large table, and the first thing Mario [baritone] grabs is a jar of crayons. On the table was construction paper so we would draw on it :DDD The first thing people drew were vulgar things. Of course.
 
-And then we got to order our drinks. I got Vanilla Coke but Cloud, being the only legal one there, got beer. Of course. Everyone was like "Cloud, buy me a drink." or "Give me a sip!" but he was like "I'd rather not go to jail. And I don't condone underaged drinking even though I have before&#8230;" I think that's the case with many.
+And then we got to order our drinks. I got Vanilla Coke but Cloud, being the only legal one there, got beer. Of course. Everyone was like "Cloud, buy me a drink." or "Give me a sip!" but he was like "I'd rather not go to jail. And I don't condone underaged drinking even though I have before..." I think that's the case with many.
 
 So we ordered our food and it didn't get there until 5:15. We all gobbled our food down, left the table at around quarter to-ish. But it took forever to pay. Since it was all separate bills. Some people had debit, cash, or didn't have enough money. Ugh. After about half of us finished paying, we bolted for the train station.  Thank gosh it was ony across the street. And only after a few minutes of waiting the train came by. Perfect timing! But in the end, we were still late to band XD
 
@@ -54,7 +54,7 @@ So we ordered our food and it didn't get there until 5:15. We all gobbled our fo
 
 For the first half hour, we did this thing called conditioning. Mike and Josh (marching instructors that are very hot and in their early twenties) make us do some sort of activity that gets us across the gym floor. Sprinting, lunges, grape vines, etc etc. It's to check that we're fit. We're in a marching band, not a basketball team, but I guess fitness is a good thing.
 
-We blocked a whole lot today. From charts 20 something to 45. Ugh, it was exhausting. Blocking is basicaly learning our show. We march to our dots which is a spot on a field. Our marching makes pretty shapes and such. It's really hard since we have to learn it by muscle memory. I use people for markers even though I probably shouldn't&#8230; But I got through it! I only epically failed once or twice (marching in the wrong direction is always geniousness).
+We blocked a whole lot today. From charts 20 something to 45. Ugh, it was exhausting. Blocking is basicaly learning our show. We march to our dots which is a spot on a field. Our marching makes pretty shapes and such. It's really hard since we have to learn it by muscle memory. I use people for markers even though I probably shouldn't... But I got through it! I only epically failed once or twice (marching in the wrong direction is always geniousness).
 
 Ahh and then in lunch, the microwave in the band room somehow broke. Cloud's popcorn didn't pop well enough haha. Lunch was very interesting. For once I was surrounded by Cloud's friends. Which some are my friends as well. There's this guy named Jeff who's a tuba. He has this amazing low voice and he sounds like the Kool-Aid man.
 

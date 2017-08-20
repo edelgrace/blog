@@ -29,7 +29,7 @@ There's a lot of tragedy and drama surrounding the band, hence the X JAPAN feeli
 
 I remember reading interviews with the drummer, Yoshiki, about the grief he felt and still felt years after. I don't remember the site anymore, but there are a few (barely accurate) quotes that I remember from it. 
 
-> I couldn't imagine myself in my thirties. When I was younger, my father committed suicide. He was 33. I could never imagine myself older than my father. It just so happened that hide was the same age&#8230; 33.
+> I couldn't imagine myself in my thirties. When I was younger, my father committed suicide. He was 33. I could never imagine myself older than my father. It just so happened that hide was the same age... 33.
 
 For some reason, that really cut deep. A small, simple, and hopefully innocent coincidence that could really tear a person apart. Gosh, and then Yoshiki goes to say things that just hurt for some reason.
 

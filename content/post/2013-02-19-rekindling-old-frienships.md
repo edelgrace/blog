@@ -23,13 +23,13 @@ I met this girl on the same website where I met Internet Friend #1. We both shar
 
 ### The Internet Friend #3
 
-This one goes a long way back! Some time ago I joined an AFI forum and met this girl. After we stopped going on the forum we regularly e-mailed each other about music and our writing (yeah, e-mailing people&#8230; I don't think I even knew what Facebook was back then!). When that kinda faded out, we went to YouTube. Soon after that, we stopped all communication entirely.
+This one goes a long way back! Some time ago I joined an AFI forum and met this girl. After we stopped going on the forum we regularly e-mailed each other about music and our writing (yeah, e-mailing people... I don't think I even knew what Facebook was back then!). When that kinda faded out, we went to YouTube. Soon after that, we stopped all communication entirely.
 
 Then a week or two ago, I was browsing my YouTube subscriptions and saw a video from her account. She had taken up vlogging! I wrote a comment and she asked me for my Facebook. It all went downhill from there.
 
 ### That Girl from Junior High
 
-In my last year of junior high, I was friends with this girl in grade seven. She was seriously so adorable! Her round face, her button nose, her boyish yet still extremely girl short hair, her awkward skinny limbs&#8230; Too cute! I kinda felt responsible for her back then and took her under my wing. It was a nice year for us!
+In my last year of junior high, I was friends with this girl in grade seven. She was seriously so adorable! Her round face, her button nose, her boyish yet still extremely girl short hair, her awkward skinny limbs... Too cute! I kinda felt responsible for her back then and took her under my wing. It was a nice year for us!
 
 We did try to keep in touch after I left for high school but it was sporadic. I was cleaning out my cell phone contacts, saw the number, and decided to text it! Turns out a lot has changed.
 

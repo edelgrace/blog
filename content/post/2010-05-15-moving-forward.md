@@ -20,7 +20,7 @@ Oh, I have also a fanlisting collective I've set up. Be sure to check this out a
 
 [k y a !][2]
 
-I've been trying to keep myself busy since various recent events and I have a huge to do list that I want to accomplish before I go off to tour in the summer! Which is in about two-three weeks&#8230; Never wrecking! Uwah~! Anyway, just keeping you updated! See you!
+I've been trying to keep myself busy since various recent events and I have a huge to do list that I want to accomplish before I go off to tour in the summer! Which is in about two-three weeks... Never wrecking! Uwah~! Anyway, just keeping you updated! See you!
 
 
 

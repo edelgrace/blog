@@ -150,6 +150,6 @@ I usually create an "ATM" playlist that features all the songs I want to listen 
     Another song that doesn't start that great. But the rest of the parts are perfect. Perfect. Beibei nails it. The chorus is okay though. Someone's releases are annoying.
   * Scream by 2NE1
   
-    The real deal. THE REEEAL DEAL. I love Minzy's rapping. Pretty dece. And CL. GUURL stop being so attractive. My only qualm about this song is Dara's part. It's a bit weird and out of place. :/ I don't know how to describe it. But she sings it well just&#8230; Yeah. Bom's part. Bom I love you. I love youuu. Also. Girl crush on Minzy. She's so attractive.
+    The real deal. THE REEEAL DEAL. I love Minzy's rapping. Pretty dece. And CL. GUURL stop being so attractive. My only qualm about this song is Dara's part. It's a bit weird and out of place. :/ I don't know how to describe it. But she sings it well just... Yeah. Bom's part. Bom I love you. I love youuu. Also. Girl crush on Minzy. She's so attractive.
 
 

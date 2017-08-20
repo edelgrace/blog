@@ -17,7 +17,7 @@ I caught up to Shannon. Her eyes were wet and her face was red. I tried to slow 
 
 I felt bad, but I was just like, "Voldemort? Really?" Voldemort is her ex who is just extremely messed up. She's those typical "emo" chicks who says she's bi just to sleep around with numerous people of both genders at the same time. I think she was using Shannon when they were first dating.
 
-I just&#8230; I CAN'T EVEN. I was worried that Aiden like raped her or something. If that happened, I would have for sure slapped a baby (but not really).
+I just... I CAN'T EVEN. I was worried that Aiden like raped her or something. If that happened, I would have for sure slapped a baby (but not really).
 
 Well, during hand we played the show opener a couple of times. I actually enjoy it. The last five bars are so pretty.
 
@@ -29,7 +29,7 @@ In math we did review. Fuuuuuuuuun. But not really.
 
 In math we kinda did review. I discovered that my calculator ran out of batteries so I had to "go to the washroom" to text people for their calculators. Alara gave me hers, lol.
 
-Yeah the chem test. I though I failed. I'm so glad I got 80% but at the same time, I'm just like IT'S ONLY 80%. I'm so lame&#8230;
+Yeah the chem test. I though I failed. I'm so glad I got 80% but at the same time, I'm just like IT'S ONLY 80%. I'm so lame...
 
 After school we played the show opener again and Jazz Police. We didn't get to test because we played right until 4:30 PM. Oh Riegel.
 

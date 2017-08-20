@@ -41,7 +41,7 @@ categories:
   </div>
 </div>
 
-&#8230; Is getting an adult library card. I'm not even joking. I detested the teen library card. It was too "hip" for me. So I rather like my simplistic and pretty white adult library card. The bad thing is that I have to memorize a new card number. Although the number for my new card has bits and pieces of my address and home phone number so I reckon it's not that bad.
+... Is getting an adult library card. I'm not even joking. I detested the teen library card. It was too "hip" for me. So I rather like my simplistic and pretty white adult library card. The bad thing is that I have to memorize a new card number. Although the number for my new card has bits and pieces of my address and home phone number so I reckon it's not that bad.
 
 And so I made my first library haul of the year with my shiny new library card! It took me an hour because I was pressed for time and with the fact that I probably won't have too much time for reading. I finished one of them in a jiffy though.<span id="more-210"></span>
 

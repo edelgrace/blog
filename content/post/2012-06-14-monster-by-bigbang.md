@@ -40,7 +40,7 @@ The beginning actually pretty cool. The prison and the gun shots and the explosi
 
 So the piano kicks in and my heart starts melting. It's just so melancholy and BEAUTIFULLL. Then I hear TOP's deep lull of a voice and I melt even more. And then I hear GD and I scream inside. But then Taeyang shows up and I'm like, WHAT'S UP WITH YOUR HAIR?
 
-Seriously, I could not get over Taeyang's hair for most of the music video. It's just so ridiculous like&#8230; I just can't. I don't even know how to describe it. That's how out of this world it is. It's like he stepped out of a cheesy anime. I just couldn't take it seriously.
+Seriously, I could not get over Taeyang's hair for most of the music video. It's just so ridiculous like... I just can't. I don't even know how to describe it. That's how out of this world it is. It's like he stepped out of a cheesy anime. I just couldn't take it seriously.
 
 I just started and ended that last paragraph with seriously. Wow.
 

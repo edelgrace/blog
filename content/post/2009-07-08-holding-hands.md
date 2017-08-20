@@ -16,8 +16,8 @@ Chapters: N/A
 Pairing: GuyxGirl  
 Rating: G  
 Disclaimer: N/A  
-Comments: Somewhat based on my experiences from the Philippines. I based End Of Holding On on this. ^^ I might have more, but I'm not sure I want to post it. Hands are on my mind lately&#8230;  
-Synopsis: This is only a temporary affair&#8230;There's an end to everything. Even when you're holding hands.
+Comments: Somewhat based on my experiences from the Philippines. I based End Of Holding On on this. ^^ I might have more, but I'm not sure I want to post it. Hands are on my mind lately...  
+Synopsis: This is only a temporary affair...There's an end to everything. Even when you're holding hands.
 
 I could feel your eyes on me as I stroked your palm; carefully tracing the intricate creases. A pretty design of curves, stars, and criss-crosses that no one else in the entire world had.And I wish they could belong to me.
 

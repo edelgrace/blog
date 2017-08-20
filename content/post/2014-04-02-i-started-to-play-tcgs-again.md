@@ -30,7 +30,7 @@ However, my favourite TCG is [Rapture][1]. This TCG is themed around boy pairing
 
 Also, I'm actually pretty decent with this TCG! I've already mastered a couple of decks already. In fact, I think this is the only TCG where I have actually mastered any decks. Currently though, I'm working to master the Kaworu x Shinji deck. I just recently finished Evangelion, so that's a fairly recent ship of mine.
 
-But like, look at these cards&#8230; So pretty! Featuring Xanxus x Superbia Squalo from _Katekyo Hitman REBORN!_, Kaworu x Shinji from _NGE_, and Houtarou x Satoshi from _Hyouka_.
+But like, look at these cards... So pretty! Featuring Xanxus x Superbia Squalo from _Katekyo Hitman REBORN!_, Kaworu x Shinji from _NGE_, and Houtarou x Satoshi from _Hyouka_.
 
 <p align="center">
   <img src="http://me.mazohyst.org/cards/rapture/varia03.png" alt="varia03" /> <img src="http://me.mazohyst.org/cards/rapture/pilots15.png" alt="pilots15" /> <img src="http://me.mazohyst.org/cards/rapture/contrast02.png" alt="contrast02" />

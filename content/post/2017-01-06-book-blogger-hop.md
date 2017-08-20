@@ -14,10 +14,10 @@ tags:
 
 <a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"></a>
 
-<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is&#8230;
+<a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html"><br /> </a><a rel="_nofollow" href="http://www.coffeeaddictedwriter.com/p/blog-page.html">Book Blogger Hop</a> is a weekly meme run by Coffee Addicted Writer. Every Friday, a question is posted for the book blog community to discuss. This week's question is...
 
 > Where's your favourite place to read? Submitted by Ronyell @ [Rabbit Ears Book Blog][1]
 
-I will be honest&#8230; I don't think I have a favourite place, as long as I'm reading. In terms of places where I usually read is on the bus or when I'm eating. I wish I had a better place to read, it's been a while since I've sat down in a dedicated spot for reading at home.
+I will be honest... I don't think I have a favourite place, as long as I'm reading. In terms of places where I usually read is on the bus or when I'm eating. I wish I had a better place to read, it's been a while since I've sat down in a dedicated spot for reading at home.
 
  [1]: http://rabbitearsbookblog.blogspot.com/

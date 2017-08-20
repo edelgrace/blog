@@ -11,7 +11,7 @@ tags:
   - hosts
 
 ---
-I've been with [Three Words Hosting][1] for a long time now. I can't exactly pinpoint how long&#8230; But I still had my first domain while I was with them. I remember when I had to jump from host to host because they kept disappearing. However, when I found Three Words, I felt like I could stay there forever. Honestly, I have nothing but praise for Misaki. She's been an outstanding host. What little downtime there is, it's not intrusive. She sends out timely e-mails and tweets whenever there are changes. Her passion for webhosting definitely shows.
+I've been with [Three Words Hosting][1] for a long time now. I can't exactly pinpoint how long... But I still had my first domain while I was with them. I remember when I had to jump from host to host because they kept disappearing. However, when I found Three Words, I felt like I could stay there forever. Honestly, I have nothing but praise for Misaki. She's been an outstanding host. What little downtime there is, it's not intrusive. She sends out timely e-mails and tweets whenever there are changes. Her passion for webhosting definitely shows.
 
 Initially, I was being hosted for free. When the packages changed and free hosting was no longer being offered, I decided to change to paid shared hosting. The main reason is because I wanted to be able to contribute for the increasing server costs. The quality of hosting was so great that it would have been a crime to not pay for it, I felt.
 
@@ -29,7 +29,7 @@ I mean, I've only been here for a couple of days but only time will tell how goo
 
 So, goodbye (hopefully for now) Three Words. Hello Network Panda!
 
-Also, I'm kinda disappointed there are no pandas on the website, like&#8230; Where's your mascot, it's in your company name?!?!
+Also, I'm kinda disappointed there are no pandas on the website, like... Where's your mascot, it's in your company name?!?!
 
 
 

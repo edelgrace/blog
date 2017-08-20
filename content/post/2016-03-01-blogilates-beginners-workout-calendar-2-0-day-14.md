@@ -22,7 +22,7 @@ Ummm, what?? It's rest day already?? I do not believe it. I've been at this for 
 
 ### Video 1: Berrylicious Microwave Minute Muffin
 
-I never actually try these recipes but they are pretty intriguing&#8230; I think I might try this tomorrow morning.
+I never actually try these recipes but they are pretty intriguing... I think I might try this tomorrow morning.
 
 <div class="flex-video">
 </div>

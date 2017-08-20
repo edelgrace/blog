@@ -33,7 +33,7 @@ categories:
   - Life
 
 ---
-I went to the library last Saturday! Quite fitting because it is reading week at university. I'm probably the only one who takes the "reading" in reading week seriously&#8230; Anyway, here is my library haul this week in order of the books I remember first:
+I went to the library last Saturday! Quite fitting because it is reading week at university. I'm probably the only one who takes the "reading" in reading week seriously... Anyway, here is my library haul this week in order of the books I remember first:
 
   * French Milk by Lucy Knisley  
     I'm always a sucker for personal memoir-like graphic novels. The cover is just too charming to not want to read it!
@@ -56,8 +56,8 @@ Books that I still need to add to the log:
   * Moon Boy (Volume 5)
   * Josephine: A Life of the Empress
   * The Case for God
-  * A whole load more of books&#8230;
+  * A whole load more of books...
 
-I recently got back into reading online web comics&#8230; That was definitely not a good idea&#8230;
+I recently got back into reading online web comics... That was definitely not a good idea...
 
 

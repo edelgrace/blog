@@ -15,7 +15,7 @@ categories:
 
 Fanlisting for Outsider's _Loner_ is now open! Go check it out, and if you are a fan of the song, please join! [Click here!][1]
 
-Ahh, I've been doing too much gaming lately. Even though I'm only about 20 hours in on Dissidia: Final Fantasy, I love it! Like Cloud always says, I **never** want the game to end! It takes a long time to finish the game anyway. There's so many things to do! Level-ing up, finding treasure, getting the best weapons, hidden bosses, unlockables&#8230; All of it just satisfies me! Sure, graphics are always good but I also love games with amazing plot and storylines! And characters you can relate to! Characters who you have no problem spending 55+ hours with. I may be FF obsessed. But there are others worse than me.
+Ahh, I've been doing too much gaming lately. Even though I'm only about 20 hours in on Dissidia: Final Fantasy, I love it! Like Cloud always says, I **never** want the game to end! It takes a long time to finish the game anyway. There's so many things to do! Level-ing up, finding treasure, getting the best weapons, hidden bosses, unlockables... All of it just satisfies me! Sure, graphics are always good but I also love games with amazing plot and storylines! And characters you can relate to! Characters who you have no problem spending 55+ hours with. I may be FF obsessed. But there are others worse than me.
 
 So this weekend has been very uneventful! I was supposed to go bowling yesterday but my parents didn't allow me to. Ah, oh well. Not to mention it's been a four day long weekend! Sheesh. I've done nothing. Except for my _LONER_ fanlisting. =]
 
@@ -23,10 +23,10 @@ Oh, I've been meaning to do a prompt!
 
 **Four jobs I've had**
 
-  1. Job-less&#8230;
-  2. Never had a job&#8230;
+  1. Job-less...
+  2. Never had a job...
   3. I don't have a job.
-  4. &#8230; I should probably get a job TT_TT
+  4. ... I should probably get a job TT_TT
 
 **Four movies I can watch over and over**
 
@@ -40,7 +40,7 @@ Oh, I've been meaning to do a prompt!
   1. Calgary
   2. Lived in Calgary all my life
   3. Nowhere else!
-  4. Maybe I should move&#8230; Nah!
+  4. Maybe I should move... Nah!
 
 **Four TV shows I love**
 

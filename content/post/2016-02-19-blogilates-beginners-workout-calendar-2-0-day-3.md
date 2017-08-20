@@ -38,7 +38,7 @@ In this video, Cassey brings on a guest Pilates instructor, Ana Caban. I'm guess
 </div>
 
   * _Roll up:_ I've come to like roll ups a lot. Maybe it's because it's the only move I can do!
-  * _1 Legged Teaser Twist:_ I just did these and I don't remember what they were&#8230; I had to rewatch the beginning of the video, haha. This move looks so graceful! I think this is one of the easier moves in this video.
+  * _1 Legged Teaser Twist:_ I just did these and I don't remember what they were... I had to rewatch the beginning of the video, haha. This move looks so graceful! I think this is one of the easier moves in this video.
   * _Kneeling Side Series:_ This is very similar to one of the moves from yesterday, I think (I don't remember which one exactly). It's not hard, it's just hard to resist giving up, haha! My legs tend to get tired easily doing moves like these.
   * _Half Cobra Pushup:_ Cassey herself said these were pretty simple but doing a lot of them in a row gets tough. Unfortunately, Casey doesn't exactly let it get to that point in the video.
   * _Banana and Banana Teaser Twist:_ It was really hard keeping my balance for these moves and because of that, I wasn't doing them properly. I felt zero tension in my body doing these.

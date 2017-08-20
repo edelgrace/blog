@@ -22,7 +22,7 @@ I was so close to not doing today's workout because I came home late from a volu
 
 ### Video 1: The Ultimate Hot Body Workout
 
-The video titles for today make me feel a little bit vain&#8230; I'm not really doing these exercises for what the title says but just to get more fit! Although, I really am aiming for the flat stomach&#8230; So I'm not totally 100% vain free.
+The video titles for today make me feel a little bit vain... I'm not really doing these exercises for what the title says but just to get more fit! Although, I really am aiming for the flat stomach... So I'm not totally 100% vain free.
 
 <div class="flex-video">
 </div>
@@ -34,7 +34,7 @@ The video titles for today make me feel a little bit vain&#8230; I'm not really 
 
 ### Video 2: 5 Best Butt Exercises to Sculpt a Cute Booty
 
-I'm not sure if these exercises really "lift" the butt like Cassey says. Do I even want a lifted, firmer butt? Is that a thing to be desired? Well, my butt is pretty flat&#8230; Anyway, the moves are also easy in this video. I didn't have as much trouble with this video compared to the first one.
+I'm not sure if these exercises really "lift" the butt like Cassey says. Do I even want a lifted, firmer butt? Is that a thing to be desired? Well, my butt is pretty flat... Anyway, the moves are also easy in this video. I didn't have as much trouble with this video compared to the first one.
 
 <div class="flex-video">
 </div>

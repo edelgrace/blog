@@ -20,7 +20,7 @@ tags:
 
 ### Video 1: Total Body Workout
 
-I'm not going to list the moves for this video again because my comments are mostly the same from the last time I did this video. I really am progressing with those pull ups. Not once did I have to grab my legs! However I do rely on my momentum more rather than my core, but still. This might be old news but I still hate the hundred move&#8230; It totally hurts my neck and I know I'm doing it wrong but I just can't do it right, yet.
+I'm not going to list the moves for this video again because my comments are mostly the same from the last time I did this video. I really am progressing with those pull ups. Not once did I have to grab my legs! However I do rely on my momentum more rather than my core, but still. This might be old news but I still hate the hundred move... It totally hurts my neck and I know I'm doing it wrong but I just can't do it right, yet.
 
 <div class="flex-video">
 </div>
@@ -34,6 +34,6 @@ I won't list the moves to this video either because there are only two moves. Th
 
 ### Thoughts
 
-My overall thoughts for today? I hate ABC Abs, haha! I think they are the hardest moves so far in this calendar. It now feels like I've been doing it forever but it's only day nine! Time flies&#8230; Can I just fast forward to the end where I'm string and fit and can eat cheat food!
+My overall thoughts for today? I hate ABC Abs, haha! I think they are the hardest moves so far in this calendar. It now feels like I've been doing it forever but it's only day nine! Time flies... Can I just fast forward to the end where I'm string and fit and can eat cheat food!
 
 

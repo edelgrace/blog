@@ -31,7 +31,7 @@ Lent is over. I haven't visited Room 304 or Goodreads in over 40 days. Geez, I h
 
 So, I've resorted to audiobooks. Yeah, yeah, it's a "lazy way of reading" but I've been craving some sort of world that I can delve into and just absorb. Lately I've been listening to audiobooks while doing homework or when I have a free period in class. Somehow I can manage listening perfectly to an audiobook and manage to do calculus questions (and get them right) at the same time.
 
-So far my favourite audiobook is _Seriously&#8230; I'm Kidding_ written and narrated by Ellen Degeneres. Usually I'm quite weary about celebrities writing books but whew, this one was just so entertaining! Yeah, it's full of laughs but what else do you expect from a comedian? Ellen is just a ball of excitement and fun. Plus, hearing her narrate her own words really made it lively. However, I do want to read the printed version some time soon.
+So far my favourite audiobook is _Seriously... I'm Kidding_ written and narrated by Ellen Degeneres. Usually I'm quite weary about celebrities writing books but whew, this one was just so entertaining! Yeah, it's full of laughs but what else do you expect from a comedian? Ellen is just a ball of excitement and fun. Plus, hearing her narrate her own words really made it lively. However, I do want to read the printed version some time soon.
 
 But yeah, I have quite a lot of catching up to do. I wasted my whole Easter Break trying to do homework and I'm kicking my butt over it. I said I would do my homework in two days so I can have free time for the rest of the week but that didn't happen. So now I have 130+ questions on _Wuthering Heights_, couple of questions of calculus, a chapter's worth work of physics, and a workbook in social to do.
 
@@ -111,9 +111,9 @@ Mar 3 2012 &#8211; Finished Homunculus Series
   
 Mar 3 2012 &#8211; Started Ichi the Killer
   
-Mar 3 2012 &#8211; Started Ubatte Age&#8230;
+Mar 3 2012 &#8211; Started Ubatte Age...
   
-Mar 4 2012 &#8211; Started Furachi no&#8230;
+Mar 4 2012 &#8211; Started Furachi no...
   
 Mar 7 2012 &#8211; Finished Kyo Kara Maoh 1
   
@@ -129,7 +129,7 @@ Mar 19 2012 &#8211; Started Beauty Queens
   
 Mar 27 2012 &#8211; Finished Beauty Queens
   
-Apr 1 2012 &#8211; Seriously&#8230; I'm Kidding
+Apr 1 2012 &#8211; Seriously... I'm Kidding
   
 Apr 1 2012 &#8211; Started Shades of Grey
   

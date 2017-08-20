@@ -9,7 +9,7 @@ categories:
   - Life
 
 ---
-Okay I'm so angry, I wrote this entire post out in the "Quick Draft" section of my dashboard, clicked "Save Draft" and then when I came back, what I wrote was erased. :( This happens a lot but not enough for me to remember to save entries locally before I publish&#8230; I'll try my best to recreate what I just wrote. I'm still really salty, haha.
+Okay I'm so angry, I wrote this entire post out in the "Quick Draft" section of my dashboard, clicked "Save Draft" and then when I came back, what I wrote was erased. :( This happens a lot but not enough for me to remember to save entries locally before I publish... I'll try my best to recreate what I just wrote. I'm still really salty, haha.
 
 In my [previous post][1], I mentioned that I was moving from [Bootstrap][2] to [Foundation][3]. I even applied the theme to my [study blog][4]. I don't really know where I got the motivation to finally do this. Maybe it's because school is approaching way to quickly and I wanted to do something productive for once. Over the summer I've been planning all the projects that I want to accomplish with my websites. It's great to do even one thing on that list!
 

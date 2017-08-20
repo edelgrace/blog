@@ -50,7 +50,7 @@ Thank you. <;3 You're cute. <sup class="footnote"><a href="#foot_ajs-fn-id_8-922
     <a id="foot_ajs-fn-id_4-922"></a>English.&nbsp;&nbsp;<a class="ajs-back-link" href="#back_ajs-fn-id_4-922"></a>
   </li>
   <li>
-    <a id="foot_ajs-fn-id_5-922"></a>&#8230; English.&nbsp;&nbsp;<a class="ajs-back-link" href="#back_ajs-fn-id_5-922"></a>
+    <a id="foot_ajs-fn-id_5-922"></a>... English.&nbsp;&nbsp;<a class="ajs-back-link" href="#back_ajs-fn-id_5-922"></a>
   </li>
   <li>
     <a id="foot_ajs-fn-id_6-922"></a>Me. Because I'm Canadian.&nbsp;&nbsp;<a class="ajs-back-link" href="#back_ajs-fn-id_6-922"></a>
@@ -98,7 +98,7 @@ Thank you. <;3 You're cute. <sup class="footnote"><a href="#foot_ajs-fn-id_8-922
 
 <div id="ajs-fn-id_5-922" style="display:none;margin:0;" class="ajs-footnote-popup">
   <div>
-    &#8230; English.
+    ... English.
   </div>
 </div>
 

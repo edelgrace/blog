@@ -33,23 +33,23 @@ tags:
 
 ### Video 2: Push Plank Challenger
 
-This video is essentially just one move. One. Excruciating. Move. I did the "beginner's" version of this move but I still had trouble. My arms are sore after that! I'm really weak&#8230; Thank goodness for this calendar!
+This video is essentially just one move. One. Excruciating. Move. I did the "beginner's" version of this move but I still had trouble. My arms are sore after that! I'm really weak... Thank goodness for this calendar!
 
 <div class="flex-video">
 </div>
 
 ### Video 3: Killer Legs
 
-Another short video, which is interesting&#8230; Short but KILLER, as the title would suggest. This is another video that depends on reps over a period of time. So much repetition today!
+Another short video, which is interesting... Short but KILLER, as the title would suggest. This is another video that depends on reps over a period of time. So much repetition today!
 
 <div class="flex-video">
 </div>
 
   * _Narrow Squat Slider:_ This move is harder than the other move, which is interesting. My legs were really feeling this one.
-  * _Narrow Squat Lifter:_ I don't know why it's easier to lift than to simply extend me leg to the side&#8230; Maybe I didn't lift my leg high enough although I consciously tried to lift my legs as high as possible. Something to work on, probably.
+  * _Narrow Squat Lifter:_ I don't know why it's easier to lift than to simply extend me leg to the side... Maybe I didn't lift my leg high enough although I consciously tried to lift my legs as high as possible. Something to work on, probably.
 
 ### Thoughts
 
-Three short and brutal videos today. The last video wasn't that bad but the first two definitely got beads of sweat rolling down my neck! I actually prefer that, for some reason. I love it when I sweat from working out. It feels like I'm actually doing work. I didn't work to my fullest potential today but I was trying to keep quiet. The only time I can do my workouts are early morning or late at night. Both of those times, someone is sleeping in the house. What a dilemma&#8230; I need to figure that out.
+Three short and brutal videos today. The last video wasn't that bad but the first two definitely got beads of sweat rolling down my neck! I actually prefer that, for some reason. I love it when I sweat from working out. It feels like I'm actually doing work. I didn't work to my fullest potential today but I was trying to keep quiet. The only time I can do my workouts are early morning or late at night. Both of those times, someone is sleeping in the house. What a dilemma... I need to figure that out.
 
 

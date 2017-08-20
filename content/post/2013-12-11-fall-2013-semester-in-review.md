@@ -17,7 +17,7 @@ Thankfully, I can count on one hand the amount of classes I skipped.
   * Comp sci prof called in sick. Lecture turned into a work/ask-the-TA-questions period. Handed in the assignment electronically and left (sorry to my TA who saw me walk out).
   * Ditched last Russian lecture to work on comp sci project. I worked on it until the last half hour before the project was due. Close call.
 
-In terms of procrastination&#8230; I didn't do a lot of it until the last two weeks of lectures. Two papers, multiple assignments, and a large project would usually make people stressed out but I took it very casually&#8230; That is, I took it casually until the night before each thing was due. The last paper was brutal. I stayed up until four in the morning, worked on it for six hours, and got a 94%. Sounds legit.
+In terms of procrastination... I didn't do a lot of it until the last two weeks of lectures. Two papers, multiple assignments, and a large project would usually make people stressed out but I took it very casually... That is, I took it casually until the night before each thing was due. The last paper was brutal. I stayed up until four in the morning, worked on it for six hours, and got a 94%. Sounds legit.
 
 Now the only thing left to worry about are finals. I've already done my Russian final this morning (8 AM finals are horrible, I have to wake up at 5!). It was okay. I spent an hour answering the short answer and the other hour doing the short essay. I feel like I missed something essential. What's done is done, I suppose.
 

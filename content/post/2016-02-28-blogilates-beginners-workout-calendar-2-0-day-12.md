@@ -18,11 +18,11 @@ tags:
 
 ### Day 12: Abs
 
-Ab workouts are so brutal&#8230; And, of course, that's what everyone wants to workout. Cue the suffering.
+Ab workouts are so brutal... And, of course, that's what everyone wants to workout. Cue the suffering.
 
 ### Video 1: Ab & Butt Workout
 
-I seriously cannot get over how cute Rosanna is! She is absolutely adorable and when she struggles, I feel like I'm not alone in ab hell. Somehow, she smiles through all of it! Workout goals&#8230;
+I seriously cannot get over how cute Rosanna is! She is absolutely adorable and when she struggles, I feel like I'm not alone in ab hell. Somehow, she smiles through all of it! Workout goals...
 
 <div class="flex-video">
 </div>
@@ -31,18 +31,18 @@ I seriously cannot get over how cute Rosanna is! She is absolutely adorable and 
   * _One Leg Crunch:_ I still keep using my neck instead of my core to do these but it's so hard for me to lift up my shoulders still.
   * _Roll ups:_ Thank goodness for roll ups (again).
   * _Balancing Pilates Stances:_ Thankfully, I made a better attempt at this one compared to last week.
-  * _Fire Hydrant:_ For the first time, I actually felt my butt working in this move&#8230; This was another move that was easier this time around!
+  * _Fire Hydrant:_ For the first time, I actually felt my butt working in this move... This was another move that was easier this time around!
   * _Plank Twists:_ Add this move to my "Edel actually did it this time!" list. I don't know what it was but they were easier this week. Although my feet kept pushing away the rug from my feet.
 
 ### Video 2: Abs on Fire
 
-Cassey was not joking about the title when she named this video "abs on fire." My abs&#8230; Were definitely on fire.
+Cassey was not joking about the title when she named this video "abs on fire." My abs... Were definitely on fire.
 
 <div class="flex-video">
 </div>
 
-  * _Genie Abs:_ These&#8230; were surprisingly okay! I'm really bad at using my core. It wasn't until Cassey made it harder did I start to struggle a little.
-  * _Eagle Abs:_ This move is very&#8230; Twisty! I suck at any variation of crunches so this was not a fun move. I don't think I did it right at all. I ended up just holding onto my knees whenever I went up.
+  * _Genie Abs:_ These... were surprisingly okay! I'm really bad at using my core. It wasn't until Cassey made it harder did I start to struggle a little.
+  * _Eagle Abs:_ This move is very... Twisty! I suck at any variation of crunches so this was not a fun move. I don't think I did it right at all. I ended up just holding onto my knees whenever I went up.
   * _Runaway Abs:_ What a cute move. It was hard though because it always hurts to try to lift my shoulders off the floor. I could feel my shoulder blades digging into the ground.
   * _Double Leg Stretch/Star Abs:_ This was hard and I didn't have much room to do these properly. But I really tried to do these. Once again, once Cassey added a little more difficulty to the move, I tried it but just ended up doing the simple version again.
   * _Clock Abs:_ I do not like clock abs! I find it so hard to do and my hips go all over the place. But I tried my best, even if it was at a snail's pace.
@@ -53,7 +53,7 @@ Cassey was not joking about the title when she named this video "abs on fire." M
 
 ### Video 3: Relax with Me Stretch
 
-I was a little wary doing the stretches because on Friday I was stretching and gave myself a charley horse. The beach scenery was a nice touch. Typical California. I want sun too&#8230;
+I was a little wary doing the stretches because on Friday I was stretching and gave myself a charley horse. The beach scenery was a nice touch. Typical California. I want sun too...
 
 <div class="flex-video">
 </div>

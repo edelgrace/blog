@@ -14,11 +14,11 @@ While watching this, typing this up, and making some tweets, I was also reading 
 
 I'm liking that I'm seeing gameplay. Not going to lie, MGS 5 looks like a cool game, even though I'm not fond for these type of games.
 
-A big shocker to me was the fact that they're releasing a new version of the Xbox 360. I find that&#8230; Weird. Especially a couple of months before the Xbox One coming out. I guess it's another way to rake in money.
+A big shocker to me was the fact that they're releasing a new version of the Xbox 360. I find that... Weird. Especially a couple of months before the Xbox One coming out. I guess it's another way to rake in money.
 
 Max and the Curse of Brotherhood is very cute platformer, seemingly tailored to younger gamers. Good to see that, there lacks good children games nowadays. Gotta grab them while they're young!
 
-Now, Ryse: Son of Rome. A new franchise. A historical game, obviously taking place during the Roman times. Mostly a cinematic trailer, not sure if I'm entirely sold yet. Scratch that, a live demo. You wouldn't even realize it IS gameplay, until the HUD comes on. I'd say it's very next gen. Just might get it. Hopefully it's not an Xbox One exclusive. I really like how if you want to step on someone, the button prompt is over the character's foot. That's a really cool detail. It looks awesome. And&#8230; It's exclusive to Xbox One.
+Now, Ryse: Son of Rome. A new franchise. A historical game, obviously taking place during the Roman times. Mostly a cinematic trailer, not sure if I'm entirely sold yet. Scratch that, a live demo. You wouldn't even realize it IS gameplay, until the HUD comes on. I'd say it's very next gen. Just might get it. Hopefully it's not an Xbox One exclusive. I really like how if you want to step on someone, the button prompt is over the character's foot. That's a really cool detail. It looks awesome. And... It's exclusive to Xbox One.
 
 Okay I don't like cars, but I like this car. Holy crap that McLaren P1 is so freaking sleek and sexy. I want that car.
 

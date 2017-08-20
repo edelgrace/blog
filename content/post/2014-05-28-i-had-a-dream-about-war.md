@@ -8,7 +8,7 @@ categories:
   - Life
 
 ---
-I was awakened in the middle of the night by bursts of light penetrating my closed eyelids. As I opened my eyes, I saw what looked like a meteor shower. For a second, it looked beautiful. But as my lids rose up,a light followed it. Up. Why is that light going up? The skyline glowed with golden orbs and light shot out from them. The lights curled and twisted. And instead of end shortly with a boom like a firework or fading with a fizzle like a sparkler, the kept going up into the sky until my head couldn't look any higher. Missiles. Were those&#8230; Missiles?
+I was awakened in the middle of the night by bursts of light penetrating my closed eyelids. As I opened my eyes, I saw what looked like a meteor shower. For a second, it looked beautiful. But as my lids rose up,a light followed it. Up. Why is that light going up? The skyline glowed with golden orbs and light shot out from them. The lights curled and twisted. And instead of end shortly with a boom like a firework or fading with a fizzle like a sparkler, the kept going up into the sky until my head couldn't look any higher. Missiles. Were those... Missiles?
 
 Shortly after, a large object slowly fell through the sky. I could hear the whistle. The whistle of an inevitable bomb. I braced myself and waited. I didn't close my eyes. I watched it land what looked like a far ways. The horizon glowed with the impact and there was a delay. A short delay where you start to think, "why is anything not happening?" but the shaking of the earth interrupts you.
 

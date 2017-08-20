@@ -28,7 +28,7 @@ Anyway, an hour later (because all my friends and I do is sit together for like 
   
 > **Beardo:** Is he super cute?
   
-> **Me:** \*Lies through my teeth\* Ehh&#8230; Kinda
+> **Me:** \*Lies through my teeth\* Ehh... Kinda
   
 > &mdash; Beardo and I talking on the train yesterday
 
@@ -49,7 +49,7 @@ Why does my crush have to be a foreign TA?? For all I know he's engaged or marri
     <a id="foot_ajs-fn-id_3-216"></a>Once again, nicknames.&nbsp;&nbsp;<a class="ajs-back-link" href="#back_ajs-fn-id_3-216"></a>
   </li>
   <li>
-    <a id="foot_ajs-fn-id_4-216"></a>27 is old compared to me being 18. Yikes, 9 years difference&#8230;&nbsp;&nbsp;<a class="ajs-back-link" href="#back_ajs-fn-id_4-216"></a>
+    <a id="foot_ajs-fn-id_4-216"></a>27 is old compared to me being 18. Yikes, 9 years difference...&nbsp;&nbsp;<a class="ajs-back-link" href="#back_ajs-fn-id_4-216"></a>
   </li>
   <li>
     <a id="foot_ajs-fn-id_5-216"></a>Another nickname, I'm on a roll.&nbsp;&nbsp;<a class="ajs-back-link" href="#back_ajs-fn-id_5-216"></a>
@@ -85,7 +85,7 @@ Why does my crush have to be a foreign TA?? For all I know he's engaged or marri
 
 <div id="ajs-fn-id_4-216" style="display:none;margin:0;" class="ajs-footnote-popup">
   <div>
-    27 is old compared to me being 18. Yikes, 9 years difference&#8230;
+    27 is old compared to me being 18. Yikes, 9 years difference...
   </div>
 </div>
 

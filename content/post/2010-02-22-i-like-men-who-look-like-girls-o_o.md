@@ -46,7 +46,7 @@ You don't hear me say
   
 Please, oh baby, don't go
   
-&#8230;.
+....
   
 Kimi to iu hikari ga watashi wo motsukeru -the light called "you" finds me-
   
@@ -56,16 +56,16 @@ Motto hanasou yo -let's talk some more-
   
 Mokuzen no ashita no koto mo -about the tomorrow that's before our very eyes-
   
-&#8230;
+...
   
 Regardless of warnings
   
 The future doesn't scare me at all~
   
-&#8230;
+...
   
 Mitiete yo -look only at me-"_ 
   
--Simple and Clean &#8230; Hikari &#8211; Utada Hikaru
+-Simple and Clean ... Hikari &#8211; Utada Hikaru
 
 

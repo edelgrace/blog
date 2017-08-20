@@ -10,7 +10,7 @@ tags:
   - rwby
 
 ---
-I have been listening to "Gold" by Jeff & Casey Lee Williams nonstop all day. I just love it. It makes me want to dance around and sing. It also makes me feel very warm and fuzzy inside. It's been a while since I've listened to a song that makes me that gushy. I just can't get over the funky discos vibe. Those guitar licks and the strings and Casey's voice&#8230; It's seriously too much to love!
+I have been listening to "Gold" by Jeff & Casey Lee Williams nonstop all day. I just love it. It makes me want to dance around and sing. It also makes me feel very warm and fuzzy inside. It's been a while since I've listened to a song that makes me that gushy. I just can't get over the funky discos vibe. Those guitar licks and the strings and Casey's voice... It's seriously too much to love!
 
 On another note, man, I'm already finding that writing a blog post everyday is hard. I don't have any topics! I guess I could do a reflection each day and record what happened explicitly. I've always loved reading diaries that recounted events. In fact, that's mostly what I've been defining a blog as: recounting my days.
 

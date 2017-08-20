@@ -22,7 +22,7 @@ My body issues seem to have improved, minus the random headaches. I tried my bes
 
 ### Video 1: 5 Minute Ab Express
 
-5 minutes of torture&#8230; Kidding, sort of. I was able to do the majority of the moves in this video. I still struggle with Pilates stance. I know what I should be doing but the execution part, not so much. There was only one move that I really had trouble with.
+5 minutes of torture... Kidding, sort of. I was able to do the majority of the moves in this video. I still struggle with Pilates stance. I know what I should be doing but the execution part, not so much. There was only one move that I really had trouble with.
 
 <div class="flex-video">
 </div>

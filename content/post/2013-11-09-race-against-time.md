@@ -15,9 +15,9 @@ tags:
 ---
 I missed yesterday as well. I'm just not very good at this! But I am determined not to miss today. Today I read on [Zen Habits][1] that you should never miss doing something two days in a row. It's a good philosophy and a great motivation hack for me. By the time two days have passed, it's very likely that that task will never be accomplished.
 
-So yes, it's around 11:30pm and it takes me around half an hour to write at least 500 words. Truly a race against time! To those who thought that BloWriMo wouldn't that much of a challenge&#8230; You don't know me very well and I hope it stays that way.
+So yes, it's around 11:30pm and it takes me around half an hour to write at least 500 words. Truly a race against time! To those who thought that BloWriMo wouldn't that much of a challenge... You don't know me very well and I hope it stays that way.
 
-Today I watched a lot of YouTube videos. I am not proud of it. I watched a lot of Filofax videos, Numberphile videos, videos about the Berlin Wall&#8230; Too many to count! There are just too many things to be distracted by. I don't want to slip up now when things are just starting to look up.
+Today I watched a lot of YouTube videos. I am not proud of it. I watched a lot of Filofax videos, Numberphile videos, videos about the Berlin Wall... Too many to count! There are just too many things to be distracted by. I don't want to slip up now when things are just starting to look up.
 
 I also decided to listen to a podcast called the [The Internet Box Podcast][2]. If you're a fan of the gaming & entertainment company Rooster Teeth<sup class="footnote"><a href="#foot_ajs-fn-id_1-126" id="back_ajs-fn-id_1-126">1</a></sup>, you will like this podcast. **It definitely is not for the faint hearted and the easily offended. If you fall under this category, please stop reading.**
 

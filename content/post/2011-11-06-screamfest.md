@@ -8,7 +8,7 @@ categories:
   - 'Family &amp; Friends'
 
 ---
-**EDIT:** This was queued to be posted on Halloween. But I accidentally queued it for Halloween&#8230; LAST YEAR. \*facepalm\* Better late than never.
+**EDIT:** This was queued to be posted on Halloween. But I accidentally queued it for Halloween... LAST YEAR. \*facepalm\* Better late than never.
 
 My iPod's broken. AHHHHHHHHH! I do most of my surfing, blog commenting, and posting on my iPod because I don't have access to my laptop most days. My parents only give me the laptop when I can whole heartedly prove to them that I have homework to do on the laptop. So I haven't been posting or anything for a while. I have been updating my Twitter and Tumblr on my phone but I can't go on any other websites unless I want a gigantic bill at the end of the month. Ah, whatever. Right now I've finished all my homework and I'm rushing to finish this post. Oh no, rushing is never good but forgive me.
 
@@ -32,7 +32,7 @@ Then we went into another haunted house. It wasn't that scary and Marie and Sam 
 
 After we emerged from the house, the skull guy creeped behind us again. And twelve year old girls were hitting on him. And taking pictures of him. Lol.
 
-Soon after, some of my other friends came. We stood in line for the maze. I was feeling really queasy because the smell of the smoke doesn't agree with me. We waited in line for a looooong time and I just wanted to puke. I kept it down but just as we entered the maze, my dad called me saying that he was waiting for me in the parking lot. So I basically ran through the maze clinging onto Luke's shirt. Luke is a scardycat but after the maze he said that he felt manly because I was clinging on to him for the whole time. Is that a compliment or&#8230;?
+Soon after, some of my other friends came. We stood in line for the maze. I was feeling really queasy because the smell of the smoke doesn't agree with me. We waited in line for a looooong time and I just wanted to puke. I kept it down but just as we entered the maze, my dad called me saying that he was waiting for me in the parking lot. So I basically ran through the maze clinging onto Luke's shirt. Luke is a scardycat but after the maze he said that he felt manly because I was clinging on to him for the whole time. Is that a compliment or...?
 
 After that I went home. It was fun. Definitely going again next year!
 

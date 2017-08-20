@@ -12,7 +12,7 @@ categories:
 ---
 Brandon.
 
-Brandon. It feels weird saying it. Like it really isn't his name&#8230;Hmmm. Well, stupid me, I found out that his locker is on the other side of my hallway. Haha&#8230;wow. I need some observation classes or something. He is so tall. And cute. :3
+Brandon. It feels weird saying it. Like it really isn't his name...Hmmm. Well, stupid me, I found out that his locker is on the other side of my hallway. Haha...wow. I need some observation classes or something. He is so tall. And cute. :3
 
 I am now playing the tuba that is more than half my size! I hope I can do it. Yeah. Right. Not. I can barely hold it.
 

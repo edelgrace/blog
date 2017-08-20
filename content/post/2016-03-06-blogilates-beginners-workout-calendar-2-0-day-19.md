@@ -18,7 +18,7 @@ tags:
 
 ### Day 19: Abs
 
-I loathe ab days. They're really hard and not that fun, haha. But I really do feel the burn the most on these days. I need to work on this&#8230;
+I loathe ab days. They're really hard and not that fun, haha. But I really do feel the burn the most on these days. I need to work on this...
 
 ### Video 1: Fun Indoor Cardio Workout
 
@@ -33,10 +33,10 @@ There are A LOT of kicks in this video. I did my workout in the morning today so
 </div>
 
   * _Hundred:_ I hate the hundred. So much! But today I was able to do it from start to finish, I think. Or at least, mostly from start to finish. I hated every second of it though.
-  * _Double Leg Stretch:_ This was kind of a fun move if it didn't hurt my neck so much. My neck always hurts whenever we do these ab exercises&#8230; Ugh!
+  * _Double Leg Stretch:_ This was kind of a fun move if it didn't hurt my neck so much. My neck always hurts whenever we do these ab exercises... Ugh!
   * _Barbie Feet:_ I felt a little cute doing this move, haha! But don't let the cuteness fool you, it's a bit hard. My legs were definitely getting tired.
   * _Reverse Crunch:_ These got my heart pumping! I liked doing these a lot AND I could feel the burn. My butt kind of hurt afterwards though.
-  * _1-2-3 Crunch:_ Another hard move&#8230; The crunch is what got me. I have enough trouble doing it without the crunch!
+  * _1-2-3 Crunch:_ Another hard move... The crunch is what got me. I have enough trouble doing it without the crunch!
   * _Heel Clicks:_ In hindsight, this is a really easy move but doing it back to back with other moves where I have to lift my shoulders makes it harder than usual!
   * _See Saw Abs:_ I. Could. Not. Do. These! Not to save my life. So I just opted for reverse crunches during this move.
   * _Helicopters:_ A really nice and easy move! It's fun watching Cassey do it. Not as fun actually doing it but there's still some fun in it.

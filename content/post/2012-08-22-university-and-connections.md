@@ -31,7 +31,7 @@ In addition to this, I went shopping for school supplies a couple of days ago. I
   * A planner agenda thingy
   * A couple of notebooks
 
-So while all of that is happening, I'm talking to my Internet friends. One of my friends is a math genius. He's going to Oxford for goodness sakes. He was showing me some of the tests he took and I realized that I really don't remember anything I learned last semester. Differentiate? Gradient? Tangent lines? I'm thinking that I need to brush up on my calculus and all around math skills before I go back to university. Like&#8230; It looks quite manageable but my mind is drawing a blank right now. I should probably go hit the books&#8230;
+So while all of that is happening, I'm talking to my Internet friends. One of my friends is a math genius. He's going to Oxford for goodness sakes. He was showing me some of the tests he took and I realized that I really don't remember anything I learned last semester. Differentiate? Gradient? Tangent lines? I'm thinking that I need to brush up on my calculus and all around math skills before I go back to university. Like... It looks quite manageable but my mind is drawing a blank right now. I should probably go hit the books...
 
 <div align="center">
   <img src="http://brokenphrases.info/wp-content/uploads/2012/08/20120822-225655.jpg" alt="20120822-225655.jpg" class="alignnone size-full" />

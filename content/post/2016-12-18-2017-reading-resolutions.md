@@ -15,7 +15,7 @@ This year I told myself I would read at least 25 books. It doesn't seem like a l
   * **2013**: 40 books + 30 graphic novels = 74 books
   * **2012**: 18 books
 
-As you can see, not great numbers. Each year I have been reading less and less. 2013 was a weird anomaly. So far this year of 2016 (there's still like ten days left in the year&#8230;) I only managed to read 38 books, not including graphic novels. In total I've read about 84 books. So that's still like 46 graphic novels that I've read. I really wanted my novel to graphic novel ratio to be greater than or equal to one. However, I still met my goal of 25 books. So kudos to me!
+As you can see, not great numbers. Each year I have been reading less and less. 2013 was a weird anomaly. So far this year of 2016 (there's still like ten days left in the year...) I only managed to read 38 books, not including graphic novels. In total I've read about 84 books. So that's still like 46 graphic novels that I've read. I really wanted my novel to graphic novel ratio to be greater than or equal to one. However, I still met my goal of 25 books. So kudos to me!
 
 This year I decided to opt for minimalism and not sign up for any reading challenges. To me, the most important thing is going through my to read list. If I even manage to make a small dent in the list, I'll be happy.
 

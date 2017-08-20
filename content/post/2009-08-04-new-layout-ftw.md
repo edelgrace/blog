@@ -10,7 +10,7 @@ categories:
 ---
 Alright, in my haste, I put up my new layout!
   
-I'm trying to fix a bug so all the other pages except for the home page stayed the same (also, I'm in a haste&#8230;haha).
+I'm trying to fix a bug so all the other pages except for the home page stayed the same (also, I'm in a haste...haha).
 
 Welcome a new affilate:
 

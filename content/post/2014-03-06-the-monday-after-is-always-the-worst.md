@@ -18,7 +18,7 @@ tags:
 ---
 The Monday after reading week is always the worst, that is. I told my friend who is from the States that I had reading week and she had no idea what it is. It's pretty much a Canadian/Commonwealth countries thing where we get a couple days off in the middle of the semester. I heard from the grapevine that reading week started because mid-semester is a period when too stressed out students tend to commit suicide.
 
-To be honest, reading week makes me more stressed out! Mostly because I always plan to be productive and study but then I end up doing nothing at all and it makes me stressed that I did absolutely zilch. It definitely doesn't help that all of my midterms are the week after reading week. Ay&#8230;
+To be honest, reading week makes me more stressed out! Mostly because I always plan to be productive and study but then I end up doing nothing at all and it makes me stressed that I did absolutely zilch. It definitely doesn't help that all of my midterms are the week after reading week. Ay...
 
 So what exactly did I do all week, if not studying?
 
@@ -41,7 +41,7 @@ Favourite men skaters at Sochi (in no particular order):
   * **Tatsuki Machida**  
     I will admit, I only watched his exhibtion. But it was one of my favourite skates from Sochi purely because it was pretty amazing. He skated along to Queen's "Don't Stop Me Now" and it was awesome and lighthearted. Not to mention, there was a sweet air guitar bit in it too.
   * **Javier Fernandez**  
-    I'm so sorry, Javi, but I only watched your exhibition as well&#8230; And to be honest&#8230; It was super hilarious. It featured a medley of songs with bits where he recorded himself in an imaginary role of a gym trainer. It was full of personality and just made me giggle and smile throughout the whole thing. I mean, come on, how can you not love a hot Spanish skater skating to himself saying things like "A body like this just doesn't happen"?
+    I'm so sorry, Javi, but I only watched your exhibition as well... And to be honest... It was super hilarious. It featured a medley of songs with bits where he recorded himself in an imaginary role of a gym trainer. It was full of personality and just made me giggle and smile throughout the whole thing. I mean, come on, how can you not love a hot Spanish skater skating to himself saying things like "A body like this just doesn't happen"?
 
 I didn't restrict myself to just male skaters, contrary to popular belief. I watched the ladies in it's entiriety. It was an emotional rollercoaster.
 

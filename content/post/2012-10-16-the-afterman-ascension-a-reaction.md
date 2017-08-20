@@ -51,7 +51,7 @@ So far, I've listened to three of the tracks on this album. They've all been ext
 
 Now onto listening to the album. I'm actually kinda scared for some reason but I'm also bursting with excitement.
 
-&#8230;
+...
 
 Okay so it literally just took me a minute to try to get the disk out, I fail at these kind of things. I was scared of snapping the disk or something like that. How horrible would that be? Okay, don't think about something as blasphemous as that. Now onto the listening for real this time.
 
@@ -60,7 +60,7 @@ Okay so it literally just took me a minute to try to get the disk out, I fail at
 Woah beautiful piano intro thing. Impresseeeed. Wow. Wowowowow. All these layers of sound go beautifully together. Ah, there's some spoken words. I'm kinda freaked out.
 
   * I just had goosebumps. There's a conversation between who I'm guessing is the Afterman and this so called, "mother." The voice of the "mother" is extremely haunting. It's really distorted, sounding female but with a layer of a male voice. The last few seconds is just one note struck and some clattering of some sort. Then it's slowly building up to Domino.
-Okay reaction time. Wow. That was&#8230; Entrancing. Simple of course, seeing as it's just an intro but still entrancing. I still have goosebumps. To be honest, as soon as I heard the voice of the "mother" I thought of Minvera and Juno from the _Assassin's Creed_ series. Some weird god and alien-like entity with the same kind of distortions, wow it's just so creepy and so good at the same time. At the end of the song, you can here the song swell and just build up to Domino and wow I'm so impressed right now, yes.
+Okay reaction time. Wow. That was... Entrancing. Simple of course, seeing as it's just an intro but still entrancing. I still have goosebumps. To be honest, as soon as I heard the voice of the "mother" I thought of Minvera and Juno from the _Assassin's Creed_ series. Some weird god and alien-like entity with the same kind of distortions, wow it's just so creepy and so good at the same time. At the end of the song, you can here the song swell and just build up to Domino and wow I'm so impressed right now, yes.
 
 **2. Key Extraction I: Domino the Destitue (7:51)**
   

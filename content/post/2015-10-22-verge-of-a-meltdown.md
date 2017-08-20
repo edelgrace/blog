@@ -20,9 +20,9 @@ Sometimes I'd think of Yue and think, "What is he doing with me? What does he wa
 
 All of my "more than friends" relationships has always been must that. More than friends, but lacking that small push to be a serious committed relationship.
 
-This little "break" from Yue is making me restless. The whole cell phone issue didn't help either&#8230; I kept getting error messages when I tried to send him a text. Turns out that his contact was linked with Skype, which gave the wrong phone number. Anyway. He's on my mind more than I'd like. I crave his touch, his voice, just the sight of him. Yesterday, I did manage to see him for a second. And I was so happy for a second.
+This little "break" from Yue is making me restless. The whole cell phone issue didn't help either... I kept getting error messages when I tried to send him a text. Turns out that his contact was linked with Skype, which gave the wrong phone number. Anyway. He's on my mind more than I'd like. I crave his touch, his voice, just the sight of him. Yesterday, I did manage to see him for a second. And I was so happy for a second.
 
-Then there's the issue of Tyler. This guy likes me. I **want** to like him&#8230; But I just can't. We get along so well. Why don't I like him?? Is it because I'm "with" Yue right now? I don't know what to think&#8230; I've never gotten along with someone so well before. But lately, I'm finding myself a little irritated with Tyler, for the smallest things. I can't believe he texted me, "when are you going to make time for me?" That totally just rubbed me the wrong way&#8230; Like he's entitled to me? Like I'm obligated to spending time with him? Don't get me wrong with the whole sweetie, sweet tea thing.
+Then there's the issue of Tyler. This guy likes me. I **want** to like him... But I just can't. We get along so well. Why don't I like him?? Is it because I'm "with" Yue right now? I don't know what to think... I've never gotten along with someone so well before. But lately, I'm finding myself a little irritated with Tyler, for the smallest things. I can't believe he texted me, "when are you going to make time for me?" That totally just rubbed me the wrong way... Like he's entitled to me? Like I'm obligated to spending time with him? Don't get me wrong with the whole sweetie, sweet tea thing.
 
 My love life is so confusing right now.
 

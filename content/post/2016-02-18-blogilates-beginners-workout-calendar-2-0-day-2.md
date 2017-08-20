@@ -20,7 +20,7 @@ tags:
 
 Today's workout is split into two videos. Both target your abs however they vary in difficulty. It's worth noting that spot reduction (focusing on working out a specific part of your body to lose fat in that one specific area) is a myth. It's only when your overall body fat percentage lowers that will you see results and they will be present around your whole body and not in just one area. What targeting certain areas does do is help strengthen them but fat will not necessarily be lost there specifically.
 
-Anyway, the day starts off with 10 sit-ups. I have an embarrassing confession to make. I have completely forgotten how to do a sit-up! Well, I remember how it should be done, but I cannot actually do it anymore. The last time I did a sit-up was in middle school. That was nearly six years ago&#8230; Maybe it's because whenever we did sit-ups, we were anchored by someone holding our feet. Even then, I remember it being so hard. So instead, I did a couple of roll-ups because I can somewhat do those.
+Anyway, the day starts off with 10 sit-ups. I have an embarrassing confession to make. I have completely forgotten how to do a sit-up! Well, I remember how it should be done, but I cannot actually do it anymore. The last time I did a sit-up was in middle school. That was nearly six years ago... Maybe it's because whenever we did sit-ups, we were anchored by someone holding our feet. Even then, I remember it being so hard. So instead, I did a couple of roll-ups because I can somewhat do those.
 
 ### Video 1: Ab Time!
 
@@ -32,7 +32,7 @@ Onto the first real workout. The first video is considerably "easy" (at least, c
   * _Roll ups:_ I warmed up with the roll ups but I didn't mind doing it yet again.
   * _The corkscrew:_ It's weird because I had a lot of trouble keeping my balance with this one. I found my hips shifting all over the place. It didn't get tiring but it was just plain hard to do.
   * _Oblique dippers:_ These are like side push-ups on one hand. They feel deceivingly easy because it's surprisingly easy to do wrong. Cassey gives tips on how to make it harder or easier for you, depending on how you feel.
-  * _Planks:_ The dreaded plank&#8230; I have zero strength so this was hard. Casey goes through different variations of planking.
+  * _Planks:_ The dreaded plank... I have zero strength so this was hard. Casey goes through different variations of planking.
   * _Elbow to knee plank:_ I've actually done this exercise before, when I used to do Fitness Blender videos! For some reason, it felt especially tougher to them this time around. But I actually enjoy this move. If only I had more room in my bedroom to do it! I had move a couple of furniture around.
   * _Knee to chest plank:_ This is another move that I'm familiar with, due to Fitness Blender. I never liked these and I still don't like them.
 
@@ -41,7 +41,7 @@ Onto the first real workout. The first video is considerably "easy" (at least, c
 <div class="flex-video">
 </div>
 
-The second video is "just" 10 minutes of ab sculpting. I found it extremely hard! At the beginning of the video, Cassey even warns you about the incoming suffering and torture she is about to put you through. Great&#8230;
+The second video is "just" 10 minutes of ab sculpting. I found it extremely hard! At the beginning of the video, Cassey even warns you about the incoming suffering and torture she is about to put you through. Great...
 
   * _Genie twist:_ This hurt my shoulders because I kept hitting my floor hard. I also felt a little bit silly because it felt like I was just flailing on the floor, haha.
   * _Butterfly crunch:_ I was able to do this one, although I was a lot slower than Cassey in doing it but at least I could do it properly.

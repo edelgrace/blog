@@ -38,11 +38,11 @@ Okay, today I cheated. Today is a "rest day" after all! I didn't feel good about
   * _X Squats:_ I hate X squats so much! They're not hard but really tiring. I was breathing pretty heavily at this point.
   * _Deadlift Jacks:_ I actually like this one except I didn't have enough room to do them in my office (AKA my study room). I tried my best though, and ended up making weird angles.
   * _Up & Over Steps and Knees:_ This is another easy one but kind of difficult to do it quietly! I like how these workouts emphasize how quiet you're trying to be.
-  * _Slow Squats & Hooks:_ Okay, I hate these too! Do you see a trend here? Squats and planks are not my friends. It kinda feel fun to be punching the air though&#8230;
+  * _Slow Squats & Hooks:_ Okay, I hate these too! Do you see a trend here? Squats and planks are not my friends. It kinda feel fun to be punching the air though...
   * _Quiet Burpees:_ I did these earlier in the week when one of the days required burpees. It was kind of cheating but I really needed to be quiet that day because I usually exercise at night when everyone is sleeping/falling asleep.
   * _Arm & Leg Balance Swings:_ This is an easy exercise. I just have no balance sometimes. I really tried to focus on contracting my arms and legs but I keep forgetting about my core.
   * _3 Twists & Knee Ups:_ I always get confused with the rhythm of this move and I get behind compared to the person on the screen. I think I'm tempted to do four twists instead of three.
-  * _Plank Tucks & Extensions:_ Planks!!!! My number one enemy. Admittedly, these are the easiest variation of planks that I've done this week. I really hate planks. Maybe one day I can do them without complaining&#8230;
+  * _Plank Tucks & Extensions:_ Planks!!!! My number one enemy. Admittedly, these are the easiest variation of planks that I've done this week. I really hate planks. Maybe one day I can do them without complaining...
   * _Low Lateral Steps:_ This "completely depends on how quiet you are." Seriously. Go too fast and you make a lot of noise whenever you put your feet to the ground. I always feel myself gaining momentum. At least the workout ends on an easy note.
 
 ### Thoughts
@@ -51,6 +51,6 @@ Okay, today I cheated. Today is a "rest day" after all! I didn't feel good about
 
 With the cardio workout, I felt like I sweat buckets. It was almost as if I sweat more in this twenty minutes than the entire week! To be fair, there isn't a lot of cardio in Cassey's workouts. They mostly focus on strength and toning. I'd like to include more cardio into my week. I already have a spin class every week which is just once a week for 50 minutes. Cassey does sometimes include some cardio but I feel like it's not enough.
 
-Also, they say that workouts should make you feel awake but as soon as the workout was over, I became instantly tired. Time to hit the hay I guess. I also probably need to eat more whenever I do cardio&#8230;
+Also, they say that workouts should make you feel awake but as soon as the workout was over, I became instantly tired. Time to hit the hay I guess. I also probably need to eat more whenever I do cardio...
 
 

@@ -10,7 +10,7 @@ categories:
   - High School
 
 ---
-Lent is finally over. :) My journey with no interent was&#8230; Not very successful but I managed to go by with minimal (emphasis on minimal) internet. I mostly dedicated myself to YouTube on the "play all" function so that was interesting. It's weird because I had the strongest urge to blog throughout the forty days. Very odd, I thought I would just forget about it but it wasn't the case at all. I actually started writing blog posts that I intended to post for later.
+Lent is finally over. :) My journey with no interent was... Not very successful but I managed to go by with minimal (emphasis on minimal) internet. I mostly dedicated myself to YouTube on the "play all" function so that was interesting. It's weird because I had the strongest urge to blog throughout the forty days. Very odd, I thought I would just forget about it but it wasn't the case at all. I actually started writing blog posts that I intended to post for later.
 
 So what's new with my life? Absolutely nothing. I'm really getting my butt kicked in everything schoool related. Not literally. But that's not new, I'm always getting my butt kicked! I just need to pick up the pace and spring break seems like the greatest oppurtunity to catch up and get on my study horse again.
 

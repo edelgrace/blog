@@ -4,7 +4,8 @@ author: Edel
 type: post
 date: 2007-01-22T23:16:02+00:00
 url: /life/grade-niners/
-categories: life
+categories:
+  - life
 tags:
   - music
   - green day

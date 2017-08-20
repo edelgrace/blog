@@ -17,11 +17,11 @@ My exams ended relatively early last semester. That meant more time for a break!
   
 Shingeki no Kyojin is an anime. The Internet has been basically exploding over it (my part of the Internet anyway). My friends in real life also freak out over it and so much so that I just had to see what they were on about. I definitely watched the last 13 episodes all in one sitting. It's a really awesome anime. The world and plot is cleverly crafted. Oh, you don't even know how clever the plot is!
 
-I also finished reading the manga, starting from the very beginning. It was _really_ good. The manga is ahead of the anime and if you thought the anime was clever&#8230; Just you wait until you catch up with the manga. I guess the good thing is that the anime is really close to the manga.
+I also finished reading the manga, starting from the very beginning. It was _really_ good. The manga is ahead of the anime and if you thought the anime was clever... Just you wait until you catch up with the manga. I guess the good thing is that the anime is really close to the manga.
 
 **Set up my Filofaxes**
   
-If you don't know what a [Filofax][1] is, it's a company that makes binders that hold planner pages. They come in several sizes, colours, materials, and designs. They're also a bit expensive&#8230; I bought three and am currently using two. One is wallet and one is my day planner. I took a couple of days to personalize both. They're not 100% done but I like them the way they are right now.
+If you don't know what a [Filofax][1] is, it's a company that makes binders that hold planner pages. They come in several sizes, colours, materials, and designs. They're also a bit expensive... I bought three and am currently using two. One is wallet and one is my day planner. I took a couple of days to personalize both. They're not 100% done but I like them the way they are right now.
 
 **Turned 19**
   
